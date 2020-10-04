@@ -1,5 +1,5 @@
 # Sales Dashboard
-How To Build And Deploy Your Dashboard With Python, Google Sheets, and Vue.js
+How To Build And Deploy Your Dashboard With Python, Google Cloud Services, and Vue.js
 ## Dashboard Screenshot
 ![Screenshot](./screenshots/dashboard.JPG?raw=true "Sales Dashboard")
 
