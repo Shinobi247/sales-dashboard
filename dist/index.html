@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Vue app-->
+        <v-app>
+            <v-content>
+                <v-app-bar dense app color="blue-grey lighten-5" clipped-left>
+                    <v-app-bar-nav-icon></v-app-bar-nav-icon>
+                    <v-toolbar-title class="headline text-uppercase">
+                        <span>Sales</span>
+                        <span class="font-weight-light">Dashboard</span>
+                    </v-toolbar-title>
+                    <v-spacer></v-spacer>
+                    <v-btn icon @click="getData">
+                        <v-icon>mdi-refresh</v-icon>
+                    </v-btn>
+                </v-app-bar>
+                <v-container fluid v-if="!loading">
+                    <v-row>
+                        <v-col>
+                            <v-card>
+                                <v-card-title><span class="font-weight-light">Sales | </span>
+                                    <span >Per Country</span></v-card-title>
+                                <ve-pie :data="salesPerCountry.data" :settings="salesPerCountry.settings"></ve-pie>
+                            </v-card>
+
+                        </v-col>
+                        <v-col>
+                            <v-card>
+                                <v-card-title><span class="font-weight-light">Sales |  </span>
+                                    <span > Per Category</span></v-card-title>
+                                <ve-bar :data="salesPerCategory.data" :settings="salesPerCategory.settings"></ve-bar>
+                            </v-card>
+                        </v-col>
+                    </v-row>
+                    <v-row>
+                        <v-col>
+                            <v-card>
+                                <v-card-title><span class="font-weight-light">Sales |  </span>
+                                    <span > Per Year</span></v-card-title>
+                                <ve-histogram :data="salesPerYear.data" :settings="salesPerYear.settings"></ve-histogram>
+                            </v-card>
+                        </v-col>
+                    </v-row>
+                </v-container>
+                <v-container fluid v-else>
+                    <v-row>
+                        <v-col>
+                            <v-skeleton-loader type="card" height="500"></v-skeleton-loader>
+                        </v-col>
+                        <v-col>
+                            <v-skeleton-loader type="card" height="500"></v-skeleton-loader>
+                        </v-col>
+                    </v-row>
+                    <v-row>
+                        <v-col>
+                            <v-skeleton-loader class="mx-auto" type="card"></v-skeleton-loader>
+                        </v-col>
+                    </v-row>
+                </v-container>
+            </v-content>
+        </v-app>
+    </div>
+    <!-- loading dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@4.8.0/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.2.6/dist/vuetify.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/v-charts@1.19.0/lib/index.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/v-charts/lib/style.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.20.0-0/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.20/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/interactjs@1.9.22/dist/interact.min.js"></script>
+    <script>
+        /**
+         * Provide utilies function to fetch data from a google sheet id
+         */
+        class Gsheet {
+            constructor(sheetId, apiKey) {
+                this.sheetId = sheetId
+                this.apiKey = apiKey
+                this.sheets = {}
+                this.data = []
+            }
+
+            async fetch() {
+                this.sheets = await this.extract()
+                this.transform()
+                return this.data
+            }
+
+            async extract() {
+                return new Promise(async (resolve, reject) => {
+                    const {
+                        data
+                    } = await axios.get(
+                        `https://sheets.googleapis.com/v4/spreadsheets/${this.sheetId}?key=${this.apiKey}&includeGridData=true`
+                    )
+
+                    resolve(data.sheets)
+                })
+
+            }
+
+            transform() {
+                this.data = this.sheets.reduce((acc, sheet) => {
+                    const title = sheet.properties.title
+                    const data = this.parse(sheet)
+                    acc[title] = data
+                    return acc
+                }, {})
+
+            }
+
+            parse(sheet) {
+                const headers = this.extractHeadersFrom(sheet.data)
+                let data = sheet.data[0].rowData.slice(1)
+                let cleaned = []
+                data.forEach((row) => {
+                    const rowCleaned = this.extractDataFrom(row, headers)
+                    cleaned.push(rowCleaned)
+                })
+                return cleaned
+
+            }
+
+            extractHeadersFrom(sheetData) {
+                return sheetData[0].rowData[0].values.map(v => v.formattedValue).filter(v => v !== undefined)
+            }
+
+            extractDataFrom(row, headers) {
+                if (row.values.length !== headers.length) {
+                    row.values.push({
+                        formattedValue: null
+                    })
+                }
+
+                return row.values.reduce((acc, v, colIndex) => {
+                    try {
+                        const col = headers[colIndex]
+                        const data = v.formattedValue
+                        if (col !== undefined) {
+                            const isNumber = !isNaN(data)
+                            const isUndefined = data === undefined
+                            if (isNumber && !isUndefined) {
+                                acc[col] = +data
+                            } else if (!isNumber && !isUndefined) {
+                                acc[col] = data
+                            } else {
+                                acc[col] = null
+                            }
+                        }
+                    } catch (error) {}
+                    return acc
+                }, {})
+            }
+
+        }
+        const app = new Vue({
+            el: '#app',
+            vuetify: new Vuetify(),
+            created() {
+                this.ghseetClient = new Gsheet(
+                    '<SHEETAPIKEY>',
+                    '<APIKEY>')
+                this.getData()
+            },
+            data() {
+                return {
+                    loading: false,
+                    metrics: ['turnover', 'quantity'],
+                    ghseetClient: null,
+                    sheetData: {
+                        sales_per_country: '',
+                        sales_per_category: '',
+                        sales_per_year: ''
+                    }
+                }
+            },
+            methods: {
+                async getData() {
+                    this.loading = true
+                    this.sheetData = await this.ghseetClient.fetch()
+                    this.loading = false
+                }
+            },
+            computed: {
+                salesPerCountry() {
+                    const rows = this.sheetData['sales_per_country']
+                    const columns = Object.keys(rows[0])
+                    const settings = {
+                        metrics: ['turnover'],
+                        dimension: ['country']
+                    }
+
+                    const data = {
+                        columns,
+                        rows
+                    }
+
+                    return {
+                        data,
+                        settings
+                    }
+                },
+                salesPerCategory() {
+                    const rows = this.sheetData['sales_per_category']
+                    const columns = Object.keys(rows[0])
+                    const settings = {
+                        metrics: this.metrics,
+                        dimension: ['categoryname']
+                    }
+                    const data = {
+                        columns,
+                        rows
+                    }
+
+                    return {
+                        data,
+                        settings
+                    }
+
+                },
+                salesPerYear() {
+                    const rows = this.sheetData['sales_per_year']
+                    const columns = Object.keys(rows[0])
+
+                    const data = {
+                        columns,
+                        rows
+                    }
+                    const settings = {
+                        metrics: this.metrics,
+                        dimension: ['year']
+                    }
+                    return {
+                        data,
+                        settings
+                    }
+
+                }
+            },
+
+        })
+    </script>
+</body>
+</html>

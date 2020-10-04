@@ -1,0 +1,2156 @@
+year,month,orderdate,turnover,quantity,country,city,productname,categoryname
+2016,6,2016-06-29,168,12,France,Reims,Queso Cabrales,Dairy Products
+2016,6,2016-06-29,98.00000191,10,France,Reims,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,6,2016-06-29,173.9999962,5,France,Reims,Mozzarella di Giovanni,Dairy Products
+2016,6,2016-06-30,167.4000034,9,Germany,Münster,Tofu,Produce
+2016,6,2016-06-30,1696.000061,40,Germany,Münster,Manjimup Dried Apples,Produce
+2016,7,2016-07-03,76.99999809,10,Brazil,Rio de Janeiro,Jack's New England Clam Chowder,Seafood
+2016,7,2016-07-03,1484.000053,35,Brazil,Rio de Janeiro,Manjimup Dried Apples,Produce
+2016,7,2016-07-03,251.9999886,15,Brazil,Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,7,2016-07-03,100.7999954,6,France,Lyon,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2016,7,2016-07-03,234.0000057,15,France,Lyon,Ravioli Angelo,Grains/Cereals
+2016,7,2016-07-03,335.9999847,20,France,Lyon,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,7,2016-07-04,2592.000122,40,Belgium,Charleroi,Sir Rodney's Marmalade,Confections
+2016,7,2016-07-04,50,25,Belgium,Charleroi,Geitost,Dairy Products
+2016,7,2016-07-04,1088.000031,40,Belgium,Charleroi,Camembert Pierrot,Dairy Products
+2016,7,2016-07-05,200,20,Brazil,Rio de Janeiro,Gorgonzola Telino,Dairy Products
+2016,7,2016-07-05,604.799984,42,Brazil,Rio de Janeiro,Chartreuse verte,Beverages
+2016,7,2016-07-05,640,40,Brazil,Rio de Janeiro,Maxilaku,Confections
+2016,7,2016-07-06,53.99999857,15,Switzerland,Bern,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,7,2016-07-06,403.200016,21,Switzerland,Bern,PÃ¢tÃ© chinois,Meat/Poultry
+2016,7,2016-07-06,168,21,Switzerland,Bern,Longlife Tofu,Produce
+2016,7,2016-07-07,303.9999962,20,Switzerland,Genève,Chang,Beverages
+2016,7,2016-07-07,486.4999866,35,Switzerland,Genève,Pavlova,Confections
+2016,7,2016-07-07,379.9999952,25,Switzerland,Genève,Inlagd Sill,Seafood
+2016,7,2016-07-07,1320,30,Switzerland,Genève,Raclette Courdavault,Dairy Products
+2016,7,2016-07-10,393.0000114,15,Brazil,Resende,Perth Pasties,Meat/Poultry
+2016,7,2016-07-10,124.7999954,12,Brazil,Resende,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,7,2016-07-11,877.4999619,25,Venezuela,San Cristóbal,Schoggi Schokolade,Confections
+2016,7,2016-07-11,86.39999771,6,Venezuela,San Cristóbal,Chartreuse verte,Beverages
+2016,7,2016-07-11,155.9999943,15,Venezuela,San Cristóbal,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,7,2016-07-12,759.9999905,50,Austria,Graz,Chang,Beverages
+2016,7,2016-07-12,1105,65,Austria,Graz,Chef Anton's Gumbo Mix,Condiments
+2016,7,2016-07-12,153.6000023,6,Austria,Graz,Mascarpone Fabioli,Dairy Products
+2016,7,2016-07-13,80,10,Mexico,México D.F.,Sir Rodney's Scones,Confections
+2016,7,2016-07-13,20.79999924,1,Mexico,México D.F.,Gravad lax,Seafood
+2016,7,2016-07-14,123.1999969,16,Germany,Köln,Jack's New England Clam Chowder,Seafood
+2016,7,2016-07-14,780.0000191,50,Germany,Köln,Ravioli Angelo,Grains/Cereals
+2016,7,2016-07-14,591.0000229,15,Germany,Köln,Tarte au sucre,Confections
+2016,7,2016-07-14,252,21,Germany,Köln,Outback Lager,Beverages
+2016,7,2016-07-14,160,20,Brazil,Rio de Janeiro,Sir Rodney's Scones,Confections
+2016,7,2016-07-14,287.9999924,20,Brazil,Rio de Janeiro,Steeleye Stout,Beverages
+2016,7,2016-07-17,204,12,USA,Albuquerque,Chef Anton's Gumbo Mix,Condiments
+2016,7,2016-07-17,360,15,USA,Albuquerque,Uncle Bob's Organic Dried Pears,Produce
+2016,7,2016-07-17,60.79999924,2,USA,Albuquerque,Gnocchi di nonna Alice,Grains/Cereals
+2016,7,2016-07-18,833.9999771,60,Austria,Graz,Pavlova,Confections
+2016,7,2016-07-18,100.7999973,28,Austria,Graz,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,7,2016-07-18,1242.000046,60,Austria,Graz,Nord-Ost Matjeshering,Seafood
+2016,7,2016-07-18,288,36,Austria,Graz,Longlife Tofu,Produce
+2016,7,2016-07-19,531.9999933,35,Sweden,Bräcke,Chang,Beverages
+2016,7,2016-07-19,192.4999952,25,Sweden,Bräcke,Jack's New England Clam Chowder,Seafood
+2016,7,2016-07-20,936.0000229,30,France,Strasbourg,Alice Mutton,Meat/Poultry
+2016,7,2016-07-20,240,20,France,Strasbourg,Outback Lager,Beverages
+2016,7,2016-07-21,364.7999954,12,Finland,Oulu,Queso Manchego La Pastora,Dairy Products
+2016,7,2016-07-24,734.9999905,50,Germany,München,Boston Crab Meat,Seafood
+2016,7,2016-07-24,3080,70,Germany,München,Raclette Courdavault,Dairy Products
+2016,7,2016-07-24,215.9999943,15,Germany,München,LakkalikÃ¶Ã¶ri,Beverages
+2016,7,2016-07-25,990,10,Venezuela,Caracas,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,7,2016-07-25,111.1999969,4,Venezuela,Caracas,Mozzarella di Giovanni,Dairy Products
+2016,7,2016-07-26,120,60,USA,Seattle,Geitost,Dairy Products
+2016,7,2016-07-26,555.9999847,20,USA,Seattle,Mozzarella di Giovanni,Dairy Products
+2016,7,2016-07-27,455.9999943,30,Finland,Oulu,Inlagd Sill,Seafood
+2016,7,2016-07-27,919.9999809,25,Finland,Oulu,Ipoh Coffee,Beverages
+2016,7,2016-07-27,48,24,USA,Lander,Geitost,Dairy Products
+2016,7,2016-07-28,388.8000183,6,USA,Albuquerque,Sir Rodney's Marmalade,Confections
+2016,7,2016-07-28,400,40,USA,Albuquerque,Gorgonzola Telino,Dairy Products
+2016,7,2016-07-28,667.1999817,24,USA,Albuquerque,Mozzarella di Giovanni,Dairy Products
+2016,7,2016-07-31,595.1999817,24,Germany,Cunewalde,Ikura,Seafood
+2016,7,2016-07-31,150,15,Germany,Cunewalde,Gorgonzola Telino,Dairy Products
+2016,7,2016-07-31,40,20,Germany,Cunewalde,Geitost,Dairy Products
+2016,7,2016-07-31,881.9999886,60,Germany,Cunewalde,Boston Crab Meat,Seafood
+2016,7,2016-07-31,475.1999874,33,Germany,Cunewalde,LakkalikÃ¶Ã¶ri,Beverages
+2016,8,2016-08-01,344.0000153,20,France,Reims,Flotemysost,Dairy Products
+2016,8,2016-08-01,194.5999947,7,France,Reims,Mozzarella di Giovanni,Dairy Products
+2016,8,2016-08-02,43.19999886,12,Italy,Bergamo,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,8,2016-08-02,264,6,Italy,Bergamo,Raclette Courdavault,Dairy Products
+2016,8,2016-08-03,371.9999886,15,Mexico,México D.F.,Ikura,Seafood
+2016,8,2016-08-03,48.00000191,10,Mexico,México D.F.,Konbu,Seafood
+2016,8,2016-08-04,728.0000305,20,Germany,Leipzig,RÃ¶ssle Sauerkraut,Produce
+2016,8,2016-08-04,472.8000183,12,Germany,Leipzig,Tarte au sucre,Confections
+2016,8,2016-08-07,248,16,Sweden,Luleå,Gula Malacca,Condiments
+2016,8,2016-08-07,660,15,Sweden,Luleå,Raclette Courdavault,Dairy Products
+2016,8,2016-08-07,280.7999878,8,Sweden,Luleå,Vegie-spread,Condiments
+2016,8,2016-08-07,300,25,Sweden,Luleå,RÃ¶d Kaviar,Seafood
+2016,8,2016-08-08,468.0000114,15,Germany,Frankfurt a.M.,Alice Mutton,Meat/Poultry
+2016,8,2016-08-09,43.19999886,12,Sweden,Luleå,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,8,2016-08-09,384.0000153,20,Sweden,Luleå,PÃ¢tÃ© chinois,Meat/Poultry
+2016,8,2016-08-09,185.9999943,30,Sweden,Luleå,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,8,2016-08-09,7.300000191,1,Spain,Madrid,Teatime Chocolate Biscuits,Confections
+2016,8,2016-08-09,21.59999943,6,Spain,Madrid,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,8,2016-08-09,57.59999847,4,Spain,Madrid,Steeleye Stout,Beverages
+2016,8,2016-08-10,124.2000046,6,Spain,Madrid,Nord-Ost Matjeshering,Seafood
+2016,8,2016-08-10,31.20000076,2,Spain,Madrid,Ravioli Angelo,Grains/Cereals
+2016,8,2016-08-11,247.9999924,20,Venezuela,Barquisimeto,Genen Shouyu,Condiments
+2016,8,2016-08-11,131.4000034,18,Venezuela,Barquisimeto,Teatime Chocolate Biscuits,Confections
+2016,8,2016-08-11,952.0000267,35,Venezuela,Barquisimeto,Camembert Pierrot,Dairy Products
+2016,8,2016-08-11,83.39999771,3,Venezuela,Barquisimeto,Mozzarella di Giovanni,Dairy Products
+2016,8,2016-08-14,526.4999771,15,Germany,Frankfurt a.M.,Schoggi Schokolade,Confections
+2016,8,2016-08-14,325.5,21,Germany,Frankfurt a.M.,Gula Malacca,Condiments
+2016,8,2016-08-14,544.0000153,20,Germany,Frankfurt a.M.,Camembert Pierrot,Dairy Products
+2016,8,2016-08-14,55.99999905,5,Germany,Frankfurt a.M.,Laughing Lumberjack Lager,Beverages
+2016,8,2016-08-15,647.9999828,45,Germany,Cunewalde,Chai,Beverages
+2016,8,2016-08-15,587.9999924,40,Germany,Cunewalde,Boston Crab Meat,Seafood
+2016,8,2016-08-15,943.2000275,36,Germany,Cunewalde,Perth Pasties,Meat/Poultry
+2016,8,2016-08-16,1439.999962,100,Germany,Cunewalde,Steeleye Stout,Beverages
+2016,8,2016-08-16,1576.000061,40,Germany,Cunewalde,Tarte au sucre,Confections
+2016,8,2016-08-17,555.9999847,40,Brazil,Rio de Janeiro,Pavlova,Confections
+2016,8,2016-08-17,223.9999962,20,Brazil,Rio de Janeiro,Sasquatch Ale,Beverages
+2016,8,2016-08-17,144.0000057,15,Brazil,Rio de Janeiro,Spegesild,Seafood
+2016,8,2016-08-18,59.00000095,10,Italy,Reggio Emilia,TourtiÃ¨re,Meat/Poultry
+2016,8,2016-08-18,30,3,Italy,Reggio Emilia,Scottish Longbreads,Confections
+2016,8,2016-08-21,240,30,UK,London,Aniseed Syrup,Condiments
+2016,8,2016-08-21,239.4000034,9,UK,London,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2016,8,2016-08-22,340,20,Brazil,Sao Paulo,Chef Anton's Gumbo Mix,Condiments
+2016,8,2016-08-22,1485,15,Brazil,Sao Paulo,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,8,2016-08-22,240,15,Brazil,Sao Paulo,Maxilaku,Confections
+2016,8,2016-08-22,103.9999962,10,Brazil,Sao Paulo,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,8,2016-08-22,96.00000381,20,Brazil,Rio de Janeiro,Konbu,Seafood
+2016,8,2016-08-22,372,24,Brazil,Rio de Janeiro,Gula Malacca,Condiments
+2016,8,2016-08-22,84.80000305,2,Brazil,Rio de Janeiro,Manjimup Dried Apples,Produce
+2016,8,2016-08-23,1296.000061,20,Brazil,Sao Paulo,Sir Rodney's Marmalade,Confections
+2016,8,2016-08-24,600,12,Mexico,México D.F.,Carnarvon Tigers,Seafood
+2016,8,2016-08-24,35.99999905,10,Mexico,México D.F.,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,8,2016-08-24,175.4999924,5,Mexico,México D.F.,Vegie-spread,Condiments
+2016,8,2016-08-24,37.19999886,6,Mexico,México D.F.,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,8,2016-08-25,259.1999931,18,USA,Albuquerque,Chai,Beverages
+2016,8,2016-08-25,468.0000114,15,USA,Albuquerque,Alice Mutton,Meat/Poultry
+2016,8,2016-08-25,551.9999886,15,USA,Albuquerque,Ipoh Coffee,Beverages
+2016,8,2016-08-25,571.200016,21,USA,Albuquerque,Camembert Pierrot,Dairy Products
+2016,8,2016-08-25,37.19999886,6,USA,Albuquerque,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,8,2016-08-28,121.5999985,4,France,Reims,Gnocchi di nonna Alice,Grains/Cereals
+2016,8,2016-08-29,201.5999908,12,Venezuela,Barquisimeto,Queso Cabrales,Dairy Products
+2016,8,2016-08-29,416.9999886,30,Venezuela,Barquisimeto,Pavlova,Confections
+2016,8,2016-08-29,431.9999886,15,Venezuela,Barquisimeto,Gudbrandsdalsost,Dairy Products
+2016,8,2016-08-30,863.9999771,60,France,Strasbourg,Chartreuse verte,Beverages
+2016,8,2016-08-30,555.9999847,20,France,Strasbourg,Mozzarella di Giovanni,Dairy Products
+2016,8,2016-08-31,607.9999924,40,Ireland,Cork,Chang,Beverages
+2016,8,2016-08-31,607.9999924,40,Ireland,Cork,Inlagd Sill,Seafood
+2016,8,2016-08-31,1320,30,Ireland,Cork,Raclette Courdavault,Dairy Products
+2016,8,2016-08-31,591.0000229,15,Ireland,Cork,Tarte au sucre,Confections
+2016,9,2016-09-01,109.5000029,15,Brazil,Rio de Janeiro,Teatime Chocolate Biscuits,Confections
+2016,9,2016-09-01,240,20,Brazil,Rio de Janeiro,Outback Lager,Beverages
+2016,9,2016-09-04,408.0000114,30,Italy,Bergamo,Louisiana Hot Spiced Okra,Condiments
+2016,9,2016-09-04,200,20,Italy,Bergamo,Scottish Longbreads,Confections
+2016,9,2016-09-04,146.9999981,10,Germany,Stuttgart,Boston Crab Meat,Seafood
+2016,9,2016-09-04,607.9999924,20,Germany,Stuttgart,Gnocchi di nonna Alice,Grains/Cereals
+2016,9,2016-09-05,1248.000031,40,Belgium,Charleroi,Alice Mutton,Meat/Poultry
+2016,9,2016-09-05,1019.200043,28,Belgium,Charleroi,RÃ¶ssle Sauerkraut,Produce
+2016,9,2016-09-05,441.5999908,12,Belgium,Charleroi,Ipoh Coffee,Beverages
+2016,9,2016-09-06,587.9999924,40,Spain,Sevilla,Boston Crab Meat,Seafood
+2016,9,2016-09-06,503.9999771,30,Spain,Sevilla,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,9,2016-09-06,150,15,Spain,Sevilla,Scottish Longbreads,Confections
+2016,9,2016-09-07,480,30,Mexico,México D.F.,Maxilaku,Confections
+2016,9,2016-09-07,440,10,Mexico,México D.F.,Raclette Courdavault,Dairy Products
+2016,9,2016-09-07,34.40000153,2,Mexico,México D.F.,Flotemysost,Dairy Products
+2016,9,2016-09-08,1250,25,USA,Anchorage,Carnarvon Tigers,Seafood
+2016,9,2016-09-08,2475,25,USA,Anchorage,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,9,2016-09-08,431.9999886,30,USA,Anchorage,Chartreuse verte,Beverages
+2016,9,2016-09-11,207.0000076,10,Spain,Madrid,Nord-Ost Matjeshering,Seafood
+2016,9,2016-09-11,262.0000076,10,Spain,Madrid,Perth Pasties,Meat/Poultry
+2016,9,2016-09-11,29.50000048,5,Spain,Madrid,TourtiÃ¨re,Meat/Poultry
+2016,9,2016-09-12,394.0000153,10,USA,Portland,Tarte au sucre,Confections
+2016,9,2016-09-12,30,3,USA,Portland,Scottish Longbreads,Confections
+2016,9,2016-09-13,28.79999924,1,Mexico,México D.F.,Gudbrandsdalsost,Dairy Products
+2016,9,2016-09-13,60,5,Mexico,México D.F.,Outback Lager,Beverages
+2016,9,2016-09-14,352.0000076,20,Ireland,Cork,Chef Anton's Cajun Seasoning,Condiments
+2016,9,2016-09-14,600,30,Ireland,Cork,Grandma's Boysenberry Spread,Condiments
+2016,9,2016-09-14,22.39999962,2,Ireland,Cork,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,9,2016-09-14,735.9999847,20,Ireland,Cork,Ipoh Coffee,Beverages
+2016,9,2016-09-14,51.60000229,3,Ireland,Cork,Flotemysost,Dairy Products
+2016,9,2016-09-15,138.9999962,10,USA,Portland,Pavlova,Confections
+2016,9,2016-09-15,197.0000076,5,USA,Portland,Tarte au sucre,Confections
+2016,9,2016-09-15,67.19999886,6,France,Nantes,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,9,2016-09-15,201.5999947,7,France,Nantes,Gudbrandsdalsost,Dairy Products
+2016,9,2016-09-18,145.6000061,4,Germany,Stuttgart,RÃ¶ssle Sauerkraut,Produce
+2016,9,2016-09-18,883.1999817,24,Germany,Stuttgart,Ipoh Coffee,Beverages
+2016,9,2016-09-18,524.0000153,20,Germany,Stuttgart,Perth Pasties,Meat/Poultry
+2016,9,2016-09-18,61.99999809,10,Germany,Stuttgart,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,9,2016-09-19,182.3999977,12,Germany,Cunewalde,Inlagd Sill,Seafood
+2016,9,2016-09-20,1024.000015,40,USA,Albuquerque,Mascarpone Fabioli,Dairy Products
+2016,9,2016-09-20,318.0000114,30,USA,Albuquerque,Escargots de Bourgogne,Seafood
+2016,9,2016-09-20,985.0000381,25,USA,Albuquerque,Tarte au sucre,Confections
+2016,9,2016-09-21,156.7999973,14,UK,Cowes,Sasquatch Ale,Beverages
+2016,9,2016-09-21,360,30,UK,Cowes,Outback Lager,Beverages
+2016,9,2016-09-22,76.99999809,10,USA,Albuquerque,Jack's New England Clam Chowder,Seafood
+2016,9,2016-09-22,2758.000107,70,USA,Albuquerque,Tarte au sucre,Confections
+2016,9,2016-09-25,287.9999924,20,USA,Portland,Chai,Beverages
+2016,9,2016-09-26,153.9999962,20,UK,Cowes,Jack's New England Clam Chowder,Seafood
+2016,9,2016-09-26,86.39999771,6,UK,Cowes,LakkalikÃ¶Ã¶ri,Beverages
+2016,9,2016-09-27,249.6000061,8,Mexico,México D.F.,Alice Mutton,Meat/Poultry
+2016,9,2016-09-27,509.6000214,14,Mexico,México D.F.,RÃ¶ssle Sauerkraut,Produce
+2016,9,2016-09-27,431.9999886,30,Mexico,México D.F.,LakkalikÃ¶Ã¶ri,Beverages
+2016,9,2016-09-28,516.0000229,30,Finland,Oulu,Flotemysost,Dairy Products
+2016,9,2016-09-28,143.9999962,10,UK,Cowes,Steeleye Stout,Beverages
+2016,9,2016-09-29,111.9999981,20,Mexico,México D.F.,Filo Mix,Grains/Cereals
+2016,10,2016-10-02,61.99999809,5,Germany,Brandenburg,Genen Shouyu,Condiments
+2016,10,2016-10-02,44.79999924,4,Germany,Brandenburg,NuNuCa NuÃ-Nougat-Creme,Confections
+2016,10,2016-10-02,57.59999847,4,Germany,Brandenburg,Chartreuse verte,Beverages
+2016,10,2016-10-03,291.899992,21,USA,Boise,Pavlova,Confections
+2016,10,2016-10-03,1007.999973,70,USA,Boise,Steeleye Stout,Beverages
+2016,10,2016-10-03,288.0000114,30,USA,Boise,Spegesild,Seafood
+2016,10,2016-10-03,1760,40,USA,Boise,Raclette Courdavault,Dairy Products
+2016,10,2016-10-03,2807.999878,80,USA,Boise,Vegie-spread,Condiments
+2016,10,2016-10-04,120,6,Germany,Brandenburg,Grandma's Boysenberry Spread,Condiments
+2016,10,2016-10-04,57.60000229,12,Germany,Brandenburg,Konbu,Seafood
+2016,10,2016-10-04,167.4000034,9,Germany,Brandenburg,Tofu,Produce
+2016,10,2016-10-04,40,4,Germany,Brandenburg,Gorgonzola Telino,Dairy Products
+2016,10,2016-10-04,1111.999969,40,Germany,Brandenburg,Mozzarella di Giovanni,Dairy Products
+2016,10,2016-10-05,422.4000092,24,Spain,Madrid,Chef Anton's Cajun Seasoning,Condiments
+2016,10,2016-10-05,249.6000061,16,Spain,Madrid,Ravioli Angelo,Grains/Cereals
+2016,10,2016-10-05,309.9999905,50,Spain,Madrid,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,10,2016-10-06,379.9999952,25,Sweden,Bräcke,Chang,Beverages
+2016,10,2016-10-06,839.9999619,50,Sweden,Bräcke,Queso Cabrales,Dairy Products
+2016,10,2016-10-06,724.5000267,35,Sweden,Bräcke,Nord-Ost Matjeshering,Seafood
+2016,10,2016-10-06,318.0000114,30,Sweden,Bräcke,Escargots de Bourgogne,Seafood
+2016,10,2016-10-09,396,9,Portugal,Lisboa,Raclette Courdavault,Dairy Products
+2016,10,2016-10-09,671.9999695,40,Portugal,Lisboa,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,10,2016-10-09,100,10,Portugal,Lisboa,Scottish Longbreads,Confections
+2016,10,2016-10-10,73.00000191,10,USA,Lander,Teatime Chocolate Biscuits,Confections
+2016,10,2016-10-10,165.6000061,8,USA,Lander,Nord-Ost Matjeshering,Seafood
+2016,10,2016-10-10,4216.000061,20,USA,Lander,CÃ´te de Blaye,Beverages
+2016,10,2016-10-10,364.7999954,12,USA,Lander,Gnocchi di nonna Alice,Grains/Cereals
+2016,10,2016-10-11,1244.999981,50,Venezuela,Barquisimeto,GumbÃ¤r GummibÃ¤rchen,Confections
+2016,10,2016-10-11,694.9999809,25,Venezuela,Barquisimeto,Mozzarella di Giovanni,Dairy Products
+2016,10,2016-10-11,88.50000143,15,France,Marseille,TourtiÃ¨re,Meat/Poultry
+2016,10,2016-10-12,2000,40,Canada,Montréal,Carnarvon Tigers,Seafood
+2016,10,2016-10-12,111.9999981,10,Canada,Montréal,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,10,2016-10-12,121.5999985,16,Canada,Montréal,Zaanse koeken,Confections
+2016,10,2016-10-13,186.0000038,10,Finland,Oulu,Tofu,Produce
+2016,10,2016-10-13,80,10,Finland,Oulu,Sir Rodney's Scones,Confections
+2016,10,2016-10-13,688.0000305,40,Finland,Oulu,Flotemysost,Dairy Products
+2016,10,2016-10-16,44.79999924,8,France,Lyon,Filo Mix,Grains/Cereals
+2016,10,2016-10-16,100,10,France,Lyon,Scottish Longbreads,Confections
+2016,10,2016-10-17,106.3999987,7,Ireland,Cork,Chang,Beverages
+2016,10,2016-10-17,250,25,Ireland,Cork,Gorgonzola Telino,Dairy Products
+2016,10,2016-10-17,153.6000023,6,Ireland,Cork,Mascarpone Fabioli,Dairy Products
+2016,10,2016-10-17,2035.200073,48,Ireland,Cork,Manjimup Dried Apples,Produce
+2016,10,2016-10-18,316.8000069,18,Portugal,Lisboa,Chef Anton's Cajun Seasoning,Condiments
+2016,10,2016-10-19,287.9999924,40,Germany,München,TunnbrÃ¶d,Grains/Cereals
+2016,10,2016-10-19,597.5999908,24,Germany,München,GumbÃ¤r GummibÃ¤rchen,Confections
+2016,10,2016-10-19,303.9999962,20,Germany,München,Inlagd Sill,Seafood
+2016,10,2016-10-19,582.3999786,28,Germany,München,Gravad lax,Seafood
+2016,10,2016-10-19,694.9999809,25,Germany,München,Mozzarella di Giovanni,Dairy Products
+2016,10,2016-10-20,624.0000153,20,USA,Anchorage,Alice Mutton,Meat/Poultry
+2016,10,2016-10-20,310.5000114,15,USA,Anchorage,Nord-Ost Matjeshering,Seafood
+2016,10,2016-10-23,176.0000038,10,Canada,Montréal,Chef Anton's Cajun Seasoning,Condiments
+2016,10,2016-10-23,2184.000053,70,Canada,Montréal,Alice Mutton,Meat/Poultry
+2016,10,2016-10-23,1103.200043,28,Canada,Montréal,Tarte au sucre,Confections
+2016,10,2016-10-24,1000,20,France,Marseille,Carnarvon Tigers,Seafood
+2016,10,2016-10-24,92.39999771,12,France,Marseille,Jack's New England Clam Chowder,Seafood
+2016,10,2016-10-24,1471.999969,40,France,Marseille,Ipoh Coffee,Beverages
+2016,10,2016-10-24,16,8,Denmark,Kobenhavn,Geitost,Dairy Products
+2016,10,2016-10-24,396,9,Denmark,Kobenhavn,Raclette Courdavault,Dairy Products
+2016,10,2016-10-25,364.7999954,24,Germany,München,Chang,Beverages
+2016,10,2016-10-25,560,56,Germany,München,Gorgonzola Telino,Dairy Products
+2016,10,2016-10-25,607.9999924,40,Germany,München,Inlagd Sill,Seafood
+2016,10,2016-10-25,768.0000305,40,Germany,München,PÃ¢tÃ© chinois,Meat/Poultry
+2016,10,2016-10-26,1330.000019,50,Germany,Frankfurt a.M.,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2016,10,2016-10-26,40,4,Germany,Frankfurt a.M.,Scottish Longbreads,Confections
+2016,10,2016-10-26,215.9999943,15,Germany,Frankfurt a.M.,LakkalikÃ¶Ã¶ri,Beverages
+2016,10,2016-10-27,616.0000134,35,USA,Seattle,Chef Anton's Cajun Seasoning,Condiments
+2016,10,2016-10-27,2240,70,USA,Seattle,Northwoods Cranberry Sauce,Condiments
+2016,10,2016-10-30,2240,70,Germany,Cunewalde,Northwoods Cranberry Sauce,Condiments
+2016,10,2016-10-30,584.0000153,80,Germany,Cunewalde,Teatime Chocolate Biscuits,Confections
+2016,10,2016-10-30,100.7999983,9,Germany,Cunewalde,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,10,2016-10-31,1123.200027,36,USA,Albuquerque,Alice Mutton,Meat/Poultry
+2016,10,2016-10-31,607.9999924,20,USA,Albuquerque,Gnocchi di nonna Alice,Grains/Cereals
+2016,11,2016-11-01,111.9999981,10,Brazil,Sao Paulo,NuNuCa NuÃ-Nougat-Creme,Confections
+2016,11,2016-11-01,719.9999809,50,Brazil,Sao Paulo,Chartreuse verte,Beverages
+2016,11,2016-11-01,58.79999924,4,Brazil,Sao Paulo,Boston Crab Meat,Seafood
+2016,11,2016-11-01,37.19999886,6,Brazil,Sao Paulo,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,11,2016-11-02,215.9999943,15,Germany,Stuttgart,Chai,Beverages
+2016,11,2016-11-02,179.9999952,25,Germany,Stuttgart,TunnbrÃ¶d,Grains/Cereals
+2016,11,2016-11-03,141.6000023,24,USA,Lander,TourtiÃ¨re,Meat/Poultry
+2016,11,2016-11-06,195,15,France,Toulouse,Valkoinen suklaa,Confections
+2016,11,2016-11-06,518.3999863,18,France,Toulouse,Gudbrandsdalsost,Dairy Products
+2016,11,2016-11-06,4216.000061,20,Austria,Graz,CÃ´te de Blaye,Beverages
+2016,11,2016-11-06,100.0999975,13,Austria,Graz,Jack's New England Clam Chowder,Seafood
+2016,11,2016-11-06,1193.5,77,Austria,Graz,Gula Malacca,Condiments
+2016,11,2016-11-06,167.9999924,10,Austria,Graz,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,11,2016-11-07,35.99999905,10,Portugal,Lisboa,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,11,2016-11-07,118.0000019,20,Portugal,Lisboa,TourtiÃ¨re,Meat/Poultry
+2016,11,2016-11-08,201.5999908,12,Austria,Salzburg,Queso Cabrales,Dairy Products
+2016,11,2016-11-08,10540.00015,50,Austria,Salzburg,CÃ´te de Blaye,Beverages
+2016,11,2016-11-09,172.7999954,12,Mexico,México D.F.,Chai,Beverages
+2016,11,2016-11-09,396,4,Mexico,México D.F.,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,11,2016-11-10,89.99999762,25,UK,London,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,11,2016-11-10,390.0000095,25,UK,London,Ravioli Angelo,Grains/Cereals
+2016,11,2016-11-13,300,30,Germany,Stuttgart,Gorgonzola Telino,Dairy Products
+2016,11,2016-11-13,230.4000092,12,Germany,Stuttgart,PÃ¢tÃ© chinois,Meat/Poultry
+2016,11,2016-11-13,575.9999847,20,Germany,Stuttgart,Gudbrandsdalsost,Dairy Products
+2016,11,2016-11-14,743.9999771,30,Venezuela,Barquisimeto,Ikura,Seafood
+2016,11,2016-11-14,398.3999939,16,Venezuela,Barquisimeto,GumbÃ¤r GummibÃ¤rchen,Confections
+2016,11,2016-11-14,217.6000061,8,Venezuela,Barquisimeto,Camembert Pierrot,Dairy Products
+2016,11,2016-11-15,35.99999905,10,France,Toulouse,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,11,2016-11-15,111.9999981,10,France,Toulouse,Sasquatch Ale,Beverages
+2016,11,2016-11-15,303.9999962,20,France,Toulouse,Inlagd Sill,Seafood
+2016,11,2016-11-16,778.3999786,56,UK,London,Pavlova,Confections
+2016,11,2016-11-16,700,70,UK,London,Gorgonzola Telino,Dairy Products
+2016,11,2016-11-16,2176.000061,80,UK,London,Camembert Pierrot,Dairy Products
+2016,11,2016-11-17,1092.000046,30,France,Strasbourg,RÃ¶ssle Sauerkraut,Produce
+2016,11,2016-11-17,3465,35,France,Strasbourg,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,11,2016-11-17,2108.000031,10,France,Strasbourg,CÃ´te de Blaye,Beverages
+2016,11,2016-11-17,560,35,France,Strasbourg,Maxilaku,Confections
+2016,11,2016-11-17,165.2000027,28,France,Strasbourg,TourtiÃ¨re,Meat/Poultry
+2016,11,2016-11-17,777.5999794,54,Germany,Cunewalde,Chartreuse verte,Beverages
+2016,11,2016-11-17,1496.000042,55,Germany,Cunewalde,Camembert Pierrot,Dairy Products
+2016,11,2016-11-20,559.9999905,50,France,Marseille,NuNuCa NuÃ-Nougat-Creme,Confections
+2016,11,2016-11-20,848.0000305,20,France,Marseille,Manjimup Dried Apples,Produce
+2016,11,2016-11-20,141.6000023,24,France,Marseille,TourtiÃ¨re,Meat/Poultry
+2016,11,2016-11-21,200,20,Germany,Aachen,Gorgonzola Telino,Dairy Products
+2016,11,2016-11-21,74.39999771,12,Germany,Aachen,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2016,11,2016-11-21,172.7999954,12,Germany,Aachen,LakkalikÃ¶Ã¶ri,Beverages
+2016,11,2016-11-21,863.9999771,30,UK,London,Gudbrandsdalsost,Dairy Products
+2016,11,2016-11-21,86.00000381,5,UK,London,Flotemysost,Dairy Products
+2016,11,2016-11-22,403.1999817,24,Mexico,México D.F.,Queso Cabrales,Dairy Products
+2016,11,2016-11-23,83.99999619,5,Spain,Barcelona,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,11,2016-11-23,51.99999809,5,Spain,Barcelona,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,11,2016-11-23,403.1999931,36,Denmark,Århus,Sasquatch Ale,Beverages
+2016,11,2016-11-23,106.2000017,18,Denmark,Århus,TourtiÃ¨re,Meat/Poultry
+2016,11,2016-11-23,251.9999886,15,Denmark,Århus,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,11,2016-11-23,72.79999733,7,Denmark,Århus,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,11,2016-11-24,40,5,Austria,Graz,Sir Rodney's Scones,Confections
+2016,11,2016-11-24,473.2000198,13,Austria,Graz,RÃ¶ssle Sauerkraut,Produce
+2016,11,2016-11-24,390.0000095,25,Austria,Graz,Ravioli Angelo,Grains/Cereals
+2016,11,2016-11-24,931.0000134,35,Austria,Graz,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2016,11,2016-11-27,1980,20,USA,Lander,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,11,2016-11-27,547.1999931,18,USA,Lander,Gnocchi di nonna Alice,Grains/Cereals
+2016,11,2016-11-28,215.9999943,15,Switzerland,Bern,Chai,Beverages
+2016,11,2016-11-28,798.0000114,30,Switzerland,Bern,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2016,11,2016-11-28,160,20,Switzerland,Bern,Longlife Tofu,Produce
+2016,11,2016-11-28,91.19999886,6,France,Toulouse,Inlagd Sill,Seafood
+2016,11,2016-11-29,777.6000366,12,Brazil,Sao Paulo,Sir Rodney's Marmalade,Confections
+2016,11,2016-11-29,8432.000122,40,Brazil,Sao Paulo,CÃ´te de Blaye,Beverages
+2016,11,2016-11-29,1904.000053,70,Brazil,Sao Paulo,Camembert Pierrot,Dairy Products
+2016,11,2016-11-29,1167.599968,42,Brazil,Sao Paulo,Mozzarella di Giovanni,Dairy Products
+2016,11,2016-11-30,848.0000305,80,Ireland,Cork,Escargots de Bourgogne,Seafood
+2016,11,2016-11-30,860.0000381,50,Ireland,Cork,Flotemysost,Dairy Products
+2016,11,2016-11-30,300,30,Poland,Warszawa,Gorgonzola Telino,Dairy Products
+2016,11,2016-11-30,159.0000057,15,Poland,Warszawa,Escargots de Bourgogne,Seafood
+2016,12,2016-12-01,279.0000057,15,USA,Elgin,Tofu,Produce
+2016,12,2016-12-01,59.00000095,10,USA,Elgin,TourtiÃ¨re,Meat/Poultry
+2016,12,2016-12-04,420,42,Canada,Montréal,Gorgonzola Telino,Dairy Products
+2016,12,2016-12-04,728.0000305,20,UK,London,RÃ¶ssle Sauerkraut,Produce
+2016,12,2016-12-04,287.9999924,20,UK,London,Chartreuse verte,Beverages
+2016,12,2016-12-05,103.2000046,6,Sweden,Bräcke,Flotemysost,Dairy Products
+2016,12,2016-12-06,61.59999847,8,Brazil,Rio de Janeiro,Jack's New England Clam Chowder,Seafood
+2016,12,2016-12-06,561.5999756,16,Brazil,Rio de Janeiro,Vegie-spread,Condiments
+2016,12,2016-12-06,335.9999847,20,Brazil,Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,12,2016-12-07,372.6000137,18,Ireland,Cork,Nord-Ost Matjeshering,Seafood
+2016,12,2016-12-07,524.0000153,20,Ireland,Cork,Perth Pasties,Meat/Poultry
+2016,12,2016-12-07,163.2000046,6,Ireland,Cork,Camembert Pierrot,Dairy Products
+2016,12,2016-12-07,360,30,Ireland,Cork,Outback Lager,Beverages
+2016,12,2016-12-07,112,14,Venezuela,Barquisimeto,Longlife Tofu,Produce
+2016,12,2016-12-08,544,32,Austria,Graz,Chef Anton's Gumbo Mix,Condiments
+2016,12,2016-12-08,450,9,Austria,Graz,Carnarvon Tigers,Seafood
+2016,12,2016-12-08,1386,14,Austria,Graz,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,12,2016-12-08,120,60,Austria,Graz,Geitost,Dairy Products
+2016,12,2016-12-08,400,50,Austria,Graz,Longlife Tofu,Produce
+2016,12,2016-12-11,96.00000381,20,UK,London,Konbu,Seafood
+2016,12,2016-12-11,195,15,UK,London,Valkoinen suklaa,Confections
+2016,12,2016-12-11,607.9999924,20,UK,London,Gnocchi di nonna Alice,Grains/Cereals
+2016,12,2016-12-11,1814.400085,28,Sweden,Luleå,Sir Rodney's Marmalade,Confections
+2016,12,2016-12-11,408.0000114,15,Sweden,Luleå,Camembert Pierrot,Dairy Products
+2016,12,2016-12-12,240,10,USA,Lander,Uncle Bob's Organic Dried Pears,Produce
+2016,12,2016-12-12,544.0000153,20,USA,Lander,Camembert Pierrot,Dairy Products
+2016,12,2016-12-12,80,8,USA,Lander,Scottish Longbreads,Confections
+2016,12,2016-12-13,53.99999857,15,Brazil,Sao Paulo,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,12,2016-12-13,111.9999981,10,Brazil,Sao Paulo,Sasquatch Ale,Beverages
+2016,12,2016-12-13,53.99999857,15,Norway,Stavern,GuaranÃ¡ FantÃ¡stica,Beverages
+2016,12,2016-12-13,218.4000092,6,Norway,Stavern,RÃ¶ssle Sauerkraut,Produce
+2016,12,2016-12-13,528,12,Norway,Stavern,Raclette Courdavault,Dairy Products
+2016,12,2016-12-13,258.0000114,15,Norway,Stavern,Flotemysost,Dairy Products
+2016,12,2016-12-14,113.9999986,15,UK,London,Rogede sild,Seafood
+2016,12,2016-12-14,111.9999981,20,UK,London,Filo Mix,Grains/Cereals
+2016,12,2016-12-14,1048.000031,40,UK,London,Perth Pasties,Meat/Poultry
+2016,12,2016-12-15,396.7999878,16,Canada,Tsawassen,Ikura,Seafood
+2016,12,2016-12-15,288.0000114,15,Canada,Tsawassen,PÃ¢tÃ© chinois,Meat/Poultry
+2016,12,2016-12-15,788.0000305,20,Canada,Tsawassen,Tarte au sucre,Confections
+2016,12,2016-12-15,360,30,Canada,Tsawassen,Outback Lager,Beverages
+2016,12,2016-12-18,600,60,Austria,Graz,Gorgonzola Telino,Dairy Products
+2016,12,2016-12-18,575.9999847,40,Austria,Graz,Steeleye Stout,Beverages
+2016,12,2016-12-18,432.0000172,45,Austria,Graz,Spegesild,Seafood
+2016,12,2016-12-18,667.1999817,24,Austria,Graz,Mozzarella di Giovanni,Dairy Products
+2016,12,2016-12-18,86.40000343,18,Germany,Aachen,Konbu,Seafood
+2016,12,2016-12-19,1439.999962,50,Austria,Salzburg,Gudbrandsdalsost,Dairy Products
+2016,12,2016-12-20,379.9999952,25,USA,Boise,Chang,Beverages
+2016,12,2016-12-20,781.200016,42,USA,Boise,Tofu,Produce
+2016,12,2016-12-20,78.39999866,7,USA,Boise,NuNuCa NuÃ-Nougat-Creme,Confections
+2016,12,2016-12-20,1742.999973,70,USA,Boise,GumbÃ¤r GummibÃ¤rchen,Confections
+2016,12,2016-12-20,320,32,USA,Boise,Gorgonzola Telino,Dairy Products
+2016,12,2016-12-20,48.00000191,10,USA,Elgin,Konbu,Seafood
+2016,12,2016-12-20,394.0000153,10,USA,Elgin,Tarte au sucre,Confections
+2016,12,2016-12-21,268.8000107,28,Venezuela,San Cristóbal,Spegesild,Seafood
+2016,12,2016-12-21,1834.000053,70,Venezuela,San Cristóbal,Perth Pasties,Meat/Poultry
+2016,12,2016-12-21,230.3999939,8,Venezuela,San Cristóbal,Gudbrandsdalsost,Dairy Products
+2016,12,2016-12-22,287.9999924,40,Germany,München,TunnbrÃ¶d,Grains/Cereals
+2016,12,2016-12-22,1032.000046,60,Germany,München,Flotemysost,Dairy Products
+2016,12,2016-12-22,583.799984,21,Germany,München,Mozzarella di Giovanni,Dairy Products
+2016,12,2016-12-22,80,10,Portugal,Lisboa,Sir Rodney's Scones,Confections
+2016,12,2016-12-22,763.2000275,18,Portugal,Lisboa,Manjimup Dried Apples,Produce
+2016,12,2016-12-25,431.9999886,30,USA,Boise,Steeleye Stout,Beverages
+2016,12,2016-12-25,2304.000092,120,USA,Boise,PÃ¢tÃ© chinois,Meat/Poultry
+2016,12,2016-12-26,600,60,Denmark,Århus,Scottish Longbreads,Confections
+2016,12,2016-12-26,516.0000229,30,Denmark,Århus,Flotemysost,Dairy Products
+2016,12,2016-12-26,503.9999866,35,Denmark,Århus,LakkalikÃ¶Ã¶ri,Beverages
+2016,12,2016-12-26,145.5999947,14,Denmark,Århus,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2016,12,2016-12-27,2079,21,UK,London,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2016,12,2016-12-27,503.9999866,35,UK,London,Steeleye Stout,Beverages
+2016,12,2016-12-27,480,30,UK,London,Maxilaku,Confections
+2016,12,2016-12-27,372.6000137,18,USA,Albuquerque,Nord-Ost Matjeshering,Seafood
+2016,12,2016-12-27,2127.999973,70,USA,Albuquerque,Gnocchi di nonna Alice,Grains/Cereals
+2016,12,2016-12-27,335.9999847,20,USA,Albuquerque,Louisiana Fiery Hot Pepper Sauce,Condiments
+2016,12,2016-12-27,1032.000046,60,USA,Albuquerque,Flotemysost,Dairy Products
+2016,12,2016-12-28,431.9999886,60,Austria,Graz,TunnbrÃ¶d,Grains/Cereals
+2016,12,2016-12-28,2281.499901,65,Austria,Graz,Vegie-spread,Condiments
+2016,12,2016-12-29,291.899992,21,Austria,Graz,Pavlova,Confections
+2016,12,2016-12-29,713.9999866,70,Austria,Graz,Chocolade,Confections
+2016,12,2016-12-29,746.9999886,30,Italy,Bergamo,GumbÃ¤r GummibÃ¤rchen,Confections
+2016,12,2016-12-29,447.9999924,40,Italy,Bergamo,Singaporean Hokkien Fried Mee,Grains/Cereals
+2016,12,2016-12-29,480,30,Italy,Bergamo,Maxilaku,Confections
+2017,1,2017-01-01,400,50,Venezuela,I. de Margarita,Aniseed Syrup,Condiments
+2017,1,2017-01-02,143.9999962,10,Brazil,Sao Paulo,Chai,Beverages
+2017,1,2017-01-02,240,30,Brazil,Sao Paulo,Sir Rodney's Scones,Confections
+2017,1,2017-01-02,1528.800064,42,Brazil,Sao Paulo,RÃ¶ssle Sauerkraut,Produce
+2017,1,2017-01-02,75.99999905,5,Brazil,Sao Paulo,Inlagd Sill,Seafood
+2017,1,2017-01-02,29.39999962,2,Brazil,Sao Paulo,Boston Crab Meat,Seafood
+2017,1,2017-01-02,503.9999771,30,Germany,Köln,Queso Cabrales,Dairy Products
+2017,1,2017-01-02,431.9999886,15,Germany,Köln,Gudbrandsdalsost,Dairy Products
+2017,1,2017-01-02,258.0000114,15,Germany,Köln,Flotemysost,Dairy Products
+2017,1,2017-01-03,207.9999924,10,France,Lille,Gravad lax,Seafood
+2017,1,2017-01-03,35.40000057,6,France,Lille,TourtiÃ¨re,Meat/Poultry
+2017,1,2017-01-03,1379.000053,35,France,Lille,Tarte au sucre,Confections
+2017,1,2017-01-04,223.2000046,12,Argentina,Buenos Aires,Tofu,Produce
+2017,1,2017-01-04,96,12,Argentina,Buenos Aires,Sir Rodney's Scones,Confections
+2017,1,2017-01-05,98,49,Canada,Tsawassen,Geitost,Dairy Products
+2017,1,2017-01-05,704,16,Canada,Tsawassen,Raclette Courdavault,Dairy Products
+2017,1,2017-01-05,192.4999952,25,Canada,Tsawassen,Jack's New England Clam Chowder,Seafood
+2017,1,2017-01-05,620,40,Canada,Tsawassen,Gula Malacca,Condiments
+2017,1,2017-01-05,396,9,Canada,Tsawassen,Raclette Courdavault,Dairy Products
+2017,1,2017-01-08,372.0000076,20,Finland,Oulu,Tofu,Produce
+2017,1,2017-01-09,345.5999908,24,France,Toulouse,Chai,Beverages
+2017,1,2017-01-09,1576.000061,40,France,Toulouse,Tarte au sucre,Confections
+2017,1,2017-01-09,201.5999947,14,France,Toulouse,LakkalikÃ¶Ã¶ri,Beverages
+2017,1,2017-01-09,131.4000034,18,Brazil,Sao Paulo,Teatime Chocolate Biscuits,Confections
+2017,1,2017-01-09,100,50,Brazil,Sao Paulo,Geitost,Dairy Products
+2017,1,2017-01-10,62.40000153,2,USA,Elgin,Alice Mutton,Meat/Poultry
+2017,1,2017-01-10,40,20,USA,Elgin,Geitost,Dairy Products
+2017,1,2017-01-11,146.0000038,20,Finland,Oulu,Teatime Chocolate Biscuits,Confections
+2017,1,2017-01-11,262.0000076,10,Finland,Oulu,Perth Pasties,Meat/Poultry
+2017,1,2017-01-11,312.0000076,20,Finland,Oulu,Ravioli Angelo,Grains/Cereals
+2017,1,2017-01-11,10540.00015,50,Denmark,Kobenhavn,CÃ´te de Blaye,Beverages
+2017,1,2017-01-11,19.20000076,2,Denmark,Kobenhavn,Spegesild,Seafood
+2017,1,2017-01-11,360,36,Denmark,Kobenhavn,Scottish Longbreads,Confections
+2017,1,2017-01-11,363.9999866,35,Denmark,Kobenhavn,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,1,2017-01-12,911.9999886,60,Germany,Cunewalde,Chang,Beverages
+2017,1,2017-01-12,417.9999948,55,Germany,Cunewalde,Zaanse koeken,Confections
+2017,1,2017-01-12,364.7999878,16,Germany,Cunewalde,Sirop d'Ã©rable,Condiments
+2017,1,2017-01-12,120,15,Germany,Cunewalde,Longlife Tofu,Produce
+2017,1,2017-01-15,1632.000046,60,Switzerland,Genève,Camembert Pierrot,Dairy Products
+2017,1,2017-01-15,575.9999847,20,Switzerland,Genève,Gudbrandsdalsost,Dairy Products
+2017,1,2017-01-16,1551.999969,20,Brazil,Resende,Mishi Kobe Niku,Meat/Poultry
+2017,1,2017-01-16,9.600000381,2,Brazil,Resende,Konbu,Seafood
+2017,1,2017-01-16,96,8,Brazil,Resende,Outback Lager,Beverages
+2017,1,2017-01-16,240,20,Brazil,Resende,RÃ¶d Kaviar,Seafood
+2017,1,2017-01-16,29.20000076,4,Brazil,Rio de Janeiro,Teatime Chocolate Biscuits,Confections
+2017,1,2017-01-16,746.9999886,30,Brazil,Rio de Janeiro,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,1,2017-01-16,393.0000114,15,Brazil,Rio de Janeiro,Perth Pasties,Meat/Poultry
+2017,1,2017-01-16,103.9999962,10,Brazil,Rio de Janeiro,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,1,2017-01-17,49.79999924,2,Italy,Torino,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,1,2017-01-18,140,14,Brazil,Campinas,Gorgonzola Telino,Dairy Products
+2017,1,2017-01-18,880,20,Brazil,Campinas,Raclette Courdavault,Dairy Products
+2017,1,2017-01-18,863.9999771,60,Canada,Montréal,Steeleye Stout,Beverages
+2017,1,2017-01-18,10329.20015,49,Canada,Montréal,CÃ´te de Blaye,Beverages
+2017,1,2017-01-18,300,30,Canada,Montréal,Scottish Longbreads,Confections
+2017,1,2017-01-19,192.0000076,10,France,Toulouse,PÃ¢tÃ© chinois,Meat/Poultry
+2017,1,2017-01-19,287.9999924,20,France,Toulouse,LakkalikÃ¶Ã¶ri,Beverages
+2017,1,2017-01-22,151.9999981,5,Spain,Barcelona,Gnocchi di nonna Alice,Grains/Cereals
+2017,1,2017-01-22,186.2000027,7,Spain,Barcelona,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,1,2017-01-22,651.0000134,35,Austria,Salzburg,Tofu,Produce
+2017,1,2017-01-23,192.0000076,20,Italy,Reggio Emilia,Spegesild,Seafood
+2017,1,2017-01-24,520,40,Ireland,Cork,Valkoinen suklaa,Confections
+2017,1,2017-01-24,1228.499947,35,Ireland,Cork,Vegie-spread,Condiments
+2017,1,2017-01-25,1404.000034,45,Austria,Graz,Alice Mutton,Meat/Poultry
+2017,1,2017-01-25,400,50,Austria,Graz,Sir Rodney's Scones,Confections
+2017,1,2017-01-25,911.9999886,30,Austria,Graz,Gnocchi di nonna Alice,Grains/Cereals
+2017,1,2017-01-25,3080,70,Austria,Graz,Raclette Courdavault,Dairy Products
+2017,1,2017-01-25,1560.000038,50,Canada,Tsawassen,Alice Mutton,Meat/Poultry
+2017,1,2017-01-25,734.9999905,50,Canada,Tsawassen,Boston Crab Meat,Seafood
+2017,1,2017-01-25,227.9999971,30,Canada,Tsawassen,Zaanse koeken,Confections
+2017,1,2017-01-26,248.9999962,10,USA,Lander,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,1,2017-01-26,236.0000038,40,USA,Lander,TourtiÃ¨re,Meat/Poultry
+2017,1,2017-01-29,851.1999893,28,Portugal,Lisboa,Gnocchi di nonna Alice,Grains/Cereals
+2017,1,2017-01-29,100.7999954,6,Sweden,Bräcke,Queso Cabrales,Dairy Products
+2017,1,2017-01-29,259.1999931,18,Sweden,Bräcke,LakkalikÃ¶Ã¶ri,Beverages
+2017,1,2017-01-30,151.9999981,10,UK,London,Chang,Beverages
+2017,1,2017-01-30,201.5999908,12,UK,London,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,1,2017-01-30,277.9999924,10,UK,London,Mozzarella di Giovanni,Dairy Products
+2017,1,2017-01-31,48.00000191,5,France,Strasbourg,Spegesild,Seafood
+2017,1,2017-01-31,1215.999985,40,France,Strasbourg,Gnocchi di nonna Alice,Grains/Cereals
+2017,1,2017-01-31,798.0000114,30,France,Strasbourg,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,1,2017-01-31,148.7999954,24,France,Strasbourg,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,1,2017-01-31,393.0000114,15,Finland,Oulu,Perth Pasties,Meat/Poultry
+2017,2,2017-02-01,109.5000029,15,Germany,Münster,Teatime Chocolate Biscuits,Confections
+2017,2,2017-02-01,223.9999962,20,Germany,Münster,Sasquatch Ale,Beverages
+2017,2,2017-02-01,234.0000057,15,Germany,Münster,Ravioli Angelo,Grains/Cereals
+2017,2,2017-02-02,455.9999943,15,Canada,Montréal,Queso Manchego La Pastora,Dairy Products
+2017,2,2017-02-02,222.3999939,16,Canada,Montréal,Pavlova,Confections
+2017,2,2017-02-02,159.6000023,6,Canada,Montréal,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,2,2017-02-02,240,30,Canada,Montréal,Longlife Tofu,Produce
+2017,2,2017-02-05,683.9999914,45,USA,Boise,Chang,Beverages
+2017,2,2017-02-05,681.0999813,49,USA,Boise,Pavlova,Confections
+2017,2,2017-02-05,2376,24,USA,Boise,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,2,2017-02-05,2051.999931,90,USA,Boise,Sirop d'Ã©rable,Condiments
+2017,2,2017-02-05,1754.999924,50,USA,Anchorage,Schoggi Schokolade,Confections
+2017,2,2017-02-06,503.9999771,30,Austria,Graz,Queso Cabrales,Dairy Products
+2017,2,2017-02-06,472.0000076,80,Austria,Graz,TourtiÃ¨re,Meat/Poultry
+2017,2,2017-02-06,816.0000229,60,Austria,Graz,Louisiana Hot Spiced Okra,Condiments
+2017,2,2017-02-07,100.7999954,6,Italy,Reggio Emilia,Queso Cabrales,Dairy Products
+2017,2,2017-02-07,436.8000183,12,Italy,Reggio Emilia,RÃ¶ssle Sauerkraut,Produce
+2017,2,2017-02-07,312.0000076,10,Sweden,Luleå,Alice Mutton,Meat/Poultry
+2017,2,2017-02-07,373.4999943,15,Sweden,Luleå,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,2,2017-02-07,115.1999969,8,Sweden,Luleå,Steeleye Stout,Beverages
+2017,2,2017-02-07,230.9999943,30,Sweden,Luleå,Jack's New England Clam Chowder,Seafood
+2017,2,2017-02-08,86.39999771,6,Sweden,Luleå,Chartreuse verte,Beverages
+2017,2,2017-02-08,88.50000143,15,Sweden,Luleå,TourtiÃ¨re,Meat/Poultry
+2017,2,2017-02-09,87.60000229,12,Germany,Münster,Teatime Chocolate Biscuits,Confections
+2017,2,2017-02-09,71.99999809,20,Germany,Münster,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,2,2017-02-09,30,3,Germany,Münster,Gorgonzola Telino,Dairy Products
+2017,2,2017-02-09,83.99999857,15,Germany,Münster,Filo Mix,Grains/Cereals
+2017,2,2017-02-09,292.0000076,40,Brazil,Rio de Janeiro,Teatime Chocolate Biscuits,Confections
+2017,2,2017-02-09,587.9999733,35,Brazil,Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,2,2017-02-09,34.40000153,2,Brazil,Rio de Janeiro,Flotemysost,Dairy Products
+2017,2,2017-02-12,149.3999977,6,Argentina,Buenos Aires,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,2,2017-02-12,293.9999962,20,Argentina,Buenos Aires,Boston Crab Meat,Seafood
+2017,2,2017-02-13,347.1999893,14,France,Strasbourg,Ikura,Seafood
+2017,2,2017-02-13,111.9999981,20,France,Strasbourg,Filo Mix,Grains/Cereals
+2017,2,2017-02-13,1379.000053,35,France,Strasbourg,Tarte au sucre,Confections
+2017,2,2017-02-14,495.9999847,20,France,Lyon,Ikura,Seafood
+2017,2,2017-02-14,35.40000057,6,France,Lyon,TourtiÃ¨re,Meat/Poultry
+2017,2,2017-02-14,2304.000092,120,Germany,Cunewalde,PÃ¢tÃ© chinois,Meat/Poultry
+2017,2,2017-02-14,931.0000134,35,Germany,Cunewalde,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,2,2017-02-14,470.3999786,28,Germany,Cunewalde,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,2,2017-02-14,571.999979,55,Germany,Cunewalde,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,2,2017-02-15,546.0000229,15,USA,Boise,RÃ¶ssle Sauerkraut,Produce
+2017,2,2017-02-15,1550,100,USA,Boise,Gula Malacca,Condiments
+2017,2,2017-02-16,152.9999971,15,UK,London,Chocolade,Confections
+2017,2,2017-02-16,300,25,UK,London,Outback Lager,Beverages
+2017,2,2017-02-16,277.9999924,20,France,Toulouse,Pavlova,Confections
+2017,2,2017-02-16,40,20,France,Toulouse,Geitost,Dairy Products
+2017,2,2017-02-16,96.00000381,10,France,Toulouse,Spegesild,Seafood
+2017,2,2017-02-19,287.9999924,20,Finland,Oulu,Chartreuse verte,Beverages
+2017,2,2017-02-19,1310.000038,50,Finland,Oulu,Perth Pasties,Meat/Poultry
+2017,2,2017-02-19,569.9999809,25,Finland,Oulu,Sirop d'Ã©rable,Condiments
+2017,2,2017-02-19,516.0000229,30,Finland,Oulu,Flotemysost,Dairy Products
+2017,2,2017-02-20,320,40,Germany,Brandenburg,Sir Rodney's Scones,Confections
+2017,2,2017-02-20,336,21,Germany,Brandenburg,Maxilaku,Confections
+2017,2,2017-02-20,1584,36,Germany,Brandenburg,Raclette Courdavault,Dairy Products
+2017,2,2017-02-21,746.9999886,30,Belgium,Charleroi,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,2,2017-02-21,1092.000046,30,Belgium,Charleroi,RÃ¶ssle Sauerkraut,Produce
+2017,2,2017-02-21,735.9999847,20,Belgium,Charleroi,Ipoh Coffee,Beverages
+2017,2,2017-02-21,455.9999943,15,Belgium,Charleroi,Gnocchi di nonna Alice,Grains/Cereals
+2017,2,2017-02-21,860.0000381,50,Belgium,Charleroi,Flotemysost,Dairy Products
+2017,2,2017-02-22,384,16,France,Lyon,Uncle Bob's Organic Dried Pears,Produce
+2017,2,2017-02-22,192.0000076,20,France,Lyon,Spegesild,Seafood
+2017,2,2017-02-22,1111.999969,40,France,Lyon,Mozzarella di Giovanni,Dairy Products
+2017,2,2017-02-23,210,21,Sweden,Bräcke,Scottish Longbreads,Confections
+2017,2,2017-02-23,24.79999924,4,Sweden,Bräcke,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,2,2017-02-23,320,40,Venezuela,Barquisimeto,Sir Rodney's Scones,Confections
+2017,2,2017-02-23,579.6000214,28,Venezuela,Barquisimeto,Nord-Ost Matjeshering,Seafood
+2017,2,2017-02-23,1152.000046,60,Venezuela,Barquisimeto,PÃ¢tÃ© chinois,Meat/Poultry
+2017,2,2017-02-26,4.800000191,1,UK,London,Konbu,Seafood
+2017,2,2017-02-26,151.199996,21,UK,London,TunnbrÃ¶d,Grains/Cereals
+2017,2,2017-02-27,153.300004,21,Belgium,Charleroi,Teatime Chocolate Biscuits,Confections
+2017,2,2017-02-27,559.9999905,50,Belgium,Charleroi,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,2,2017-02-27,281.6000061,16,Portugal,Lisboa,Chef Anton's Cajun Seasoning,Condiments
+2017,2,2017-02-27,110.3999977,3,Portugal,Lisboa,Ipoh Coffee,Beverages
+2017,2,2017-02-27,911.9999886,30,Portugal,Lisboa,Gnocchi di nonna Alice,Grains/Cereals
+2017,2,2017-02-27,544.0000153,20,Portugal,Lisboa,Camembert Pierrot,Dairy Products
+2017,2,2017-02-28,89.99999762,25,Denmark,Århus,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,2,2017-02-28,1782,18,Denmark,Århus,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,2,2017-02-28,293.9999962,20,Denmark,Århus,Boston Crab Meat,Seafood
+2017,2,2017-02-28,227.9999971,30,Denmark,Århus,Rogede sild,Seafood
+2017,2,2017-02-28,325,25,Denmark,Århus,Valkoinen suklaa,Confections
+2017,3,2017-03-01,167.9999924,10,Brazil,Sao Paulo,Queso Cabrales,Dairy Products
+2017,3,2017-03-01,48.00000191,5,Brazil,Sao Paulo,Spegesild,Seafood
+2017,3,2017-03-01,100.7999973,28,Italy,Bergamo,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,3,2017-03-01,134.3999977,12,Italy,Bergamo,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,3,2017-03-02,165.6000061,8,Germany,Brandenburg,Nord-Ost Matjeshering,Seafood
+2017,3,2017-03-02,551.9999886,15,Germany,Brandenburg,Ipoh Coffee,Beverages
+2017,3,2017-03-05,607.9999924,40,USA,Seattle,Chang,Beverages
+2017,3,2017-03-05,486.4999866,35,USA,Seattle,Pavlova,Confections
+2017,3,2017-03-05,31,2,USA,Seattle,Gula Malacca,Condiments
+2017,3,2017-03-06,1500,30,France,Marseille,Carnarvon Tigers,Seafood
+2017,3,2017-03-06,107.9999971,15,France,Marseille,TunnbrÃ¶d,Grains/Cereals
+2017,3,2017-03-06,212.8000031,8,France,Marseille,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,3,2017-03-06,720,30,UK,London,Uncle Bob's Organic Dried Pears,Produce
+2017,3,2017-03-06,607.9999924,20,UK,London,Gnocchi di nonna Alice,Grains/Cereals
+2017,3,2017-03-07,287.9999924,80,UK,London,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,3,2017-03-07,763.2000275,18,UK,London,Manjimup Dried Apples,Produce
+2017,3,2017-03-08,24,12,UK,Cowes,Geitost,Dairy Products
+2017,3,2017-03-08,206.4000092,12,UK,Cowes,Flotemysost,Dairy Products
+2017,3,2017-03-08,223.2000046,12,Mexico,México D.F.,Tofu,Produce
+2017,3,2017-03-08,655.2000275,18,Mexico,México D.F.,RÃ¶ssle Sauerkraut,Produce
+2017,3,2017-03-08,308.699996,21,Mexico,México D.F.,Boston Crab Meat,Seafood
+2017,3,2017-03-08,61.99999809,10,Mexico,México D.F.,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,3,2017-03-09,350,35,Belgium,Charleroi,Gorgonzola Telino,Dairy Products
+2017,3,2017-03-09,816.0000229,60,Belgium,Charleroi,Louisiana Hot Spiced Okra,Condiments
+2017,3,2017-03-09,604.799984,42,Belgium,Charleroi,LakkalikÃ¶Ã¶ri,Beverages
+2017,3,2017-03-12,38.40000153,2,Venezuela,San Cristóbal,PÃ¢tÃ© chinois,Meat/Poultry
+2017,3,2017-03-12,144,12,Venezuela,San Cristóbal,Outback Lager,Beverages
+2017,3,2017-03-12,215.9999943,15,Portugal,Lisboa,Chai,Beverages
+2017,3,2017-03-12,168,21,Portugal,Lisboa,Sir Rodney's Scones,Confections
+2017,3,2017-03-12,287.9999924,20,Portugal,Lisboa,Chartreuse verte,Beverages
+2017,3,2017-03-13,495.9999847,20,France,Lyon,Ikura,Seafood
+2017,3,2017-03-14,6324.000092,30,USA,Albuquerque,CÃ´te de Blaye,Beverages
+2017,3,2017-03-14,733.6000214,28,USA,Albuquerque,Perth Pasties,Meat/Poultry
+2017,3,2017-03-14,2640,60,USA,Albuquerque,Raclette Courdavault,Dairy Products
+2017,3,2017-03-14,798.0000114,30,USA,Albuquerque,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,3,2017-03-15,227.9999971,30,France,Lille,Zaanse koeken,Confections
+2017,3,2017-03-15,528,12,France,Lille,Raclette Courdavault,Dairy Products
+2017,3,2017-03-15,384,24,Brazil,Rio de Janeiro,Maxilaku,Confections
+2017,3,2017-03-15,1088.000031,40,Brazil,Rio de Janeiro,Camembert Pierrot,Dairy Products
+2017,3,2017-03-16,146.9999981,10,USA,Walla Walla,Boston Crab Meat,Seafood
+2017,3,2017-03-19,391.9999933,35,USA,Seattle,Sasquatch Ale,Beverages
+2017,3,2017-03-19,311.9999886,30,USA,Seattle,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,3,2017-03-19,112,14,UK,London,Sir Rodney's Scones,Confections
+2017,3,2017-03-19,146.9999981,10,UK,London,Boston Crab Meat,Seafood
+2017,3,2017-03-19,127.2000046,3,UK,London,Manjimup Dried Apples,Produce
+2017,3,2017-03-20,303.9999962,20,Venezuela,I. de Margarita,Chang,Beverages
+2017,3,2017-03-20,160,20,Venezuela,I. de Margarita,Aniseed Syrup,Condiments
+2017,3,2017-03-20,576.0000229,30,Venezuela,I. de Margarita,PÃ¢tÃ© chinois,Meat/Poultry
+2017,3,2017-03-20,720,60,Venezuela,I. de Margarita,Outback Lager,Beverages
+2017,3,2017-03-21,83.99999619,5,Venezuela,San Cristóbal,Queso Cabrales,Dairy Products
+2017,3,2017-03-21,1060.000038,25,Venezuela,San Cristóbal,Manjimup Dried Apples,Produce
+2017,3,2017-03-21,128,16,Venezuela,San Cristóbal,Longlife Tofu,Produce
+2017,3,2017-03-21,36.50000095,5,Brazil,Sao Paulo,Teatime Chocolate Biscuits,Confections
+2017,3,2017-03-21,746.9999886,30,Brazil,Sao Paulo,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,3,2017-03-21,141.6000023,24,Brazil,Sao Paulo,TourtiÃ¨re,Meat/Poultry
+2017,3,2017-03-22,1320,30,Germany,München,Raclette Courdavault,Dairy Products
+2017,3,2017-03-22,240,20,Germany,München,RÃ¶d Kaviar,Seafood
+2017,3,2017-03-23,251.9999886,15,Austria,Salzburg,Queso Cabrales,Dairy Products
+2017,3,2017-03-23,250.1999931,18,Austria,Salzburg,Pavlova,Confections
+2017,3,2017-03-26,2640,60,Venezuela,San Cristóbal,Raclette Courdavault,Dairy Products
+2017,3,2017-03-26,300,30,Venezuela,San Cristóbal,Scottish Longbreads,Confections
+2017,3,2017-03-26,223.1999931,36,Venezuela,San Cristóbal,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,3,2017-03-26,232.5,15,Portugal,Lisboa,Gula Malacca,Condiments
+2017,3,2017-03-26,72.79999733,7,Portugal,Lisboa,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,3,2017-03-27,671.9999886,60,Canada,Tsawassen,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,3,2017-03-27,223.9999962,20,Canada,Tsawassen,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,3,2017-03-28,251.9999886,15,France,Toulouse,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,3,2017-03-28,136.0000038,10,France,Toulouse,Louisiana Hot Spiced Okra,Condiments
+2017,3,2017-03-28,287.9999924,10,France,Toulouse,Gudbrandsdalsost,Dairy Products
+2017,3,2017-03-28,911.9999886,30,Brazil,Sao Paulo,Gnocchi di nonna Alice,Grains/Cereals
+2017,3,2017-03-29,71.99999809,10,Canada,Vancouver,TunnbrÃ¶d,Grains/Cereals
+2017,3,2017-03-29,153.9999962,20,Canada,Vancouver,Jack's New England Clam Chowder,Seafood
+2017,3,2017-03-29,51.99999809,5,Canada,Vancouver,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,3,2017-03-30,200,20,Brazil,Sao Paulo,Gorgonzola Telino,Dairy Products
+2017,3,2017-03-30,425.5999947,14,Germany,Frankfurt a.M.,Gnocchi di nonna Alice,Grains/Cereals
+2017,3,2017-03-30,694.9999809,25,Germany,Frankfurt a.M.,Mozzarella di Giovanni,Dairy Products
+2017,3,2017-03-30,259.9999905,25,Germany,Frankfurt a.M.,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,4,2017-04-02,63,14,Venezuela,San Cristóbal,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,4,2017-04-02,91.99999809,5,Venezuela,San Cristóbal,Boston Crab Meat,Seafood
+2017,4,2017-04-02,420,30,Venezuela,San Cristóbal,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,4,2017-04-03,911.9999695,20,Venezuela,Barquisimeto,RÃ¶ssle Sauerkraut,Produce
+2017,4,2017-04-03,500,25,Venezuela,Barquisimeto,Maxilaku,Confections
+2017,4,2017-04-04,186,12,France,Toulouse,Genen Shouyu,Condiments
+2017,4,2017-04-04,364.7999878,8,France,Toulouse,RÃ¶ssle Sauerkraut,Produce
+2017,4,2017-04-04,148.9999962,20,Germany,Mannheim,TourtiÃ¨re,Meat/Poultry
+2017,4,2017-04-05,199.5,21,Mexico,México D.F.,Rogede sild,Seafood
+2017,4,2017-04-05,196.7999954,6,Mexico,México D.F.,Perth Pasties,Meat/Poultry
+2017,4,2017-04-05,420,30,Mexico,México D.F.,Laughing Lumberjack Lager,Beverages
+2017,4,2017-04-06,1627.5,70,Ireland,Cork,Tofu,Produce
+2017,4,2017-04-06,420.9999847,20,Ireland,Cork,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,4,2017-04-06,228,12,USA,Seattle,Chang,Beverages
+2017,4,2017-04-06,120,12,USA,Seattle,Sir Rodney's Scones,Confections
+2017,4,2017-04-06,327.9999924,10,USA,Seattle,Perth Pasties,Meat/Poultry
+2017,4,2017-04-06,712.5,25,USA,Seattle,Sirop d'Ã©rable,Condiments
+2017,4,2017-04-09,147.8999977,3,Canada,Montréal,Tarte au sucre,Confections
+2017,4,2017-04-10,252,18,Germany,Brandenburg,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,4,2017-04-10,210,14,Germany,Brandenburg,Outback Lager,Beverages
+2017,4,2017-04-10,690,15,Mexico,México D.F.,Ipoh Coffee,Beverages
+2017,4,2017-04-10,191.25,15,Mexico,México D.F.,Chocolade,Confections
+2017,4,2017-04-11,60,10,Germany,Köln,Konbu,Seafood
+2017,4,2017-04-11,180,10,Germany,Köln,Chartreuse verte,Beverages
+2017,4,2017-04-12,136.7999954,3,Germany,Mannheim,RÃ¶ssle Sauerkraut,Produce
+2017,4,2017-04-13,4456.440033,36,USA,Boise,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,4,2017-04-13,279,36,USA,Boise,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,4,2017-04-13,1100,50,France,Marseille,Chef Anton's Cajun Seasoning,Condiments
+2017,4,2017-04-13,1500,50,France,Marseille,Uncle Bob's Organic Dried Pears,Produce
+2017,4,2017-04-13,400,10,France,Marseille,Northwoods Cranberry Sauce,Condiments
+2017,4,2017-04-16,45,10,Brazil,Sao Paulo,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,4,2017-04-16,108,9,Brazil,Sao Paulo,Spegesild,Seafood
+2017,4,2017-04-16,57,6,Brazil,Sao Paulo,Zaanse koeken,Confections
+2017,4,2017-04-16,408,12,Brazil,Sao Paulo,Camembert Pierrot,Dairy Products
+2017,4,2017-04-17,400,40,Germany,Stuttgart,Sir Rodney's Scones,Confections
+2017,4,2017-04-17,1600,50,Germany,Stuttgart,Mascarpone Fabioli,Dairy Products
+2017,4,2017-04-17,427.5,15,Germany,Stuttgart,Sirop d'Ã©rable,Condiments
+2017,4,2017-04-17,3159,39,Austria,Graz,Sir Rodney's Marmalade,Confections
+2017,4,2017-04-17,1595.999947,35,Austria,Graz,RÃ¶ssle Sauerkraut,Produce
+2017,4,2017-04-17,2660,70,Austria,Graz,Gnocchi di nonna Alice,Grains/Cereals
+2017,4,2017-04-17,820.9499702,39,Austria,Graz,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,4,2017-04-17,387.5,50,Austria,Graz,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,4,2017-04-18,1552,16,Germany,Cunewalde,Mishi Kobe Niku,Meat/Poultry
+2017,4,2017-04-18,872.5000381,50,Germany,Cunewalde,Pavlova,Confections
+2017,4,2017-04-18,5268.000183,120,Germany,Cunewalde,Schoggi Schokolade,Confections
+2017,4,2017-04-18,40,16,Germany,Cunewalde,Geitost,Dairy Products
+2017,4,2017-04-18,2856,84,Germany,Cunewalde,Camembert Pierrot,Dairy Products
+2017,4,2017-04-19,1562.5,25,Ireland,Cork,Carnarvon Tigers,Seafood
+2017,4,2017-04-19,771.9999695,80,Ireland,Cork,Jack's New England Clam Chowder,Seafood
+2017,4,2017-04-19,280,20,Ireland,Cork,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,4,2017-04-19,42,6,UK,London,Filo Mix,Grains/Cereals
+2017,4,2017-04-19,220,4,UK,London,Raclette Courdavault,Dairy Products
+2017,4,2017-04-19,90,6,UK,London,Outback Lager,Beverages
+2017,4,2017-04-20,22.5,5,Mexico,México D.F.,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,4,2017-04-20,3952.5,15,Mexico,México D.F.,CÃ´te de Blaye,Beverages
+2017,4,2017-04-20,175.0500069,9,Mexico,México D.F.,Gula Malacca,Condiments
+2017,4,2017-04-23,496,16,Switzerland,Bern,Ikura,Seafood
+2017,4,2017-04-23,1520,40,Switzerland,Bern,Gnocchi di nonna Alice,Grains/Cereals
+2017,4,2017-04-23,340,10,Switzerland,Bern,Camembert Pierrot,Dairy Products
+2017,4,2017-04-24,36,8,Norway,Stavern,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,4,2017-04-24,163.9999962,5,Norway,Stavern,Perth Pasties,Meat/Poultry
+2017,4,2017-04-24,54,3,Argentina,Buenos Aires,Steeleye Stout,Beverages
+2017,4,2017-04-24,96.49999619,10,Argentina,Buenos Aires,Jack's New England Clam Chowder,Seafood
+2017,4,2017-04-24,75,6,Argentina,Buenos Aires,Scottish Longbreads,Confections
+2017,4,2017-04-25,720,40,Germany,Frankfurt a.M.,Chai,Beverages
+2017,4,2017-04-25,960,24,Germany,Frankfurt a.M.,Northwoods Cranberry Sauce,Condiments
+2017,4,2017-04-25,517.7999878,20,Germany,Frankfurt a.M.,Nord-Ost Matjeshering,Seafood
+2017,4,2017-04-25,459.9999905,25,Germany,Frankfurt a.M.,Boston Crab Meat,Seafood
+2017,4,2017-04-26,975,25,UK,London,Alice Mutton,Meat/Poultry
+2017,4,2017-04-26,1215,15,UK,London,Sir Rodney's Marmalade,Confections
+2017,4,2017-04-26,468,18,UK,London,Gravad lax,Seafood
+2017,4,2017-04-26,57.89999771,6,UK,London,Jack's New England Clam Chowder,Seafood
+2017,4,2017-04-26,62,2,Sweden,Luleå,Ikura,Seafood
+2017,4,2017-04-26,258.8999939,10,Sweden,Luleå,Nord-Ost Matjeshering,Seafood
+2017,4,2017-04-26,2760,60,Sweden,Luleå,Ipoh Coffee,Beverages
+2017,4,2017-04-26,111.7499971,15,Sweden,Luleå,TourtiÃ¨re,Meat/Poultry
+2017,4,2017-04-27,570,30,France,Marseille,Inlagd Sill,Seafood
+2017,4,2017-04-27,275.9999943,15,France,Marseille,Boston Crab Meat,Seafood
+2017,4,2017-04-30,144,8,Finland,Oulu,Chai,Beverages
+2017,4,2017-04-30,60,10,Finland,Oulu,Konbu,Seafood
+2017,4,2017-04-30,1140,30,Finland,Oulu,Gnocchi di nonna Alice,Grains/Cereals
+2017,4,2017-04-30,1100,50,Germany,Cunewalde,Chef Anton's Cajun Seasoning,Condiments
+2017,4,2017-04-30,570,30,Germany,Cunewalde,Inlagd Sill,Seafood
+2017,5,2017-05-01,63,3,USA,Eugene,Queso Cabrales,Dairy Products
+2017,5,2017-05-01,20,8,USA,Eugene,Geitost,Dairy Products
+2017,5,2017-05-01,313.1999931,9,USA,Eugene,Mozzarella di Giovanni,Dairy Products
+2017,5,2017-05-02,336,14,Belgium,Bruxelles,PÃ¢tÃ© chinois,Meat/Poultry
+2017,5,2017-05-02,250,20,Belgium,Bruxelles,Scottish Longbreads,Confections
+2017,5,2017-05-02,360,10,Belgium,Bruxelles,Gudbrandsdalsost,Dairy Products
+2017,5,2017-05-03,1560,40,Austria,Salzburg,Alice Mutton,Meat/Poultry
+2017,5,2017-05-03,1150,25,Austria,Salzburg,Ipoh Coffee,Beverages
+2017,5,2017-05-03,570,20,Austria,Salzburg,Sirop d'Ã©rable,Condiments
+2017,5,2017-05-03,900,50,Austria,Salzburg,LakkalikÃ¶Ã¶ri,Beverages
+2017,5,2017-05-03,110,2,Argentina,Buenos Aires,Raclette Courdavault,Dairy Products
+2017,5,2017-05-04,388.3499908,15,UK,London,Nord-Ost Matjeshering,Seafood
+2017,5,2017-05-04,408,24,UK,London,Louisiana Hot Spiced Okra,Condiments
+2017,5,2017-05-07,1100,50,Sweden,Bräcke,Chef Anton's Cajun Seasoning,Condiments
+2017,5,2017-05-07,835.1999817,24,Sweden,Bräcke,Mozzarella di Giovanni,Dairy Products
+2017,5,2017-05-07,360,24,Sweden,Bräcke,RÃ¶d Kaviar,Seafood
+2017,5,2017-05-07,258.8999939,10,Germany,Frankfurt a.M.,Nord-Ost Matjeshering,Seafood
+2017,5,2017-05-07,183.9999962,10,Germany,Frankfurt a.M.,Boston Crab Meat,Seafood
+2017,5,2017-05-07,74.49999809,10,Germany,Frankfurt a.M.,TourtiÃ¨re,Meat/Poultry
+2017,5,2017-05-08,1050,50,Mexico,México D.F.,Queso Cabrales,Dairy Products
+2017,5,2017-05-08,183.9999962,10,Mexico,México D.F.,Boston Crab Meat,Seafood
+2017,5,2017-05-08,97.5,5,Mexico,México D.F.,Ravioli Angelo,Grains/Cereals
+2017,5,2017-05-08,825,15,Mexico,México D.F.,Raclette Courdavault,Dairy Products
+2017,5,2017-05-09,570,15,Germany,Frankfurt a.M.,Queso Manchego La Pastora,Dairy Products
+2017,5,2017-05-09,250,20,Germany,Frankfurt a.M.,Gorgonzola Telino,Dairy Products
+2017,5,2017-05-09,75,30,Germany,Frankfurt a.M.,Geitost,Dairy Products
+2017,5,2017-05-09,1190,35,Germany,Frankfurt a.M.,Camembert Pierrot,Dairy Products
+2017,5,2017-05-09,375,30,Switzerland,Genève,Gorgonzola Telino,Dairy Products
+2017,5,2017-05-09,318,6,Switzerland,Genève,Manjimup Dried Apples,Produce
+2017,5,2017-05-09,265,20,Switzerland,Genève,Escargots de Bourgogne,Seafood
+2017,5,2017-05-09,730.799984,21,Switzerland,Genève,Mozzarella di Giovanni,Dairy Products
+2017,5,2017-05-09,135,9,Switzerland,Genève,RÃ¶d Kaviar,Seafood
+2017,5,2017-05-10,105,7,UK,London,Outback Lager,Beverages
+2017,5,2017-05-10,34.79999924,1,UK,London,Mozzarella di Giovanni,Dairy Products
+2017,5,2017-05-11,48,8,UK,London,Konbu,Seafood
+2017,5,2017-05-11,150,15,UK,London,Sir Rodney's Scones,Confections
+2017,5,2017-05-11,37.5,15,UK,London,Geitost,Dairy Products
+2017,5,2017-05-11,120,6,UK,London,Maxilaku,Confections
+2017,5,2017-05-14,600,60,Germany,Cunewalde,Aniseed Syrup,Condiments
+2017,5,2017-05-14,1249.199982,40,Germany,Cunewalde,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,5,2017-05-14,7905,30,Germany,Cunewalde,CÃ´te de Blaye,Beverages
+2017,5,2017-05-14,437.5,35,Germany,Cunewalde,Scottish Longbreads,Confections
+2017,5,2017-05-14,157.5,35,Brazil,Rio de Janeiro,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,5,2017-05-14,1054,4,Brazil,Rio de Janeiro,CÃ´te de Blaye,Beverages
+2017,5,2017-05-14,757.7999725,36,Brazil,Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,5,2017-05-14,193.5,9,Brazil,Rio de Janeiro,Flotemysost,Dairy Products
+2017,5,2017-05-15,315,15,Germany,Brandenburg,Queso Cabrales,Dairy Products
+2017,5,2017-05-15,178.7999954,24,Germany,Brandenburg,TourtiÃ¨re,Meat/Poultry
+2017,5,2017-05-16,1140,30,Venezuela,Barquisimeto,Queso Manchego La Pastora,Dairy Products
+2017,5,2017-05-16,630,70,Venezuela,Barquisimeto,TunnbrÃ¶d,Grains/Cereals
+2017,5,2017-05-16,319.1999893,7,USA,Portland,RÃ¶ssle Sauerkraut,Produce
+2017,5,2017-05-16,98,7,USA,Portland,Laughing Lumberjack Lager,Beverages
+2017,5,2017-05-17,210,10,USA,Walla Walla,Queso Cabrales,Dairy Products
+2017,5,2017-05-18,300,10,France,Lyon,Uncle Bob's Organic Dried Pears,Produce
+2017,5,2017-05-18,540,30,France,Lyon,Steeleye Stout,Beverages
+2017,5,2017-05-18,1971.999969,40,France,Lyon,Tarte au sucre,Confections
+2017,5,2017-05-18,768,24,UK,London,Mascarpone Fabioli,Dairy Products
+2017,5,2017-05-18,1140,60,UK,London,Inlagd Sill,Seafood
+2017,5,2017-05-21,140,10,Germany,Münster,Sasquatch Ale,Beverages
+2017,5,2017-05-21,135.0999947,14,Germany,Münster,Jack's New England Clam Chowder,Seafood
+2017,5,2017-05-22,687.5,55,Germany,Cunewalde,Gorgonzola Telino,Dairy Products
+2017,5,2017-05-22,950,100,Germany,Cunewalde,Rogede sild,Seafood
+2017,5,2017-05-22,2544,48,Germany,Cunewalde,Manjimup Dried Apples,Produce
+2017,5,2017-05-23,312,8,Spain,Sevilla,Alice Mutton,Meat/Poultry
+2017,5,2017-05-23,91.99999809,10,Spain,Sevilla,Teatime Chocolate Biscuits,Confections
+2017,5,2017-05-23,60,6,Spain,Sevilla,Sir Rodney's Scones,Confections
+2017,5,2017-05-23,285,10,Spain,Sevilla,Sirop d'Ã©rable,Condiments
+2017,5,2017-05-23,698.0000305,40,Portugal,Lisboa,Pavlova,Confections
+2017,5,2017-05-23,360,20,Portugal,Lisboa,Steeleye Stout,Beverages
+2017,5,2017-05-23,778.0000305,40,Portugal,Lisboa,Gula Malacca,Condiments
+2017,5,2017-05-24,648,18,Venezuela,San Cristóbal,Gudbrandsdalsost,Dairy Products
+2017,5,2017-05-24,232.5,30,Venezuela,San Cristóbal,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,5,2017-05-25,315,15,Finland,Oulu,Queso Cabrales,Dairy Products
+2017,5,2017-05-25,244.3000107,14,Finland,Oulu,Pavlova,Confections
+2017,5,2017-05-25,504,24,Finland,Oulu,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,5,2017-05-25,375,30,Finland,Oulu,Gorgonzola Telino,Dairy Products
+2017,5,2017-05-25,108,6,Finland,Oulu,Steeleye Stout,Beverages
+2017,5,2017-05-25,523.5000229,30,Germany,Köln,Pavlova,Confections
+2017,5,2017-05-25,180,20,Germany,Köln,TunnbrÃ¶d,Grains/Cereals
+2017,5,2017-05-25,985.9999847,20,Germany,Köln,Tarte au sucre,Confections
+2017,5,2017-05-25,130,10,Germany,Köln,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,5,2017-05-28,697.5,30,USA,Boise,Tofu,Produce
+2017,5,2017-05-28,321.9999933,35,USA,Boise,Teatime Chocolate Biscuits,Confections
+2017,5,2017-05-28,81,18,USA,Boise,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,5,2017-05-28,1060,20,USA,Boise,Manjimup Dried Apples,Produce
+2017,5,2017-05-28,1520,40,USA,Boise,Gnocchi di nonna Alice,Grains/Cereals
+2017,5,2017-05-29,835.1999817,24,Denmark,Kobenhavn,Mozzarella di Giovanni,Dairy Products
+2017,5,2017-05-29,997.5,30,Germany,Frankfurt a.M.,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,5,2017-05-29,155,20,Germany,Frankfurt a.M.,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,5,2017-05-30,237.5,25,UK,London,Zaanse koeken,Confections
+2017,5,2017-05-30,1060,20,UK,London,Manjimup Dried Apples,Produce
+2017,5,2017-05-30,210,30,UK,London,Filo Mix,Grains/Cereals
+2017,5,2017-05-30,590.3999863,18,UK,London,Perth Pasties,Meat/Poultry
+2017,5,2017-05-30,45,3,UK,London,RÃ¶d Kaviar,Seafood
+2017,5,2017-05-31,115.7999954,12,France,Strasbourg,Jack's New England Clam Chowder,Seafood
+2017,5,2017-05-31,432,18,France,Strasbourg,PÃ¢tÃ© chinois,Meat/Poultry
+2017,6,2017-06-01,517.7999878,20,Germany,München,Nord-Ost Matjeshering,Seafood
+2017,6,2017-06-01,739.4999886,15,Germany,München,Tarte au sucre,Confections
+2017,6,2017-06-01,194.5000076,10,Sweden,Bräcke,Gula Malacca,Condiments
+2017,6,2017-06-01,2650,50,Sweden,Bräcke,Manjimup Dried Apples,Produce
+2017,6,2017-06-04,50,20,Italy,Reggio Emilia,Geitost,Dairy Products
+2017,6,2017-06-04,492.9999924,10,Italy,Reggio Emilia,Tarte au sucre,Confections
+2017,6,2017-06-05,475,25,Brazil,Rio de Janeiro,Inlagd Sill,Seafood
+2017,6,2017-06-05,490,70,Brazil,Rio de Janeiro,Filo Mix,Grains/Cereals
+2017,6,2017-06-05,624,16,USA,Albuquerque,Alice Mutton,Meat/Poultry
+2017,6,2017-06-05,75,6,USA,Albuquerque,Gorgonzola Telino,Dairy Products
+2017,6,2017-06-05,600,25,USA,Albuquerque,PÃ¢tÃ© chinois,Meat/Poultry
+2017,6,2017-06-06,112.5,25,Canada,Montréal,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,6,2017-06-06,598.5,18,Canada,Montréal,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,6,2017-06-07,735,35,France,Strasbourg,Queso Cabrales,Dairy Products
+2017,6,2017-06-07,1125,18,France,Strasbourg,Carnarvon Tigers,Seafood
+2017,6,2017-06-07,180,10,France,Strasbourg,LakkalikÃ¶Ã¶ri,Beverages
+2017,6,2017-06-07,750,60,Ireland,Cork,Gorgonzola Telino,Dairy Products
+2017,6,2017-06-07,159,3,Ireland,Cork,Manjimup Dried Apples,Produce
+2017,6,2017-06-07,2200,40,Ireland,Cork,Raclette Courdavault,Dairy Products
+2017,6,2017-06-08,155,5,Spain,Barcelona,Ikura,Seafood
+2017,6,2017-06-11,437.5,35,USA,Albuquerque,Gorgonzola Telino,Dairy Products
+2017,6,2017-06-11,540,30,USA,Albuquerque,LakkalikÃ¶Ã¶ri,Beverages
+2017,6,2017-06-12,315,15,Canada,Montréal,Queso Cabrales,Dairy Products
+2017,6,2017-06-12,2280,60,Canada,Montréal,Gnocchi di nonna Alice,Grains/Cereals
+2017,6,2017-06-12,255.75,11,Austria,Graz,Tofu,Produce
+2017,6,2017-06-12,392,28,Austria,Graz,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,6,2017-06-13,209.4000092,12,Sweden,Luleå,Pavlova,Confections
+2017,6,2017-06-13,320,10,Sweden,Luleå,Mascarpone Fabioli,Dairy Products
+2017,6,2017-06-13,919.9999809,50,Sweden,Luleå,Boston Crab Meat,Seafood
+2017,6,2017-06-13,116.25,15,Sweden,Luleå,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,6,2017-06-14,702,18,Mexico,México D.F.,Alice Mutton,Meat/Poultry
+2017,6,2017-06-14,560,40,Mexico,México D.F.,Sasquatch Ale,Beverages
+2017,6,2017-06-14,819.9999809,25,Mexico,México D.F.,Perth Pasties,Meat/Poultry
+2017,6,2017-06-14,35,14,USA,Kirkland,Geitost,Dairy Products
+2017,6,2017-06-14,36.79999924,2,USA,Kirkland,Boston Crab Meat,Seafood
+2017,6,2017-06-14,492.9999924,10,USA,Kirkland,Tarte au sucre,Confections
+2017,6,2017-06-14,199.5,6,USA,Kirkland,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,6,2017-06-15,660,12,Germany,Leipzig,Raclette Courdavault,Dairy Products
+2017,6,2017-06-15,263.4000092,6,Germany,Leipzig,Vegie-spread,Condiments
+2017,6,2017-06-15,1043.999977,30,Germany,Leipzig,Mozzarella di Giovanni,Dairy Products
+2017,6,2017-06-15,180,10,Germany,Leipzig,LakkalikÃ¶Ã¶ri,Beverages
+2017,6,2017-06-18,180,10,Mexico,México D.F.,Chai,Beverages
+2017,6,2017-06-18,250,20,Mexico,México D.F.,Gorgonzola Telino,Dairy Products
+2017,6,2017-06-18,408.450016,21,Mexico,México D.F.,Gula Malacca,Condiments
+2017,6,2017-06-18,180,10,USA,Kirkland,Chartreuse verte,Beverages
+2017,6,2017-06-18,155,20,USA,Kirkland,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,6,2017-06-18,234,18,USA,Kirkland,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,6,2017-06-19,360,20,UK,London,Steeleye Stout,Beverages
+2017,6,2017-06-19,117,6,UK,London,Ravioli Angelo,Grains/Cereals
+2017,6,2017-06-20,155,10,USA,San Francisco,Genen Shouyu,Condiments
+2017,6,2017-06-20,162.75,21,USA,San Francisco,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,6,2017-06-21,348.75,15,Germany,Köln,Tofu,Produce
+2017,6,2017-06-21,86.84999657,9,Germany,Köln,Jack's New England Clam Chowder,Seafood
+2017,6,2017-06-21,631.4999771,30,Germany,Köln,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,6,2017-06-21,387.5,50,Brazil,Sao Paulo,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,6,2017-06-22,78,4,Germany,Mannheim,Ravioli Angelo,Grains/Cereals
+2017,6,2017-06-22,252,14,Germany,Mannheim,LakkalikÃ¶Ã¶ri,Beverages
+2017,6,2017-06-25,1237.900009,10,Finland,Oulu,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,6,2017-06-25,816,24,Finland,Oulu,Camembert Pierrot,Dairy Products
+2017,6,2017-06-25,360,10,Finland,Oulu,Gudbrandsdalsost,Dairy Products
+2017,6,2017-06-25,625,50,France,Strasbourg,Gorgonzola Telino,Dairy Products
+2017,6,2017-06-26,142.5,15,Brazil,Resende,Zaanse koeken,Confections
+2017,6,2017-06-27,28,4,Italy,Reggio Emilia,Filo Mix,Grains/Cereals
+2017,6,2017-06-27,187.3799973,6,Brazil,Rio de Janeiro,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,6,2017-06-27,360,20,Brazil,Rio de Janeiro,Steeleye Stout,Beverages
+2017,6,2017-06-27,260,20,Brazil,Rio de Janeiro,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,6,2017-06-28,2500,40,Germany,Cunewalde,Carnarvon Tigers,Seafood
+2017,6,2017-06-28,1400,100,Germany,Cunewalde,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,6,2017-06-29,72,4,USA,Eugene,Steeleye Stout,Beverages
+2017,7,2017-07-02,360,20,Canada,Montréal,Chai,Beverages
+2017,7,2017-07-02,780,60,Canada,Montréal,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,7,2017-07-02,140,14,Denmark,Århus,Aniseed Syrup,Condiments
+2017,7,2017-07-02,300,10,Denmark,Århus,Uncle Bob's Organic Dried Pears,Produce
+2017,7,2017-07-02,372.4999905,50,Denmark,Århus,TourtiÃ¨re,Meat/Poultry
+2017,7,2017-07-03,387.5,25,Germany,Frankfurt a.M.,Genen Shouyu,Condiments
+2017,7,2017-07-03,156.1499977,5,Germany,Frankfurt a.M.,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,7,2017-07-04,1701,21,Germany,Frankfurt a.M.,Sir Rodney's Marmalade,Confections
+2017,7,2017-07-04,720,20,Germany,Frankfurt a.M.,Gudbrandsdalsost,Dairy Products
+2017,7,2017-07-04,72,4,Germany,Frankfurt a.M.,LakkalikÃ¶Ã¶ri,Beverages
+2017,7,2017-07-04,168,24,USA,Anchorage,Filo Mix,Grains/Cereals
+2017,7,2017-07-04,397.5,30,USA,Anchorage,Escargots de Bourgogne,Seafood
+2017,7,2017-07-05,540,30,Austria,Graz,Steeleye Stout,Beverages
+2017,7,2017-07-05,3420,120,Austria,Graz,Sirop d'Ã©rable,Condiments
+2017,7,2017-07-05,2340,65,Austria,Graz,Gudbrandsdalsost,Dairy Products
+2017,7,2017-07-06,190,5,USA,Seattle,Gnocchi di nonna Alice,Grains/Cereals
+2017,7,2017-07-06,1053.600037,24,USA,Seattle,Vegie-spread,Condiments
+2017,7,2017-07-06,232.5,30,USA,Seattle,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,7,2017-07-06,157.5,35,Austria,Salzburg,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,7,2017-07-06,390,20,Austria,Salzburg,Ravioli Angelo,Grains/Cereals
+2017,7,2017-07-06,252.5999908,12,Austria,Salzburg,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,7,2017-07-09,2195.000076,50,USA,Albuquerque,Schoggi Schokolade,Confections
+2017,7,2017-07-09,193.5,9,USA,Albuquerque,Flotemysost,Dairy Products
+2017,7,2017-07-10,492.9999924,10,UK,London,Tarte au sucre,Confections
+2017,7,2017-07-11,29.79999924,4,USA,Elgin,TourtiÃ¨re,Meat/Poultry
+2017,7,2017-07-11,450,30,USA,Elgin,RÃ¶d Kaviar,Seafood
+2017,7,2017-07-11,360,60,Venezuela,San Cristóbal,Konbu,Seafood
+2017,7,2017-07-11,1925,35,Venezuela,San Cristóbal,Raclette Courdavault,Dairy Products
+2017,7,2017-07-12,65,5,Denmark,Århus,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,7,2017-07-13,1008,48,USA,Boise,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,7,2017-07-13,500,25,USA,Boise,Maxilaku,Confections
+2017,7,2017-07-13,76.5,6,Portugal,Lisboa,Chocolade,Confections
+2017,7,2017-07-13,180,10,Portugal,Lisboa,LakkalikÃ¶Ã¶ri,Beverages
+2017,7,2017-07-16,523.5000229,30,Canada,Montréal,Pavlova,Confections
+2017,7,2017-07-16,1100,20,Canada,Montréal,Raclette Courdavault,Dairy Products
+2017,7,2017-07-16,2380,70,Canada,Montréal,Camembert Pierrot,Dairy Products
+2017,7,2017-07-16,322.5,15,Canada,Montréal,Flotemysost,Dairy Products
+2017,7,2017-07-17,440,20,Brazil,Sao Paulo,Chef Anton's Cajun Seasoning,Condiments
+2017,7,2017-07-17,480,20,Brazil,Sao Paulo,PÃ¢tÃ© chinois,Meat/Poultry
+2017,7,2017-07-17,492.9999924,10,Brazil,Sao Paulo,Tarte au sucre,Confections
+2017,7,2017-07-17,1350,45,USA,Boise,Uncle Bob's Organic Dried Pears,Produce
+2017,7,2017-07-17,3900,100,USA,Boise,Alice Mutton,Meat/Poultry
+2017,7,2017-07-17,35,14,USA,Boise,Geitost,Dairy Products
+2017,7,2017-07-17,772.799984,42,USA,Boise,Boston Crab Meat,Seafood
+2017,7,2017-07-17,417.5999908,12,USA,Boise,Mozzarella di Giovanni,Dairy Products
+2017,7,2017-07-18,1064,28,Germany,Münster,Gnocchi di nonna Alice,Grains/Cereals
+2017,7,2017-07-19,54,3,France,Nantes,Chai,Beverages
+2017,7,2017-07-19,310,10,France,Nantes,Ikura,Seafood
+2017,7,2017-07-19,60,6,France,Nantes,Sir Rodney's Scones,Confections
+2017,7,2017-07-20,399,21,France,Toulouse,Inlagd Sill,Seafood
+2017,7,2017-07-20,108,6,Poland,Warszawa,Chai,Beverages
+2017,7,2017-07-20,190,10,Poland,Warszawa,Chang,Beverages
+2017,7,2017-07-20,510,15,Poland,Warszawa,Camembert Pierrot,Dairy Products
+2017,7,2017-07-23,2170,70,USA,Boise,Ikura,Seafood
+2017,7,2017-07-23,1045,55,USA,Boise,Inlagd Sill,Seafood
+2017,7,2017-07-23,360,18,USA,Boise,Maxilaku,Confections
+2017,7,2017-07-23,1360,40,USA,Boise,Camembert Pierrot,Dairy Products
+2017,7,2017-07-23,1440,80,USA,Boise,LakkalikÃ¶Ã¶ri,Beverages
+2017,7,2017-07-24,48,8,Venezuela,San Cristóbal,Konbu,Seafood
+2017,7,2017-07-24,310,40,Venezuela,San Cristóbal,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,7,2017-07-24,294,14,Germany,Mannheim,Queso Cabrales,Dairy Products
+2017,7,2017-07-24,80,8,Germany,Mannheim,Sir Rodney's Scones,Confections
+2017,7,2017-07-24,90,5,Germany,Mannheim,Chartreuse verte,Beverages
+2017,7,2017-07-25,120,5,Finland,Helsinki,PÃ¢tÃ© chinois,Meat/Poultry
+2017,7,2017-07-26,3952.5,15,USA,Eugene,CÃ´te de Blaye,Beverages
+2017,7,2017-07-26,532,14,USA,Eugene,Gnocchi di nonna Alice,Grains/Cereals
+2017,7,2017-07-26,225,15,USA,Eugene,Outback Lager,Beverages
+2017,7,2017-07-26,322.5,15,USA,Eugene,Flotemysost,Dairy Products
+2017,7,2017-07-26,1650,30,USA,Eugene,Raclette Courdavault,Dairy Products
+2017,7,2017-07-27,1750,70,Canada,Montréal,Grandma's Boysenberry Spread,Condiments
+2017,7,2017-07-27,760,20,Canada,Montréal,Gnocchi di nonna Alice,Grains/Cereals
+2017,7,2017-07-27,187.5,15,Canada,Montréal,Scottish Longbreads,Confections
+2017,7,2017-07-30,420,42,Canada,Montréal,Sir Rodney's Scones,Confections
+2017,7,2017-07-30,840,40,Canada,Montréal,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,7,2017-07-31,22.5,5,Canada,Vancouver,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,7,2017-07-31,35,5,Canada,Vancouver,Filo Mix,Grains/Cereals
+2017,7,2017-07-31,45.99999905,5,UK,Cowes,Teatime Chocolate Biscuits,Confections
+2017,7,2017-07-31,90,10,UK,Cowes,TunnbrÃ¶d,Grains/Cereals
+2017,7,2017-07-31,300,20,UK,Cowes,Outback Lager,Beverages
+2017,7,2017-07-31,322.5,15,UK,Cowes,Flotemysost,Dairy Products
+2017,8,2017-08-01,380,20,Brazil,Rio de Janeiro,Chang,Beverages
+2017,8,2017-08-01,225,18,Brazil,Rio de Janeiro,Scottish Longbreads,Confections
+2017,8,2017-08-02,488.25,21,Germany,München,Tofu,Produce
+2017,8,2017-08-02,137.9999971,15,Germany,München,Teatime Chocolate Biscuits,Confections
+2017,8,2017-08-02,250,25,Germany,München,Sir Rodney's Scones,Confections
+2017,8,2017-08-02,13.5,3,Germany,München,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,8,2017-08-02,540,30,Germany,München,Steeleye Stout,Beverages
+2017,8,2017-08-02,455.9999847,10,USA,Butte,RÃ¶ssle Sauerkraut,Produce
+2017,8,2017-08-02,742.7400055,6,USA,Butte,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,8,2017-08-02,194.5000076,10,USA,Butte,Gula Malacca,Condiments
+2017,8,2017-08-03,69.75,3,Mexico,México D.F.,Tofu,Produce
+2017,8,2017-08-03,70,5,Mexico,México D.F.,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,8,2017-08-03,340,10,Mexico,México D.F.,Camembert Pierrot,Dairy Products
+2017,8,2017-08-06,393.5999908,12,Sweden,Luleå,Perth Pasties,Meat/Poultry
+2017,8,2017-08-06,680,20,Sweden,Luleå,Camembert Pierrot,Dairy Products
+2017,8,2017-08-06,430,20,Sweden,Luleå,Flotemysost,Dairy Products
+2017,8,2017-08-06,739.4999886,15,USA,Boise,Tarte au sucre,Confections
+2017,8,2017-08-06,525,35,USA,Boise,RÃ¶d Kaviar,Seafood
+2017,8,2017-08-07,450,25,France,Strasbourg,Chai,Beverages
+2017,8,2017-08-07,2475.800018,20,Spain,Sevilla,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,8,2017-08-07,299.25,9,Spain,Sevilla,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,8,2017-08-08,288,12,Germany,Brandenburg,PÃ¢tÃ© chinois,Meat/Poultry
+2017,8,2017-08-08,630,35,Germany,Brandenburg,LakkalikÃ¶Ã¶ri,Beverages
+2017,8,2017-08-09,62,8,France,Toulouse,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,8,2017-08-09,570,30,Germany,Stuttgart,Chang,Beverages
+2017,8,2017-08-09,50,20,Germany,Stuttgart,Geitost,Dairy Products
+2017,8,2017-08-10,1368,36,Austria,Graz,Queso Manchego La Pastora,Dairy Products
+2017,8,2017-08-10,78,13,Austria,Graz,Konbu,Seafood
+2017,8,2017-08-10,1093.049984,35,Austria,Graz,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,8,2017-08-10,3943.999939,80,Austria,Graz,Tarte au sucre,Confections
+2017,8,2017-08-10,1050,35,France,Lille,Uncle Bob's Organic Dried Pears,Produce
+2017,8,2017-08-10,3125,50,France,Lille,Carnarvon Tigers,Seafood
+2017,8,2017-08-10,795,15,France,Lille,Manjimup Dried Apples,Produce
+2017,8,2017-08-10,15.5,2,France,Lille,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,8,2017-08-13,220,10,Italy,Bergamo,Chef Anton's Cajun Seasoning,Condiments
+2017,8,2017-08-13,320.2500057,15,Italy,Bergamo,Chef Anton's Gumbo Mix,Condiments
+2017,8,2017-08-13,840,40,Italy,Bergamo,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,8,2017-08-14,550,25,Finland,Oulu,Chef Anton's Cajun Seasoning,Condiments
+2017,8,2017-08-14,79.5,6,Finland,Oulu,Escargots de Bourgogne,Seafood
+2017,8,2017-08-14,210,10,Brazil,Sao Paulo,Queso Cabrales,Dairy Products
+2017,8,2017-08-14,406.25,25,Brazil,Sao Paulo,Valkoinen suklaa,Confections
+2017,8,2017-08-14,2280,60,Brazil,Sao Paulo,Gnocchi di nonna Alice,Grains/Cereals
+2017,8,2017-08-15,190,20,Venezuela,I. de Margarita,Rogede sild,Seafood
+2017,8,2017-08-15,442.049984,21,Venezuela,I. de Margarita,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,8,2017-08-15,2087.999954,60,Venezuela,I. de Margarita,Mozzarella di Giovanni,Dairy Products
+2017,8,2017-08-15,500,8,Norway,Stavern,Carnarvon Tigers,Seafood
+2017,8,2017-08-16,720,20,Germany,Stuttgart,Gudbrandsdalsost,Dairy Products
+2017,8,2017-08-16,225,15,Germany,Stuttgart,Outback Lager,Beverages
+2017,8,2017-08-17,950,50,Venezuela,San Cristóbal,Chang,Beverages
+2017,8,2017-08-17,1103.999977,60,Venezuela,San Cristóbal,Boston Crab Meat,Seafood
+2017,8,2017-08-17,300,30,Denmark,Kobenhavn,Sir Rodney's Scones,Confections
+2017,8,2017-08-17,570,20,Denmark,Kobenhavn,Sirop d'Ã©rable,Condiments
+2017,8,2017-08-20,683.9999771,15,Germany,Berlin,RÃ¶ssle Sauerkraut,Produce
+2017,8,2017-08-20,378,21,Germany,Berlin,Chartreuse verte,Beverages
+2017,8,2017-08-20,24,2,Germany,Berlin,Spegesild,Seafood
+2017,8,2017-08-20,250,4,Brazil,Resende,Carnarvon Tigers,Seafood
+2017,8,2017-08-20,920,20,Brazil,Resende,Ipoh Coffee,Beverages
+2017,8,2017-08-20,252,21,Brazil,Resende,Spegesild,Seafood
+2017,8,2017-08-21,1250,20,Brazil,Rio de Janeiro,Carnarvon Tigers,Seafood
+2017,8,2017-08-21,285,15,Brazil,Rio de Janeiro,Inlagd Sill,Seafood
+2017,8,2017-08-22,270,15,Ireland,Cork,Chai,Beverages
+2017,8,2017-08-22,558,18,Ireland,Cork,Ikura,Seafood
+2017,8,2017-08-22,645,30,Ireland,Cork,Flotemysost,Dairy Products
+2017,8,2017-08-22,455,35,Ireland,Cork,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,8,2017-08-22,275.9999943,30,Brazil,Rio de Janeiro,Teatime Chocolate Biscuits,Confections
+2017,8,2017-08-22,360,20,Brazil,Rio de Janeiro,Chartreuse verte,Beverages
+2017,8,2017-08-23,315,15,Brazil,Rio de Janeiro,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,8,2017-08-23,67.5,15,Brazil,Rio de Janeiro,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,8,2017-08-23,911.9999695,20,Belgium,Bruxelles,RÃ¶ssle Sauerkraut,Produce
+2017,8,2017-08-23,521.9999886,15,Belgium,Bruxelles,Mozzarella di Giovanni,Dairy Products
+2017,8,2017-08-24,776.6999817,30,Brazil,Sao Paulo,Nord-Ost Matjeshering,Seafood
+2017,8,2017-08-24,819.9999809,25,Brazil,Sao Paulo,Perth Pasties,Meat/Poultry
+2017,8,2017-08-24,223.4999943,30,Brazil,Sao Paulo,TourtiÃ¨re,Meat/Poultry
+2017,8,2017-08-27,110.3999977,12,Germany,Stuttgart,Teatime Chocolate Biscuits,Confections
+2017,8,2017-08-27,420,20,Germany,Stuttgart,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,8,2017-08-27,51.77999878,2,Brazil,Campinas,Nord-Ost Matjeshering,Seafood
+2017,8,2017-08-27,280,20,Brazil,Campinas,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,8,2017-08-28,523.5000229,30,Germany,München,Pavlova,Confections
+2017,8,2017-08-28,680,20,Germany,München,Camembert Pierrot,Dairy Products
+2017,8,2017-08-28,264,12,Sweden,Luleå,Chef Anton's Cajun Seasoning,Condiments
+2017,8,2017-08-28,360,20,Sweden,Luleå,Chartreuse verte,Beverages
+2017,8,2017-08-28,44.69999886,6,Sweden,Luleå,TourtiÃ¨re,Meat/Poultry
+2017,8,2017-08-29,192.9999924,20,Italy,Reggio Emilia,Jack's New England Clam Chowder,Seafood
+2017,8,2017-08-30,69.75,3,USA,Eugene,Tofu,Produce
+2017,8,2017-08-30,544.6000214,28,USA,Eugene,Gula Malacca,Condiments
+2017,8,2017-08-30,57,6,USA,Eugene,Zaanse koeken,Confections
+2017,8,2017-08-30,775,50,USA,Boise,Genen Shouyu,Condiments
+2017,8,2017-08-30,231.5999908,24,USA,Boise,Jack's New England Clam Chowder,Seafood
+2017,8,2017-08-30,540,45,USA,Boise,Spegesild,Seafood
+2017,8,2017-08-30,95,10,USA,Boise,Zaanse koeken,Confections
+2017,8,2017-08-30,1710,45,USA,Boise,Gnocchi di nonna Alice,Grains/Cereals
+2017,8,2017-08-30,1020,30,USA,Boise,Camembert Pierrot,Dairy Products
+2017,8,2017-08-31,600,60,Germany,Cunewalde,Sir Rodney's Scones,Confections
+2017,8,2017-08-31,1287.999973,70,Germany,Cunewalde,Boston Crab Meat,Seafood
+2017,8,2017-08-31,1870,55,Germany,Cunewalde,Camembert Pierrot,Dairy Products
+2017,8,2017-08-31,910,70,Germany,Cunewalde,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,8,2017-08-31,250,20,Brazil,Sao Paulo,Gorgonzola Telino,Dairy Products
+2017,8,2017-08-31,441.5999908,24,Brazil,Sao Paulo,Boston Crab Meat,Seafood
+2017,8,2017-08-31,600,40,Brazil,Sao Paulo,Outback Lager,Beverages
+2017,9,2017-09-03,1701,21,USA,Elgin,Sir Rodney's Marmalade,Confections
+2017,9,2017-09-04,54,3,Ireland,Cork,Chartreuse verte,Beverages
+2017,9,2017-09-04,649.25,49,Ireland,Cork,Escargots de Bourgogne,Seafood
+2017,9,2017-09-04,125,10,USA,Portland,Scottish Longbreads,Confections
+2017,9,2017-09-05,551.9999886,30,France,Marseille,Boston Crab Meat,Seafood
+2017,9,2017-09-05,420,30,France,Marseille,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,9,2017-09-05,1060,20,France,Marseille,Manjimup Dried Apples,Produce
+2017,9,2017-09-05,744,24,Portugal,Lisboa,Ikura,Seafood
+2017,9,2017-09-05,456,12,Portugal,Lisboa,Gnocchi di nonna Alice,Grains/Cereals
+2017,9,2017-09-05,315.7499886,15,Portugal,Lisboa,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,9,2017-09-06,1060,20,USA,Portland,Manjimup Dried Apples,Produce
+2017,9,2017-09-06,55,1,USA,Portland,Raclette Courdavault,Dairy Products
+2017,9,2017-09-06,180,10,USA,Portland,LakkalikÃ¶Ã¶ri,Beverages
+2017,9,2017-09-07,4456.440033,36,Switzerland,Genève,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,9,2017-09-07,210.4999924,10,Switzerland,Genève,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,9,2017-09-07,1620,45,Austria,Graz,Gudbrandsdalsost,Dairy Products
+2017,9,2017-09-07,301,14,Austria,Graz,Flotemysost,Dairy Products
+2017,9,2017-09-10,100,8,Germany,Stuttgart,Gorgonzola Telino,Dairy Products
+2017,9,2017-09-10,96,4,Germany,Stuttgart,PÃ¢tÃ© chinois,Meat/Poultry
+2017,9,2017-09-10,498.75,15,Germany,Stuttgart,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,9,2017-09-10,570,30,Denmark,Kobenhavn,Inlagd Sill,Seafood
+2017,9,2017-09-11,288,32,Germany,München,TunnbrÃ¶d,Grains/Cereals
+2017,9,2017-09-11,720,60,Germany,München,Spegesild,Seafood
+2017,9,2017-09-11,350,25,Germany,München,Laughing Lumberjack Lager,Beverages
+2017,9,2017-09-11,750,50,Germany,München,RÃ¶d Kaviar,Seafood
+2017,9,2017-09-11,193.75,25,Germany,München,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,9,2017-09-12,174.5000076,10,France,Nantes,Pavlova,Confections
+2017,9,2017-09-12,492.9999924,10,France,Nantes,Tarte au sucre,Confections
+2017,9,2017-09-12,252.5999908,12,France,Nantes,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,9,2017-09-12,3952.5,15,Sweden,Luleå,CÃ´te de Blaye,Beverages
+2017,9,2017-09-12,258,12,Sweden,Luleå,Flotemysost,Dairy Products
+2017,9,2017-09-13,52.35000229,3,Finland,Helsinki,Pavlova,Confections
+2017,9,2017-09-13,84,6,Finland,Helsinki,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,9,2017-09-13,276,6,Finland,Helsinki,Ipoh Coffee,Beverages
+2017,9,2017-09-13,45,5,UK,Cowes,TunnbrÃ¶d,Grains/Cereals
+2017,9,2017-09-14,697.5,30,Germany,München,Tofu,Produce
+2017,9,2017-09-14,327.9999924,10,Germany,München,Perth Pasties,Meat/Poultry
+2017,9,2017-09-14,397.5,30,Germany,München,Escargots de Bourgogne,Seafood
+2017,9,2017-09-17,62,2,Mexico,México D.F.,Ikura,Seafood
+2017,9,2017-09-17,64.39999866,7,Mexico,México D.F.,Teatime Chocolate Biscuits,Confections
+2017,9,2017-09-17,408.450016,21,Mexico,México D.F.,Gula Malacca,Condiments
+2017,9,2017-09-17,936.8999863,30,Mexico,México D.F.,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,9,2017-09-17,20,8,Mexico,México D.F.,Geitost,Dairy Products
+2017,9,2017-09-18,3800,100,USA,Boise,Queso Manchego La Pastora,Dairy Products
+2017,9,2017-09-18,75,30,USA,Boise,Geitost,Dairy Products
+2017,9,2017-09-18,1157.999954,120,USA,Boise,Jack's New England Clam Chowder,Seafood
+2017,9,2017-09-18,223.4999943,30,USA,Boise,TourtiÃ¨re,Meat/Poultry
+2017,9,2017-09-18,660,12,France,Strasbourg,Raclette Courdavault,Dairy Products
+2017,9,2017-09-19,872.5000381,50,USA,Anchorage,Pavlova,Confections
+2017,9,2017-09-19,250,20,USA,Anchorage,Gorgonzola Telino,Dairy Products
+2017,9,2017-09-19,560,40,USA,Anchorage,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,9,2017-09-20,275.9999943,30,USA,Eugene,Teatime Chocolate Biscuits,Confections
+2017,9,2017-09-20,120,12,USA,Eugene,Sir Rodney's Scones,Confections
+2017,9,2017-09-20,931,28,USA,Eugene,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,9,2017-09-20,75,30,Mexico,México D.F.,Geitost,Dairy Products
+2017,9,2017-09-20,68,4,Mexico,México D.F.,Louisiana Hot Spiced Okra,Condiments
+2017,9,2017-09-20,232.5,30,Mexico,México D.F.,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,9,2017-09-21,63,9,France,Nantes,Filo Mix,Grains/Cereals
+2017,9,2017-09-21,367.9999924,20,Germany,Köln,Boston Crab Meat,Seafood
+2017,9,2017-09-21,380,40,Germany,Köln,Zaanse koeken,Confections
+2017,9,2017-09-21,1020,30,Germany,Köln,Camembert Pierrot,Dairy Products
+2017,9,2017-09-24,620,20,Brazil,Campinas,Ikura,Seafood
+2017,9,2017-09-24,38.59999847,4,Brazil,Campinas,Jack's New England Clam Chowder,Seafood
+2017,9,2017-09-24,142.5,15,Brazil,Campinas,Zaanse koeken,Confections
+2017,9,2017-09-25,1170,30,Austria,Salzburg,Alice Mutton,Meat/Poultry
+2017,9,2017-09-25,468.4499931,15,Austria,Salzburg,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,9,2017-09-25,4850,50,Ireland,Cork,Mishi Kobe Niku,Meat/Poultry
+2017,9,2017-09-25,1237.900009,10,Ireland,Cork,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,9,2017-09-25,114,6,Ireland,Cork,Inlagd Sill,Seafood
+2017,9,2017-09-26,558,18,Denmark,Århus,Ikura,Seafood
+2017,9,2017-09-26,2735.999908,60,Denmark,Århus,RÃ¶ssle Sauerkraut,Produce
+2017,9,2017-09-26,196,14,Denmark,Århus,Sasquatch Ale,Beverages
+2017,9,2017-09-26,630,35,Sweden,Luleå,Chai,Beverages
+2017,9,2017-09-27,760,20,Brazil,Rio de Janeiro,Gnocchi di nonna Alice,Grains/Cereals
+2017,9,2017-09-27,390,30,Brazil,Rio de Janeiro,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,9,2017-09-28,540,30,Germany,Cunewalde,Chai,Beverages
+2017,9,2017-09-28,4951.600037,40,Germany,Cunewalde,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,9,2017-09-28,1840,40,Germany,Cunewalde,Ipoh Coffee,Beverages
+2017,9,2017-09-28,466.8000183,24,Germany,Cunewalde,Gula Malacca,Condiments
+2017,9,2017-09-28,2366.399963,48,Germany,Cunewalde,Tarte au sucre,Confections
+2017,9,2017-09-28,878.0000305,20,Germany,Berlin,Vegie-spread,Condiments
+2017,10,2017-10-01,582,6,USA,Seattle,Mishi Kobe Niku,Meat/Poultry
+2017,10,2017-10-01,446.9999886,60,USA,Seattle,TourtiÃ¨re,Meat/Poultry
+2017,10,2017-10-01,1080,30,USA,Seattle,Gudbrandsdalsost,Dairy Products
+2017,10,2017-10-01,225,15,USA,Seattle,RÃ¶d Kaviar,Seafood
+2017,10,2017-10-01,2700,90,Germany,Cunewalde,Uncle Bob's Organic Dried Pears,Produce
+2017,10,2017-10-01,1375,25,Germany,Cunewalde,Raclette Courdavault,Dairy Products
+2017,10,2017-10-01,750,50,Germany,Cunewalde,Outback Lager,Beverages
+2017,10,2017-10-02,400,10,Finland,Helsinki,Northwoods Cranberry Sauce,Condiments
+2017,10,2017-10-02,152,4,Finland,Helsinki,Queso Manchego La Pastora,Dairy Products
+2017,10,2017-10-02,90,20,Finland,Helsinki,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,10,2017-10-03,780,20,USA,Seattle,Alice Mutton,Meat/Poultry
+2017,10,2017-10-03,216,18,USA,Seattle,Spegesild,Seafood
+2017,10,2017-10-03,64.39999866,7,Venezuela,I. de Margarita,Teatime Chocolate Biscuits,Confections
+2017,10,2017-10-03,162,9,Venezuela,I. de Margarita,Steeleye Stout,Beverages
+2017,10,2017-10-03,397.5,30,Venezuela,I. de Margarita,Escargots de Bourgogne,Seafood
+2017,10,2017-10-03,450,30,Venezuela,I. de Margarita,Outback Lager,Beverages
+2017,10,2017-10-04,315,15,Austria,Graz,Queso Cabrales,Dairy Products
+2017,10,2017-10-04,312,8,Austria,Graz,Alice Mutton,Meat/Poultry
+2017,10,2017-10-04,1485.480011,12,Austria,Graz,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,10,2017-10-04,1368.24995,65,Austria,Graz,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,10,2017-10-04,120,8,Austria,Graz,Outback Lager,Beverages
+2017,10,2017-10-04,114,12,Germany,Leipzig,Zaanse koeken,Confections
+2017,10,2017-10-05,90,5,USA,Boise,Chai,Beverages
+2017,10,2017-10-05,168,12,USA,Boise,Sasquatch Ale,Beverages
+2017,10,2017-10-05,500,40,USA,Boise,Scottish Longbreads,Confections
+2017,10,2017-10-05,1290,60,USA,Boise,Flotemysost,Dairy Products
+2017,10,2017-10-08,2310,42,Ireland,Cork,Raclette Courdavault,Dairy Products
+2017,10,2017-10-08,430,20,Ireland,Cork,Flotemysost,Dairy Products
+2017,10,2017-10-08,630,35,Ireland,Cork,LakkalikÃ¶Ã¶ri,Beverages
+2017,10,2017-10-08,60,6,Germany,Berlin,Aniseed Syrup,Condiments
+2017,10,2017-10-08,270,15,Germany,Berlin,LakkalikÃ¶Ã¶ri,Beverages
+2017,10,2017-10-09,95,5,Sweden,Bräcke,Chang,Beverages
+2017,10,2017-10-09,1925,35,Sweden,Bräcke,Raclette Courdavault,Dairy Products
+2017,10,2017-10-09,525,35,Sweden,Bräcke,RÃ¶d Kaviar,Seafood
+2017,10,2017-10-09,132,6,Brazil,Sao Paulo,Chef Anton's Cajun Seasoning,Condiments
+2017,10,2017-10-09,157.5,35,Brazil,Sao Paulo,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,10,2017-10-09,306,24,Brazil,Sao Paulo,Chocolade,Confections
+2017,10,2017-10-10,250,20,Venezuela,San Cristóbal,Gorgonzola Telino,Dairy Products
+2017,10,2017-10-10,128,4,Venezuela,San Cristóbal,Mascarpone Fabioli,Dairy Products
+2017,10,2017-10-11,349.0000153,20,USA,Anchorage,Pavlova,Confections
+2017,10,2017-10-11,1104,24,USA,Anchorage,Ipoh Coffee,Beverages
+2017,10,2017-10-11,440,8,USA,Anchorage,Raclette Courdavault,Dairy Products
+2017,10,2017-10-11,504,21,UK,London,PÃ¢tÃ© chinois,Meat/Poultry
+2017,10,2017-10-11,780,40,UK,London,Ravioli Angelo,Grains/Cereals
+2017,10,2017-10-11,420,28,UK,London,Outback Lager,Beverages
+2017,10,2017-10-12,85.40000153,4,USA,Portland,Chef Anton's Gumbo Mix,Condiments
+2017,10,2017-10-12,95,5,USA,Portland,Inlagd Sill,Seafood
+2017,10,2017-10-12,1600,40,Brazil,Campinas,Northwoods Cranberry Sauce,Condiments
+2017,10,2017-10-12,1484,28,Brazil,Campinas,Manjimup Dried Apples,Produce
+2017,10,2017-10-12,340,10,Brazil,Campinas,Camembert Pierrot,Dairy Products
+2017,10,2017-10-15,45.99999905,5,Italy,Torino,Teatime Chocolate Biscuits,Confections
+2017,10,2017-10-15,47.5,5,Italy,Torino,Zaanse koeken,Confections
+2017,10,2017-10-16,110.3999977,12,USA,Boise,Teatime Chocolate Biscuits,Confections
+2017,10,2017-10-16,405.299984,42,USA,Boise,Jack's New England Clam Chowder,Seafood
+2017,10,2017-10-16,3935.999908,120,USA,Boise,Perth Pasties,Meat/Poultry
+2017,10,2017-10-16,98.39999771,3,Ireland,Cork,Perth Pasties,Meat/Poultry
+2017,10,2017-10-16,1140,30,Ireland,Cork,Gnocchi di nonna Alice,Grains/Cereals
+2017,10,2017-10-17,558,18,USA,Boise,Ikura,Seafood
+2017,10,2017-10-17,936.8999863,30,USA,Boise,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,10,2017-10-17,1045,110,USA,Boise,Rogede sild,Seafood
+2017,10,2017-10-17,288,24,USA,Boise,Spegesild,Seafood
+2017,10,2017-10-17,570,30,USA,Boise,Chang,Beverages
+2017,10,2017-10-17,1053,27,USA,Boise,Alice Mutton,Meat/Poultry
+2017,10,2017-10-17,475,50,USA,Boise,Zaanse koeken,Confections
+2017,10,2017-10-17,684,18,USA,Boise,Gnocchi di nonna Alice,Grains/Cereals
+2017,10,2017-10-17,159,12,USA,Boise,Escargots de Bourgogne,Seafood
+2017,10,2017-10-18,651,21,France,Marseille,Ikura,Seafood
+2017,10,2017-10-18,645,30,France,Marseille,Flotemysost,Dairy Products
+2017,10,2017-10-19,50,5,Argentina,Buenos Aires,Sir Rodney's Scones,Confections
+2017,10,2017-10-19,371,7,Argentina,Buenos Aires,Manjimup Dried Apples,Produce
+2017,10,2017-10-19,285,10,Argentina,Buenos Aires,Sirop d'Ã©rable,Condiments
+2017,10,2017-10-19,320,32,Germany,München,Sir Rodney's Scones,Confections
+2017,10,2017-10-19,111.7499971,15,Germany,München,TourtiÃ¨re,Meat/Poultry
+2017,10,2017-10-19,900,25,Germany,München,Gudbrandsdalsost,Dairy Products
+2017,10,2017-10-22,1368,36,Germany,Brandenburg,Queso Manchego La Pastora,Dairy Products
+2017,10,2017-10-22,349.0000153,20,Germany,Brandenburg,Pavlova,Confections
+2017,10,2017-10-22,760,40,Germany,Brandenburg,Inlagd Sill,Seafood
+2017,10,2017-10-22,985.9999847,20,Germany,Brandenburg,Tarte au sucre,Confections
+2017,10,2017-10-22,750,12,USA,San Francisco,Carnarvon Tigers,Seafood
+2017,10,2017-10-22,77.66999817,3,USA,San Francisco,Nord-Ost Matjeshering,Seafood
+2017,10,2017-10-22,297.9999924,40,USA,San Francisco,TourtiÃ¨re,Meat/Poultry
+2017,10,2017-10-23,378,21,Brazil,Rio de Janeiro,Steeleye Stout,Beverages
+2017,10,2017-10-23,172,8,Brazil,Rio de Janeiro,Flotemysost,Dairy Products
+2017,10,2017-10-24,972.5000381,50,Germany,Cunewalde,Gula Malacca,Condiments
+2017,10,2017-10-24,57,3,USA,Boise,Chang,Beverages
+2017,10,2017-10-24,625,50,USA,Boise,Gorgonzola Telino,Dairy Products
+2017,10,2017-10-24,562.5,45,USA,Boise,Scottish Longbreads,Confections
+2017,10,2017-10-24,325.5,42,USA,Boise,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,10,2017-10-25,468.4499931,15,USA,Seattle,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,10,2017-10-25,496,16,Canada,Montréal,Ikura,Seafood
+2017,10,2017-10-25,142.5,5,Canada,Montréal,Sirop d'Ã©rable,Condiments
+2017,10,2017-10-26,115.7999954,12,Brazil,Sao Paulo,Jack's New England Clam Chowder,Seafood
+2017,10,2017-10-26,28,4,Brazil,Sao Paulo,Filo Mix,Grains/Cereals
+2017,10,2017-10-26,144,6,Brazil,Sao Paulo,PÃ¢tÃ© chinois,Meat/Poultry
+2017,10,2017-10-29,550,25,UK,London,Chef Anton's Cajun Seasoning,Condiments
+2017,10,2017-10-29,105,5,UK,London,Queso Cabrales,Dairy Products
+2017,10,2017-10-29,780,20,Italy,Reggio Emilia,Alice Mutton,Meat/Poultry
+2017,10,2017-10-29,380,10,Italy,Reggio Emilia,Gnocchi di nonna Alice,Grains/Cereals
+2017,10,2017-10-29,550,10,Italy,Reggio Emilia,Raclette Courdavault,Dairy Products
+2017,10,2017-10-30,388.3499908,15,Brazil,Sao Paulo,Nord-Ost Matjeshering,Seafood
+2017,10,2017-10-30,110.3999977,6,Brazil,Sao Paulo,Boston Crab Meat,Seafood
+2017,10,2017-10-30,288,12,Brazil,Sao Paulo,PÃ¢tÃ© chinois,Meat/Poultry
+2017,10,2017-10-30,510,15,Brazil,Sao Paulo,Camembert Pierrot,Dairy Products
+2017,10,2017-10-30,900,50,Venezuela,I. de Margarita,Chai,Beverages
+2017,10,2017-10-30,300,30,Venezuela,I. de Margarita,Sir Rodney's Scones,Confections
+2017,10,2017-10-30,650,40,Venezuela,I. de Margarita,Valkoinen suklaa,Confections
+2017,10,2017-10-31,261.7500114,15,France,Marseille,Pavlova,Confections
+2017,10,2017-10-31,37.5,3,France,Marseille,Gorgonzola Telino,Dairy Products
+2017,10,2017-10-31,210.4999924,10,France,Marseille,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,11,2017-11-01,400,40,Switzerland,Bern,Sir Rodney's Scones,Confections
+2017,11,2017-11-01,1590,30,Switzerland,Bern,Manjimup Dried Apples,Produce
+2017,11,2017-11-01,360,20,France,Marseille,LakkalikÃ¶Ã¶ri,Beverages
+2017,11,2017-11-02,372,16,Sweden,Luleå,Tofu,Produce
+2017,11,2017-11-02,911.9999695,20,Sweden,Luleå,RÃ¶ssle Sauerkraut,Produce
+2017,11,2017-11-02,175,25,Sweden,Luleå,Filo Mix,Grains/Cereals
+2017,11,2017-11-02,750,30,Brazil,Campinas,Grandma's Boysenberry Spread,Condiments
+2017,11,2017-11-02,388.3499908,15,Brazil,Campinas,Nord-Ost Matjeshering,Seafood
+2017,11,2017-11-02,360,20,Brazil,Campinas,LakkalikÃ¶Ã¶ri,Beverages
+2017,11,2017-11-05,570,20,USA,San Francisco,Sirop d'Ã©rable,Condiments
+2017,11,2017-11-05,26,2,USA,San Francisco,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,11,2017-11-06,841.9999695,40,Ireland,Cork,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,11,2017-11-06,155,20,Ireland,Cork,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,11,2017-11-06,24,4,France,Reims,Konbu,Seafood
+2017,11,2017-11-06,115.7999954,12,France,Reims,Jack's New England Clam Chowder,Seafood
+2017,11,2017-11-07,52.35000229,3,France,Paris,Pavlova,Confections
+2017,11,2017-11-07,114,6,France,Reims,Inlagd Sill,Seafood
+2017,11,2017-11-07,126,18,France,Reims,Filo Mix,Grains/Cereals
+2017,11,2017-11-08,227.9999924,5,USA,Seattle,RÃ¶ssle Sauerkraut,Produce
+2017,11,2017-11-08,630,35,USA,Seattle,Steeleye Stout,Beverages
+2017,11,2017-11-08,380,40,USA,Seattle,Rogede sild,Seafood
+2017,11,2017-11-08,532,14,USA,Seattle,Gnocchi di nonna Alice,Grains/Cereals
+2017,11,2017-11-09,285,15,UK,London,Chang,Beverages
+2017,11,2017-11-09,200,20,Canada,Tsawassen,Aniseed Syrup,Condiments
+2017,11,2017-11-09,1700,50,Canada,Tsawassen,Camembert Pierrot,Dairy Products
+2017,11,2017-11-09,1217.999973,35,Canada,Tsawassen,Mozzarella di Giovanni,Dairy Products
+2017,11,2017-11-12,336,28,UK,London,Spegesild,Seafood
+2017,11,2017-11-12,919.9999809,50,Denmark,Århus,Boston Crab Meat,Seafood
+2017,11,2017-11-13,1500,24,Germany,Cunewalde,Carnarvon Tigers,Seafood
+2017,11,2017-11-13,311.2000122,16,Germany,Cunewalde,Gula Malacca,Condiments
+2017,11,2017-11-13,2475,45,Germany,Cunewalde,Raclette Courdavault,Dairy Products
+2017,11,2017-11-13,243.5999947,7,Germany,Cunewalde,Mozzarella di Giovanni,Dairy Products
+2017,11,2017-11-14,36,6,Switzerland,Bern,Konbu,Seafood
+2017,11,2017-11-14,392,28,Switzerland,Bern,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,11,2017-11-14,443.6999931,9,Switzerland,Bern,Tarte au sucre,Confections
+2017,11,2017-11-14,1440,40,Switzerland,Bern,Gudbrandsdalsost,Dairy Products
+2017,11,2017-11-14,100,8,Austria,Salzburg,Gorgonzola Telino,Dairy Products
+2017,11,2017-11-14,337.7499866,35,Austria,Salzburg,Jack's New England Clam Chowder,Seafood
+2017,11,2017-11-14,395.1000137,9,Austria,Salzburg,Vegie-spread,Condiments
+2017,11,2017-11-14,1080,30,Austria,Salzburg,Gudbrandsdalsost,Dairy Products
+2017,11,2017-11-15,396,44,USA,Boise,TunnbrÃ¶d,Grains/Cereals
+2017,11,2017-11-15,735.9999847,40,USA,Boise,Boston Crab Meat,Seafood
+2017,11,2017-11-15,1064,28,USA,Boise,Gnocchi di nonna Alice,Grains/Cereals
+2017,11,2017-11-15,570,15,UK,Cowes,Gnocchi di nonna Alice,Grains/Cereals
+2017,11,2017-11-15,330,6,UK,Cowes,Raclette Courdavault,Dairy Products
+2017,11,2017-11-15,180,10,UK,Cowes,LakkalikÃ¶Ã¶ri,Beverages
+2017,11,2017-11-16,116.25,5,Finland,Oulu,Tofu,Produce
+2017,11,2017-11-16,380,40,Finland,Oulu,Rogede sild,Seafood
+2017,11,2017-11-16,1375,25,Finland,Oulu,Raclette Courdavault,Dairy Products
+2017,11,2017-11-19,374.7599945,12,Switzerland,Genève,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,11,2017-11-19,776.6999817,30,Switzerland,Genève,Nord-Ost Matjeshering,Seafood
+2017,11,2017-11-19,325,20,Switzerland,Genève,Valkoinen suklaa,Confections
+2017,11,2017-11-19,225,15,Switzerland,Genève,RÃ¶d Kaviar,Seafood
+2017,11,2017-11-19,144,8,UK,London,Chai,Beverages
+2017,11,2017-11-19,108,3,UK,London,Gudbrandsdalsost,Dairy Products
+2017,11,2017-11-20,38,4,Italy,Torino,Rogede sild,Seafood
+2017,11,2017-11-20,50,5,Italy,Torino,Longlife Tofu,Produce
+2017,11,2017-11-20,55.19999886,3,Italy,Bergamo,Boston Crab Meat,Seafood
+2017,11,2017-11-21,285,30,France,Marseille,Zaanse koeken,Confections
+2017,11,2017-11-21,1140,30,France,Marseille,Gnocchi di nonna Alice,Grains/Cereals
+2017,11,2017-11-21,273,14,France,Marseille,Ravioli Angelo,Grains/Cereals
+2017,11,2017-11-21,900,25,France,Marseille,Gudbrandsdalsost,Dairy Products
+2017,11,2017-11-22,1312.5,21,USA,Lander,Carnarvon Tigers,Seafood
+2017,11,2017-11-22,380,20,USA,Lander,Inlagd Sill,Seafood
+2017,11,2017-11-22,75,6,USA,Lander,Scottish Longbreads,Confections
+2017,11,2017-11-22,720,20,USA,Lander,Gudbrandsdalsost,Dairy Products
+2017,11,2017-11-22,420,30,USA,Boise,Sasquatch Ale,Beverages
+2017,11,2017-11-22,385,7,USA,Boise,Raclette Courdavault,Dairy Products
+2017,11,2017-11-22,1478.999977,30,USA,Boise,Tarte au sucre,Confections
+2017,11,2017-11-22,798,24,USA,Boise,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,11,2017-11-23,624.5999908,20,Switzerland,Genève,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,11,2017-11-23,420,60,Switzerland,Genève,Filo Mix,Grains/Cereals
+2017,11,2017-11-23,600,40,Switzerland,Genève,Outback Lager,Beverages
+2017,11,2017-11-23,320,10,Mexico,México D.F.,Mascarpone Fabioli,Dairy Products
+2017,11,2017-11-26,168,12,Belgium,Bruxelles,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,11,2017-11-26,1756.000061,40,Belgium,Bruxelles,Schoggi Schokolade,Confections
+2017,11,2017-11-26,1380,30,Belgium,Bruxelles,Ipoh Coffee,Beverages
+2017,11,2017-11-27,490,35,USA,Albuquerque,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,11,2017-11-27,139.5,18,USA,Albuquerque,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,11,2017-11-27,288,16,Sweden,Bräcke,Chartreuse verte,Beverages
+2017,11,2017-11-27,285,30,Sweden,Bräcke,Zaanse koeken,Confections
+2017,11,2017-11-27,1484,28,Sweden,Bräcke,Manjimup Dried Apples,Produce
+2017,11,2017-11-27,2280,60,Sweden,Bräcke,Gnocchi di nonna Alice,Grains/Cereals
+2017,11,2017-11-28,400,40,France,Lille,Sir Rodney's Scones,Confections
+2017,11,2017-11-28,126,6,France,Lille,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,11,2017-11-28,90,20,France,Lille,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,11,2017-11-28,200,20,Austria,Graz,Aniseed Syrup,Condiments
+2017,11,2017-11-28,2340,130,Austria,Graz,Chartreuse verte,Beverages
+2017,11,2017-11-29,1683.999939,80,Germany,Cunewalde,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,11,2017-11-30,760,40,Germany,Köln,Chang,Beverages
+2017,11,2017-11-30,1050,35,Germany,Köln,Uncle Bob's Organic Dried Pears,Produce
+2017,11,2017-11-30,500,40,Germany,Köln,Scottish Longbreads,Confections
+2017,11,2017-11-30,28,2,Belgium,Charleroi,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,12,2017-12-03,84,4,UK,London,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2017,12,2017-12-03,625,50,UK,London,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-03,510,15,UK,London,Camembert Pierrot,Dairy Products
+2017,12,2017-12-03,258,12,UK,London,Flotemysost,Dairy Products
+2017,12,2017-12-03,289.4999886,30,Denmark,Århus,Jack's New England Clam Chowder,Seafood
+2017,12,2017-12-03,105,15,Denmark,Århus,Filo Mix,Grains/Cereals
+2017,12,2017-12-03,570,20,Denmark,Århus,Sirop d'Ã©rable,Condiments
+2017,12,2017-12-03,739.4999886,15,Denmark,Århus,Tarte au sucre,Confections
+2017,12,2017-12-04,315,15,Brazil,Rio de Janeiro,Queso Cabrales,Dairy Products
+2017,12,2017-12-05,344,16,Austria,Graz,Flotemysost,Dairy Products
+2017,12,2017-12-05,2228.220016,18,Germany,Frankfurt a.M.,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,12,2017-12-05,1375,25,Germany,Frankfurt a.M.,Raclette Courdavault,Dairy Products
+2017,12,2017-12-06,1287,33,Austria,Graz,Alice Mutton,Meat/Poultry
+2017,12,2017-12-06,875,70,Austria,Graz,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-06,54.25,7,Austria,Graz,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,12,2017-12-06,25,2,Sweden,Bräcke,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-06,850,50,Sweden,Bräcke,Louisiana Hot Spiced Okra,Condiments
+2017,12,2017-12-07,186,6,USA,Butte,Ikura,Seafood
+2017,12,2017-12-07,42,3,USA,Butte,Laughing Lumberjack Lager,Beverages
+2017,12,2017-12-10,200,16,Austria,Graz,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-10,168,12,Austria,Graz,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,12,2017-12-10,256.5,27,Austria,Graz,Rogede sild,Seafood
+2017,12,2017-12-10,6360,120,Austria,Graz,Manjimup Dried Apples,Produce
+2017,12,2017-12-10,280,20,Brazil,Campinas,Singaporean Hokkien Fried Mee,Grains/Cereals
+2017,12,2017-12-11,96.49999619,10,Sweden,Luleå,Jack's New England Clam Chowder,Seafood
+2017,12,2017-12-11,349.0000153,20,Germany,Leipzig,Pavlova,Confections
+2017,12,2017-12-11,985.9999847,20,Germany,Leipzig,Tarte au sucre,Confections
+2017,12,2017-12-11,525,35,Venezuela,Barquisimeto,Outback Lager,Beverages
+2017,12,2017-12-11,195,15,Venezuela,Barquisimeto,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,12,2017-12-12,22.34999943,3,Finland,Oulu,TourtiÃ¨re,Meat/Poultry
+2017,12,2017-12-12,760,20,Finland,Oulu,Gnocchi di nonna Alice,Grains/Cereals
+2017,12,2017-12-12,350,35,Finland,Oulu,Longlife Tofu,Produce
+2017,12,2017-12-12,12.5,1,Argentina,Buenos Aires,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-13,125,10,Brazil,Rio de Janeiro,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-13,1317.5,5,Brazil,Rio de Janeiro,CÃ´te de Blaye,Beverages
+2017,12,2017-12-13,570,30,Italy,Bergamo,Inlagd Sill,Seafood
+2017,12,2017-12-13,36,2,Italy,Bergamo,Chartreuse verte,Beverages
+2017,12,2017-12-13,1043.999977,30,Italy,Bergamo,Mozzarella di Giovanni,Dairy Products
+2017,12,2017-12-13,310,10,Venezuela,Caracas,Ikura,Seafood
+2017,12,2017-12-13,77.5,10,Venezuela,Caracas,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,12,2017-12-14,1200,30,Brazil,Sao Paulo,Northwoods Cranberry Sauce,Condiments
+2017,12,2017-12-14,388.3499908,15,Brazil,Sao Paulo,Nord-Ost Matjeshering,Seafood
+2017,12,2017-12-14,325.5,42,Brazil,Sao Paulo,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,12,2017-12-14,285,15,France,Toulouse,Chang,Beverages
+2017,12,2017-12-14,2475.800018,20,France,Toulouse,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,12,2017-12-17,459.9999905,50,Germany,Cunewalde,Teatime Chocolate Biscuits,Confections
+2017,12,2017-12-17,310,40,Germany,Cunewalde,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2017,12,2017-12-17,1875,30,France,Lille,Carnarvon Tigers,Seafood
+2017,12,2017-12-17,270,15,France,Lille,Steeleye Stout,Beverages
+2017,12,2017-12-17,1317.000046,30,France,Lille,Vegie-spread,Condiments
+2017,12,2017-12-17,225,18,France,Lille,Scottish Longbreads,Confections
+2017,12,2017-12-17,90,3,Brazil,Campinas,Uncle Bob's Organic Dried Pears,Produce
+2017,12,2017-12-17,760,20,Brazil,Campinas,Gnocchi di nonna Alice,Grains/Cereals
+2017,12,2017-12-18,1733.060013,14,Germany,München,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,12,2017-12-18,192.9999924,20,Germany,München,Jack's New England Clam Chowder,Seafood
+2017,12,2017-12-18,190,10,Poland,Warszawa,Chang,Beverages
+2017,12,2017-12-18,22.34999943,3,Poland,Warszawa,TourtiÃ¨re,Meat/Poultry
+2017,12,2017-12-18,187.5,15,Poland,Warszawa,Scottish Longbreads,Confections
+2017,12,2017-12-19,135.0999947,14,UK,London,Jack's New England Clam Chowder,Seafood
+2017,12,2017-12-19,56,8,UK,London,Filo Mix,Grains/Cereals
+2017,12,2017-12-19,348.75,15,Brazil,Rio de Janeiro,Tofu,Produce
+2017,12,2017-12-19,44.69999886,6,Brazil,Rio de Janeiro,TourtiÃ¨re,Meat/Poultry
+2017,12,2017-12-19,1134.25005,65,Austria,Graz,Pavlova,Confections
+2017,12,2017-12-19,1365,35,Austria,Graz,Alice Mutton,Meat/Poultry
+2017,12,2017-12-20,655.8299904,21,Venezuela,San Cristóbal,GumbÃ¤r GummibÃ¤rchen,Confections
+2017,12,2017-12-20,194.5000076,10,Venezuela,San Cristóbal,Gula Malacca,Condiments
+2017,12,2017-12-20,1163.75,35,Venezuela,San Cristóbal,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2017,12,2017-12-20,864,24,Venezuela,San Cristóbal,Gudbrandsdalsost,Dairy Products
+2017,12,2017-12-20,420,20,Germany,Aachen,Queso Cabrales,Dairy Products
+2017,12,2017-12-21,98.59999847,2,UK,Cowes,Tarte au sucre,Confections
+2017,12,2017-12-21,347.9999924,10,UK,Cowes,Mozzarella di Giovanni,Dairy Products
+2017,12,2017-12-21,120,20,Germany,Brandenburg,Konbu,Seafood
+2017,12,2017-12-21,90,20,Germany,Brandenburg,GuaranÃ¡ FantÃ¡stica,Beverages
+2017,12,2017-12-21,1375,25,Germany,Brandenburg,Raclette Courdavault,Dairy Products
+2017,12,2017-12-21,1050,50,UK,London,Queso Cabrales,Dairy Products
+2017,12,2017-12-21,530,10,UK,London,Manjimup Dried Apples,Produce
+2017,12,2017-12-21,52.14999866,7,UK,London,TourtiÃ¨re,Meat/Poultry
+2017,12,2017-12-24,1560,40,Spain,Madrid,Alice Mutton,Meat/Poultry
+2017,12,2017-12-24,2475.800018,20,Spain,Madrid,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2017,12,2017-12-24,647.2499847,25,Denmark,Kobenhavn,Nord-Ost Matjeshering,Seafood
+2017,12,2017-12-24,1590,30,Denmark,Kobenhavn,Manjimup Dried Apples,Produce
+2017,12,2017-12-24,1440,60,Denmark,Kobenhavn,PÃ¢tÃ© chinois,Meat/Poultry
+2017,12,2017-12-24,246.4999962,5,Denmark,Kobenhavn,Tarte au sucre,Confections
+2017,12,2017-12-25,220.7999954,24,Brazil,Resende,Teatime Chocolate Biscuits,Confections
+2017,12,2017-12-25,210,15,Brazil,Resende,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,12,2017-12-25,825,15,Brazil,Resende,Raclette Courdavault,Dairy Products
+2017,12,2017-12-25,1116,36,UK,London,Ikura,Seafood
+2017,12,2017-12-25,1094.399963,24,UK,London,RÃ¶ssle Sauerkraut,Produce
+2017,12,2017-12-25,80,4,UK,London,Maxilaku,Confections
+2017,12,2017-12-25,140,10,USA,Portland,Sasquatch Ale,Beverages
+2017,12,2017-12-25,2635,10,USA,Portland,CÃ´te de Blaye,Beverages
+2017,12,2017-12-26,380,20,France,Lyon,Chang,Beverages
+2017,12,2017-12-26,42.09999847,2,France,Lyon,Louisiana Fiery Hot Pepper Sauce,Condiments
+2017,12,2017-12-26,150,15,France,Lyon,Longlife Tofu,Produce
+2017,12,2017-12-26,18.39999962,1,Italy,Torino,Boston Crab Meat,Seafood
+2017,12,2017-12-27,760,20,USA,Anchorage,Gnocchi di nonna Alice,Grains/Cereals
+2017,12,2017-12-27,900,50,USA,Anchorage,LakkalikÃ¶Ã¶ri,Beverages
+2017,12,2017-12-27,140,20,Brazil,Resende,Filo Mix,Grains/Cereals
+2017,12,2017-12-27,42,7,Canada,Vancouver,Konbu,Seafood
+2017,12,2017-12-27,70,5,Canada,Vancouver,NuNuCa NuÃ-Nougat-Creme,Confections
+2017,12,2017-12-27,75,5,Canada,Vancouver,Outback Lager,Beverages
+2017,12,2017-12-28,137.9999971,15,Venezuela,I. de Margarita,Teatime Chocolate Biscuits,Confections
+2017,12,2017-12-28,162,18,Venezuela,I. de Margarita,TunnbrÃ¶d,Grains/Cereals
+2017,12,2017-12-28,551.9999886,30,Venezuela,I. de Margarita,Boston Crab Meat,Seafood
+2017,12,2017-12-28,200,16,Italy,Reggio Emilia,Gorgonzola Telino,Dairy Products
+2017,12,2017-12-28,1391.999969,40,Italy,Reggio Emilia,Mozzarella di Giovanni,Dairy Products
+2017,12,2017-12-28,260,20,Italy,Reggio Emilia,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2017,12,2017-12-31,228,12,Brazil,Rio de Janeiro,Chang,Beverages
+2017,12,2017-12-31,420,35,Brazil,Rio de Janeiro,Spegesild,Seafood
+2017,12,2017-12-31,192.9999924,20,France,Lyon,Jack's New England Clam Chowder,Seafood
+2017,12,2017-12-31,920,20,France,Lyon,Ipoh Coffee,Beverages
+2017,12,2017-12-31,102,8,France,Lyon,Chocolade,Confections
+2017,12,2017-12-31,855,30,France,Lyon,Sirop d'Ã©rable,Condiments
+2017,12,2017-12-31,40,16,USA,Boise,Geitost,Dairy Products
+2018,1,2018-01-01,7905,30,USA,Eugene,CÃ´te de Blaye,Beverages
+2018,1,2018-01-01,985.9999847,20,USA,Eugene,Tarte au sucre,Confections
+2018,1,2018-01-01,1249.199982,40,Germany,Brandenburg,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,1,2018-01-01,7905,30,Germany,Brandenburg,CÃ´te de Blaye,Beverages
+2018,1,2018-01-01,1103.999977,60,Germany,Brandenburg,Boston Crab Meat,Seafood
+2018,1,2018-01-01,1232.499981,25,Germany,Brandenburg,Tarte au sucre,Confections
+2018,1,2018-01-02,640,20,Italy,Bergamo,Mascarpone Fabioli,Dairy Products
+2018,1,2018-01-02,192.9999924,20,Italy,Bergamo,Jack's New England Clam Chowder,Seafood
+2018,1,2018-01-02,322,7,Argentina,Buenos Aires,Ipoh Coffee,Beverages
+2018,1,2018-01-02,155,20,Argentina,Buenos Aires,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,1,2018-01-02,1140,30,USA,Albuquerque,Gnocchi di nonna Alice,Grains/Cereals
+2018,1,2018-01-03,360,20,USA,Lander,Steeleye Stout,Beverages
+2018,1,2018-01-03,318,6,USA,Lander,Manjimup Dried Apples,Produce
+2018,1,2018-01-03,147.8999977,3,USA,Kirkland,Tarte au sucre,Confections
+2018,1,2018-01-03,90,6,USA,Kirkland,Outback Lager,Beverages
+2018,1,2018-01-04,420,20,Venezuela,Barquisimeto,Queso Cabrales,Dairy Products
+2018,1,2018-01-04,292.5,15,Venezuela,Barquisimeto,Ravioli Angelo,Grains/Cereals
+2018,1,2018-01-04,2200,40,Venezuela,Barquisimeto,Raclette Courdavault,Dairy Products
+2018,1,2018-01-04,195,15,Venezuela,Barquisimeto,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,1,2018-01-04,115.7999954,12,Sweden,Bräcke,Jack's New England Clam Chowder,Seafood
+2018,1,2018-01-04,135,9,Sweden,Bräcke,Outback Lager,Beverages
+2018,1,2018-01-04,374.7599945,12,Germany,Aachen,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,1,2018-01-04,655.9999847,20,Germany,Aachen,Perth Pasties,Meat/Poultry
+2018,1,2018-01-07,437.5,35,France,Strasbourg,Gorgonzola Telino,Dairy Products
+2018,1,2018-01-07,292.5,15,France,Strasbourg,Ravioli Angelo,Grains/Cereals
+2018,1,2018-01-07,465,15,France,Marseille,Ikura,Seafood
+2018,1,2018-01-07,378,21,France,Marseille,Chartreuse verte,Beverages
+2018,1,2018-01-08,405,5,Argentina,Buenos Aires,Sir Rodney's Marmalade,Confections
+2018,1,2018-01-08,527,2,Argentina,Buenos Aires,CÃ´te de Blaye,Beverages
+2018,1,2018-01-08,190,10,UK,Cowes,Chang,Beverages
+2018,1,2018-01-08,800,20,UK,Cowes,Northwoods Cranberry Sauce,Condiments
+2018,1,2018-01-08,60,10,UK,Cowes,Konbu,Seafood
+2018,1,2018-01-08,714,21,UK,Cowes,Camembert Pierrot,Dairy Products
+2018,1,2018-01-08,150,6,Brazil,Sao Paulo,Grandma's Boysenberry Spread,Condiments
+2018,1,2018-01-08,504,28,Brazil,Sao Paulo,Chartreuse verte,Beverages
+2018,1,2018-01-08,1020,30,Brazil,Sao Paulo,Camembert Pierrot,Dairy Products
+2018,1,2018-01-08,300,24,Brazil,Sao Paulo,Scottish Longbreads,Confections
+2018,1,2018-01-09,18.39999962,2,Norway,Stavern,Teatime Chocolate Biscuits,Confections
+2018,1,2018-01-09,144,8,Norway,Stavern,Steeleye Stout,Beverages
+2018,1,2018-01-09,2108,8,Norway,Stavern,CÃ´te de Blaye,Beverages
+2018,1,2018-01-09,414,9,Norway,Stavern,Ipoh Coffee,Beverages
+2018,1,2018-01-09,18,3,France,Toulouse,Konbu,Seafood
+2018,1,2018-01-09,140,10,France,Toulouse,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,1,2018-01-09,311.2000122,16,France,Toulouse,Gula Malacca,Condiments
+2018,1,2018-01-09,99.75,3,France,Toulouse,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,1,2018-01-10,600,20,Germany,Köln,Uncle Bob's Organic Dried Pears,Produce
+2018,1,2018-01-10,112.5,9,Germany,Köln,Gorgonzola Telino,Dairy Products
+2018,1,2018-01-10,295.1999931,9,Germany,Köln,Perth Pasties,Meat/Poultry
+2018,1,2018-01-10,990.3200073,8,Brazil,Sao Paulo,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,1,2018-01-10,517.7999878,20,Brazil,Sao Paulo,Nord-Ost Matjeshering,Seafood
+2018,1,2018-01-10,825,15,Germany,Berlin,Raclette Courdavault,Dairy Products
+2018,1,2018-01-10,26,2,Germany,Berlin,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,1,2018-01-11,1092,52,Austria,Graz,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2018,1,2018-01-11,108,6,Austria,Graz,Steeleye Stout,Beverages
+2018,1,2018-01-11,468,24,Austria,Graz,Ravioli Angelo,Grains/Cereals
+2018,1,2018-01-11,2040,60,Austria,Graz,Camembert Pierrot,Dairy Products
+2018,1,2018-01-11,997.5,30,Austria,Graz,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,1,2018-01-11,36,6,Sweden,Luleå,Konbu,Seafood
+2018,1,2018-01-11,459.9999905,25,Sweden,Luleå,Boston Crab Meat,Seafood
+2018,1,2018-01-11,380,40,Sweden,Luleå,Zaanse koeken,Confections
+2018,1,2018-01-11,378,21,Sweden,Luleå,LakkalikÃ¶Ã¶ri,Beverages
+2018,1,2018-01-14,72,4,Venezuela,I. de Margarita,Chai,Beverages
+2018,1,2018-01-14,1562.5,25,Venezuela,I. de Margarita,Carnarvon Tigers,Seafood
+2018,1,2018-01-14,950,50,Venezuela,I. de Margarita,Inlagd Sill,Seafood
+2018,1,2018-01-14,397.5,30,Brazil,Sao Paulo,Escargots de Bourgogne,Seafood
+2018,1,2018-01-14,521.9999886,15,Brazil,Sao Paulo,Mozzarella di Giovanni,Dairy Products
+2018,1,2018-01-14,84,6,Venezuela,I. de Margarita,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,1,2018-01-14,180,10,Venezuela,I. de Margarita,Chartreuse verte,Beverages
+2018,1,2018-01-15,496,16,Belgium,Charleroi,Ikura,Seafood
+2018,1,2018-01-15,1140,30,Belgium,Charleroi,Gnocchi di nonna Alice,Grains/Cereals
+2018,1,2018-01-15,2750,50,Belgium,Charleroi,Raclette Courdavault,Dairy Products
+2018,1,2018-01-15,195,15,Belgium,Charleroi,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,1,2018-01-15,315,15,Mexico,México D.F.,Queso Cabrales,Dairy Products
+2018,1,2018-01-15,230,5,Mexico,México D.F.,Ipoh Coffee,Beverages
+2018,1,2018-01-15,250,20,Mexico,México D.F.,Scottish Longbreads,Confections
+2018,1,2018-01-15,180,12,Mexico,México D.F.,Outback Lager,Beverages
+2018,1,2018-01-16,212,4,France,Lyon,Manjimup Dried Apples,Produce
+2018,1,2018-01-16,735,35,Austria,Salzburg,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2018,1,2018-01-16,630,70,Germany,Cunewalde,TunnbrÃ¶d,Grains/Cereals
+2018,1,2018-01-16,450,25,Germany,Cunewalde,Steeleye Stout,Beverages
+2018,1,2018-01-16,588,42,Germany,Cunewalde,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,1,2018-01-16,795,60,Germany,Cunewalde,Escargots de Bourgogne,Seafood
+2018,1,2018-01-16,1596,48,Germany,Cunewalde,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,1,2018-01-17,462,21,Belgium,Charleroi,Chef Anton's Cajun Seasoning,Condiments
+2018,1,2018-01-17,450,30,Belgium,Charleroi,Outback Lager,Beverages
+2018,1,2018-01-17,200,20,Belgium,Charleroi,Longlife Tofu,Produce
+2018,1,2018-01-17,1440,80,USA,Boise,Chai,Beverages
+2018,1,2018-01-17,110.3999977,12,USA,Boise,Teatime Chocolate Biscuits,Confections
+2018,1,2018-01-17,1560,60,USA,Boise,Gravad lax,Seafood
+2018,1,2018-01-17,342,36,USA,Boise,Rogede sild,Seafood
+2018,1,2018-01-17,1530,45,USA,Boise,Camembert Pierrot,Dairy Products
+2018,1,2018-01-17,1182.5,55,USA,Boise,Flotemysost,Dairy Products
+2018,1,2018-01-18,640.5000114,30,UK,London,Chef Anton's Gumbo Mix,Condiments
+2018,1,2018-01-18,291,3,UK,London,Mishi Kobe Niku,Meat/Poultry
+2018,1,2018-01-18,490,49,Germany,Brandenburg,Aniseed Syrup,Condiments
+2018,1,2018-01-18,562.1399918,18,Germany,Brandenburg,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,1,2018-01-18,280,20,France,Lyon,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,1,2018-01-18,10,4,France,Lyon,Geitost,Dairy Products
+2018,1,2018-01-18,450,30,France,Lyon,Outback Lager,Beverages
+2018,1,2018-01-21,95,5,Brazil,Rio de Janeiro,Chang,Beverages
+2018,1,2018-01-21,140,10,Brazil,Rio de Janeiro,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,1,2018-01-21,195,10,Brazil,Rio de Janeiro,Ravioli Angelo,Grains/Cereals
+2018,1,2018-01-21,2310,42,Brazil,Rio de Janeiro,Raclette Courdavault,Dairy Products
+2018,1,2018-01-21,285,15,USA,Albuquerque,Chang,Beverages
+2018,1,2018-01-21,234,6,USA,Albuquerque,Alice Mutton,Meat/Poultry
+2018,1,2018-01-21,2464.999962,50,USA,Albuquerque,Tarte au sucre,Confections
+2018,1,2018-01-22,625,10,Germany,Mannheim,Carnarvon Tigers,Seafood
+2018,1,2018-01-22,3100,100,Austria,Graz,Ikura,Seafood
+2018,1,2018-01-22,390,65,Austria,Graz,Konbu,Seafood
+2018,1,2018-01-22,872.5000381,50,USA,Anchorage,Pavlova,Confections
+2018,1,2018-01-22,175,14,USA,Anchorage,Gorgonzola Telino,Dairy Products
+2018,1,2018-01-22,912,24,USA,Anchorage,Gnocchi di nonna Alice,Grains/Cereals
+2018,1,2018-01-22,315.7499886,15,USA,Anchorage,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,1,2018-01-23,380,20,Mexico,México D.F.,Chang,Beverages
+2018,1,2018-01-23,280,20,Mexico,México D.F.,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,1,2018-01-23,300,30,Sweden,Luleå,Aniseed Syrup,Condiments
+2018,1,2018-01-23,1093.049984,35,Sweden,Luleå,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,1,2018-01-23,1237.900009,10,Sweden,Luleå,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,1,2018-01-24,150,5,France,Versailles,Uncle Bob's Organic Dried Pears,Produce
+2018,1,2018-01-24,439.0000153,10,France,Versailles,Schoggi Schokolade,Confections
+2018,1,2018-01-24,60,4,France,Versailles,Outback Lager,Beverages
+2018,1,2018-01-24,180,40,Germany,München,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,1,2018-01-24,260.7499933,35,Germany,München,TourtiÃ¨re,Meat/Poultry
+2018,1,2018-01-24,997.5,30,Germany,München,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,1,2018-01-24,159,3,France,Nantes,Manjimup Dried Apples,Produce
+2018,1,2018-01-24,360,20,France,Nantes,LakkalikÃ¶Ã¶ri,Beverages
+2018,1,2018-01-25,1638,42,USA,Seattle,Alice Mutton,Meat/Poultry
+2018,1,2018-01-25,1250,20,USA,Seattle,Carnarvon Tigers,Seafood
+2018,1,2018-01-25,400,40,USA,Seattle,Sir Rodney's Scones,Confections
+2018,1,2018-01-25,87.5,35,USA,Seattle,Geitost,Dairy Products
+2018,1,2018-01-25,147.8999977,3,USA,Seattle,Tarte au sucre,Confections
+2018,1,2018-01-25,525,25,Germany,Frankfurt a.M.,Queso Cabrales,Dairy Products
+2018,1,2018-01-25,56,8,Germany,Frankfurt a.M.,Filo Mix,Grains/Cereals
+2018,1,2018-01-28,360,20,Venezuela,San Cristóbal,Chai,Beverages
+2018,1,2018-01-28,159,12,Venezuela,San Cristóbal,Escargots de Bourgogne,Seafood
+2018,1,2018-01-28,72,4,UK,London,Steeleye Stout,Beverages
+2018,1,2018-01-28,210,15,UK,London,Laughing Lumberjack Lager,Beverages
+2018,1,2018-01-28,15810,60,Germany,Cunewalde,CÃ´te de Blaye,Beverages
+2018,1,2018-01-28,1440,80,Germany,Cunewalde,Chartreuse verte,Beverages
+2018,1,2018-01-29,399,21,Sweden,Luleå,Chang,Beverages
+2018,1,2018-01-29,27,6,Sweden,Luleå,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,1,2018-01-29,1035.599976,40,Sweden,Luleå,Nord-Ost Matjeshering,Seafood
+2018,1,2018-01-29,98.39999771,3,USA,Portland,Perth Pasties,Meat/Poultry
+2018,1,2018-01-30,624.5999908,20,Brazil,Sao Paulo,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,1,2018-01-30,540,30,Brazil,Sao Paulo,Steeleye Stout,Beverages
+2018,1,2018-01-30,840,42,Brazil,Sao Paulo,Maxilaku,Confections
+2018,1,2018-01-30,720,40,UK,London,Chai,Beverages
+2018,1,2018-01-30,210,10,UK,London,Queso Cabrales,Dairy Products
+2018,1,2018-01-30,450,50,UK,London,TunnbrÃ¶d,Grains/Cereals
+2018,1,2018-01-30,250,20,UK,London,Scottish Longbreads,Confections
+2018,1,2018-01-30,54,3,Poland,Warszawa,Steeleye Stout,Beverages
+2018,1,2018-01-30,106,2,Poland,Warszawa,Manjimup Dried Apples,Produce
+2018,1,2018-01-31,1250,50,France,Marseille,Grandma's Boysenberry Spread,Condiments
+2018,1,2018-01-31,209.4000092,12,France,Marseille,Pavlova,Confections
+2018,1,2018-01-31,624,16,France,Marseille,Alice Mutton,Meat/Poultry
+2018,1,2018-01-31,240,10,Spain,Sevilla,PÃ¢tÃ© chinois,Meat/Poultry
+2018,1,2018-01-31,985.9999847,20,Spain,Sevilla,Tarte au sucre,Confections
+2018,1,2018-01-31,498.75,15,Spain,Sevilla,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,1,2018-01-31,442.049984,21,Spain,Sevilla,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,2,2018-02-01,200,20,Finland,Helsinki,Sir Rodney's Scones,Confections
+2018,2,2018-02-01,136.7999954,3,Finland,Helsinki,RÃ¶ssle Sauerkraut,Produce
+2018,2,2018-02-01,310,10,Spain,Sevilla,Ikura,Seafood
+2018,2,2018-02-01,229.9999952,25,Sweden,Luleå,Teatime Chocolate Biscuits,Confections
+2018,2,2018-02-01,199.5,21,Sweden,Luleå,Zaanse koeken,Confections
+2018,2,2018-02-01,300,15,Sweden,Luleå,Maxilaku,Confections
+2018,2,2018-02-04,252,21,France,Marseille,Spegesild,Seafood
+2018,2,2018-02-04,665,20,France,Marseille,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,2,2018-02-04,523.5000229,30,Brazil,Rio de Janeiro,Pavlova,Confections
+2018,2,2018-02-04,1562.5,25,Brazil,Rio de Janeiro,Carnarvon Tigers,Seafood
+2018,2,2018-02-05,1620,20,Germany,Cunewalde,Sir Rodney's Marmalade,Confections
+2018,2,2018-02-05,220.7999954,12,Finland,Helsinki,Boston Crab Meat,Seafood
+2018,2,2018-02-05,210.4999924,10,Finland,Helsinki,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,2,2018-02-05,180,10,Finland,Helsinki,LakkalikÃ¶Ã¶ri,Beverages
+2018,2,2018-02-05,270,30,Sweden,Bräcke,TunnbrÃ¶d,Grains/Cereals
+2018,2,2018-02-05,855,30,Sweden,Bräcke,Sirop d'Ã©rable,Condiments
+2018,2,2018-02-05,750,50,Sweden,Bräcke,Outback Lager,Beverages
+2018,2,2018-02-06,150,10,Argentina,Buenos Aires,RÃ¶d Kaviar,Seafood
+2018,2,2018-02-06,350,25,USA,Boise,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,2,2018-02-06,400,20,USA,Boise,Maxilaku,Confections
+2018,2,2018-02-06,238.3999939,32,USA,Boise,TourtiÃ¨re,Meat/Poultry
+2018,2,2018-02-07,36,8,USA,Portland,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,2,2018-02-07,400,40,USA,San Francisco,Sir Rodney's Scones,Confections
+2018,2,2018-02-07,798,21,USA,San Francisco,Gnocchi di nonna Alice,Grains/Cereals
+2018,2,2018-02-07,252.5999908,12,USA,San Francisco,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,2,2018-02-07,380,20,Belgium,Charleroi,Chang,Beverages
+2018,2,2018-02-07,54,12,Belgium,Charleroi,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,2,2018-02-07,450,30,Belgium,Charleroi,Outback Lager,Beverages
+2018,2,2018-02-07,325,25,Belgium,Charleroi,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,2,2018-02-08,2170,70,Brazil,Rio de Janeiro,Ikura,Seafood
+2018,2,2018-02-08,437.5,35,Brazil,Rio de Janeiro,Gorgonzola Telino,Dairy Products
+2018,2,2018-02-08,520,40,Brazil,Rio de Janeiro,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,2,2018-02-08,70,5,Spain,Barcelona,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,2,2018-02-11,380,20,Spain,Sevilla,Chang,Beverages
+2018,2,2018-02-11,225,18,Spain,Sevilla,Scottish Longbreads,Confections
+2018,2,2018-02-11,840,40,USA,Albuquerque,Queso Cabrales,Dairy Products
+2018,2,2018-02-11,10540,40,USA,Albuquerque,CÃ´te de Blaye,Beverages
+2018,2,2018-02-11,585,15,France,Nantes,Alice Mutton,Meat/Poultry
+2018,2,2018-02-11,140,10,France,Nantes,Sasquatch Ale,Beverages
+2018,2,2018-02-11,135.0999947,14,France,Nantes,Jack's New England Clam Chowder,Seafood
+2018,2,2018-02-12,388.3499908,15,Germany,Frankfurt a.M.,Nord-Ost Matjeshering,Seafood
+2018,2,2018-02-12,2200,40,Belgium,Bruxelles,Raclette Courdavault,Dairy Products
+2018,2,2018-02-13,1200,30,Germany,Brandenburg,Northwoods Cranberry Sauce,Condiments
+2018,2,2018-02-13,45,10,Germany,Brandenburg,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,2,2018-02-13,2970.960022,24,Germany,Brandenburg,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,2,2018-02-13,906.1499786,35,Germany,Brandenburg,Nord-Ost Matjeshering,Seafood
+2018,2,2018-02-13,380,20,Germany,Brandenburg,Inlagd Sill,Seafood
+2018,2,2018-02-13,168,28,USA,Boise,Konbu,Seafood
+2018,2,2018-02-13,1800,50,USA,Boise,Gudbrandsdalsost,Dairy Products
+2018,2,2018-02-13,930,120,USA,Boise,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,2,2018-02-13,495,110,Austria,Graz,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,2,2018-02-13,810,45,Austria,Graz,Chartreuse verte,Beverages
+2018,2,2018-02-13,1674.399965,91,Austria,Graz,Boston Crab Meat,Seafood
+2018,2,2018-02-13,3400,100,Austria,Graz,Camembert Pierrot,Dairy Products
+2018,2,2018-02-14,142.5,15,Belgium,Bruxelles,Rogede sild,Seafood
+2018,2,2018-02-14,608,16,Belgium,Bruxelles,Gnocchi di nonna Alice,Grains/Cereals
+2018,2,2018-02-14,9903.200073,80,Ireland,Cork,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,2,2018-02-14,932.039978,36,Ireland,Cork,Nord-Ost Matjeshering,Seafood
+2018,2,2018-02-15,30,5,Argentina,Buenos Aires,Konbu,Seafood
+2018,2,2018-02-15,144,8,Venezuela,Barquisimeto,Chartreuse verte,Beverages
+2018,2,2018-02-15,45,3,Brazil,Resende,Outback Lager,Beverages
+2018,2,2018-02-18,289.4999886,30,Venezuela,San Cristóbal,Jack's New England Clam Chowder,Seafood
+2018,2,2018-02-18,645,30,Venezuela,San Cristóbal,Flotemysost,Dairy Products
+2018,2,2018-02-18,720,30,Sweden,Bräcke,PÃ¢tÃ© chinois,Meat/Poultry
+2018,2,2018-02-18,295.7999954,6,Sweden,Bräcke,Tarte au sucre,Confections
+2018,2,2018-02-19,240,40,Brazil,Rio de Janeiro,Konbu,Seafood
+2018,2,2018-02-19,442.049984,21,Brazil,Rio de Janeiro,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,2,2018-02-19,250,20,Brazil,Rio de Janeiro,Scottish Longbreads,Confections
+2018,2,2018-02-19,198.75,15,USA,Seattle,Escargots de Bourgogne,Seafood
+2018,2,2018-02-19,1725.499973,35,USA,Seattle,Tarte au sucre,Confections
+2018,2,2018-02-19,360,20,Brazil,Resende,Chai,Beverages
+2018,2,2018-02-20,427.5,15,Poland,Warszawa,Sirop d'Ã©rable,Condiments
+2018,2,2018-02-20,108.5,14,France,Paris,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,2,2018-02-21,600,20,Italy,Reggio Emilia,Uncle Bob's Organic Dried Pears,Produce
+2018,2,2018-02-21,98,14,Italy,Reggio Emilia,Filo Mix,Grains/Cereals
+2018,2,2018-02-21,360,12,Norway,Stavern,Uncle Bob's Organic Dried Pears,Produce
+2018,2,2018-02-21,261.7500114,15,Norway,Stavern,Pavlova,Confections
+2018,2,2018-02-21,48.24999809,5,Norway,Stavern,Jack's New England Clam Chowder,Seafood
+2018,2,2018-02-21,110.3999977,12,Finland,Helsinki,Teatime Chocolate Biscuits,Confections
+2018,2,2018-02-21,200,10,Finland,Helsinki,Maxilaku,Confections
+2018,2,2018-02-21,142.5,5,Finland,Helsinki,Sirop d'Ã©rable,Condiments
+2018,2,2018-02-21,180,10,Spain,Sevilla,Chai,Beverages
+2018,2,2018-02-21,468,12,Spain,Sevilla,Alice Mutton,Meat/Poultry
+2018,2,2018-02-21,210,15,Spain,Sevilla,Laughing Lumberjack Lager,Beverages
+2018,2,2018-02-21,840,40,Ireland,Cork,Queso Cabrales,Dairy Products
+2018,2,2018-02-21,7427.400055,60,Ireland,Cork,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,2,2018-02-21,660,30,Brazil,Sao Paulo,Chef Anton's Cajun Seasoning,Condiments
+2018,2,2018-02-21,100,40,Brazil,Sao Paulo,Geitost,Dairy Products
+2018,2,2018-02-21,198.75,15,Brazil,Sao Paulo,Escargots de Bourgogne,Seafood
+2018,2,2018-02-22,537.5,25,Brazil,Sao Paulo,Flotemysost,Dairy Products
+2018,2,2018-02-22,390,10,Mexico,México D.F.,Alice Mutton,Meat/Poultry
+2018,2,2018-02-22,75,30,Mexico,México D.F.,Geitost,Dairy Products
+2018,2,2018-02-22,74.49999809,10,Mexico,México D.F.,TourtiÃ¨re,Meat/Poultry
+2018,2,2018-02-22,104.7000046,6,Argentina,Buenos Aires,Pavlova,Confections
+2018,2,2018-02-22,192,6,Argentina,Buenos Aires,Mascarpone Fabioli,Dairy Products
+2018,2,2018-02-22,390,20,Argentina,Buenos Aires,Ravioli Angelo,Grains/Cereals
+2018,2,2018-02-25,25.88999939,1,Spain,Madrid,Nord-Ost Matjeshering,Seafood
+2018,2,2018-02-25,340,10,Spain,Madrid,Camembert Pierrot,Dairy Products
+2018,2,2018-02-25,1080,60,Canada,Tsawassen,Chai,Beverages
+2018,2,2018-02-25,850,25,Canada,Tsawassen,Camembert Pierrot,Dairy Products
+2018,2,2018-02-25,418.8000183,24,Venezuela,I. de Margarita,Pavlova,Confections
+2018,2,2018-02-25,336,24,Venezuela,I. de Margarita,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,2,2018-02-25,367.9999924,20,Venezuela,I. de Margarita,Boston Crab Meat,Seafood
+2018,2,2018-02-26,390,24,UK,London,Valkoinen suklaa,Confections
+2018,2,2018-02-26,180,10,Denmark,Århus,Steeleye Stout,Beverages
+2018,2,2018-02-26,1756.000061,40,Denmark,Århus,Vegie-spread,Condiments
+2018,2,2018-02-26,585,15,Brazil,Rio de Janeiro,Alice Mutton,Meat/Poultry
+2018,2,2018-02-26,157.5,35,Brazil,Rio de Janeiro,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,2,2018-02-26,140,10,France,Toulouse,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,2,2018-02-26,460,10,France,Toulouse,Ipoh Coffee,Beverages
+2018,2,2018-02-26,336,24,France,Toulouse,Laughing Lumberjack Lager,Beverages
+2018,2,2018-02-27,620,20,Sweden,Luleå,Ikura,Seafood
+2018,2,2018-02-27,1367.999954,30,Sweden,Luleå,RÃ¶ssle Sauerkraut,Produce
+2018,2,2018-02-27,46.5,6,Sweden,Luleå,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,2,2018-02-27,475,25,Brazil,Rio de Janeiro,Inlagd Sill,Seafood
+2018,2,2018-02-27,84,12,Brazil,Rio de Janeiro,Filo Mix,Grains/Cereals
+2018,2,2018-02-27,42,2,Mexico,México D.F.,Queso Cabrales,Dairy Products
+2018,2,2018-02-27,60,10,Mexico,México D.F.,Konbu,Seafood
+2018,2,2018-02-27,64.39999866,7,Mexico,México D.F.,Teatime Chocolate Biscuits,Confections
+2018,2,2018-02-27,347.9999924,10,Mexico,México D.F.,Mozzarella di Giovanni,Dairy Products
+2018,2,2018-02-28,405,5,France,Versailles,Sir Rodney's Marmalade,Confections
+2018,2,2018-02-28,35,5,France,Versailles,Filo Mix,Grains/Cereals
+2018,2,2018-02-28,360,20,France,Versailles,LakkalikÃ¶Ã¶ri,Beverages
+2018,2,2018-02-28,47.5,5,Spain,Barcelona,Zaanse koeken,Confections
+2018,2,2018-02-28,90,5,Spain,Barcelona,LakkalikÃ¶Ã¶ri,Beverages
+2018,2,2018-02-28,600,60,Germany,München,Sir Rodney's Scones,Confections
+2018,2,2018-02-28,379.75,49,Germany,München,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,2,2018-02-28,195,15,Germany,München,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,3,2018-03-01,360,36,Belgium,Charleroi,Sir Rodney's Scones,Confections
+2018,3,2018-03-01,1097.500038,25,Belgium,Charleroi,Schoggi Schokolade,Confections
+2018,3,2018-03-01,600,25,Belgium,Charleroi,PÃ¢tÃ© chinois,Meat/Poultry
+2018,3,2018-03-01,397.5,30,Belgium,Charleroi,Escargots de Bourgogne,Seafood
+2018,3,2018-03-01,252,42,Switzerland,Genève,Konbu,Seafood
+2018,3,2018-03-01,585,30,Switzerland,Genève,Ravioli Angelo,Grains/Cereals
+2018,3,2018-03-01,523.5000229,30,France,Marseille,Pavlova,Confections
+2018,3,2018-03-01,690.1999893,14,France,Marseille,Tarte au sucre,Confections
+2018,3,2018-03-01,556.7999878,16,France,Marseille,Mozzarella di Giovanni,Dairy Products
+2018,3,2018-03-01,155,20,France,Marseille,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-01,65.59999847,2,UK,Cowes,Perth Pasties,Meat/Poultry
+2018,3,2018-03-01,855,30,UK,Cowes,Sirop d'Ã©rable,Condiments
+2018,3,2018-03-04,500,20,Germany,Frankfurt a.M.,Grandma's Boysenberry Spread,Condiments
+2018,3,2018-03-04,378,21,Brazil,Resende,Chai,Beverages
+2018,3,2018-03-04,250,4,Brazil,Resende,Carnarvon Tigers,Seafood
+2018,3,2018-03-04,72,8,Brazil,Resende,TunnbrÃ¶d,Grains/Cereals
+2018,3,2018-03-04,570,30,USA,Eugene,Inlagd Sill,Seafood
+2018,3,2018-03-05,364.7999878,8,Argentina,Buenos Aires,RÃ¶ssle Sauerkraut,Produce
+2018,3,2018-03-05,280,20,Argentina,Buenos Aires,Sasquatch Ale,Beverages
+2018,3,2018-03-05,120,20,Germany,Cunewalde,Konbu,Seafood
+2018,3,2018-03-05,1104,24,Germany,Cunewalde,Ipoh Coffee,Beverages
+2018,3,2018-03-05,1666,49,Germany,Cunewalde,Camembert Pierrot,Dairy Products
+2018,3,2018-03-05,752.5,35,Germany,Cunewalde,Flotemysost,Dairy Products
+2018,3,2018-03-05,190,10,Italy,Bergamo,Chang,Beverages
+2018,3,2018-03-05,560,40,Italy,Bergamo,Laughing Lumberjack Lager,Beverages
+2018,3,2018-03-06,240,8,France,Marseille,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-06,120,20,France,Marseille,Konbu,Seafood
+2018,3,2018-03-06,550,44,USA,Boise,Gorgonzola Telino,Dairy Products
+2018,3,2018-03-06,1478.999977,30,USA,Boise,Tarte au sucre,Confections
+2018,3,2018-03-06,1000,80,USA,Boise,Scottish Longbreads,Confections
+2018,3,2018-03-06,1739.999962,50,USA,Boise,Mozzarella di Giovanni,Dairy Products
+2018,3,2018-03-06,560,28,Italy,Reggio Emilia,Maxilaku,Confections
+2018,3,2018-03-06,90,15,UK,London,Konbu,Seafood
+2018,3,2018-03-06,441,21,UK,London,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2018,3,2018-03-06,180,15,UK,London,Spegesild,Seafood
+2018,3,2018-03-07,105,5,Canada,Tsawassen,Queso Cabrales,Dairy Products
+2018,3,2018-03-07,350.1000137,18,Canada,Tsawassen,Gula Malacca,Condiments
+2018,3,2018-03-07,684,18,Canada,Tsawassen,Gnocchi di nonna Alice,Grains/Cereals
+2018,3,2018-03-07,120,20,Germany,Leipzig,Konbu,Seafood
+2018,3,2018-03-07,125,10,Germany,Leipzig,Gorgonzola Telino,Dairy Products
+2018,3,2018-03-07,775,25,Denmark,Århus,Ikura,Seafood
+2018,3,2018-03-07,112.5,25,Denmark,Århus,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-07,520,40,Denmark,Århus,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,3,2018-03-08,220,4,UK,London,Raclette Courdavault,Dairy Products
+2018,3,2018-03-08,146.25,9,Spain,Sevilla,Valkoinen suklaa,Confections
+2018,3,2018-03-08,2120,40,Spain,Sevilla,Manjimup Dried Apples,Produce
+2018,3,2018-03-08,96,4,Spain,Sevilla,PÃ¢tÃ© chinois,Meat/Poultry
+2018,3,2018-03-08,300,12,Canada,Tsawassen,Grandma's Boysenberry Spread,Condiments
+2018,3,2018-03-08,930,30,Canada,Tsawassen,Ikura,Seafood
+2018,3,2018-03-08,234,6,Canada,Tsawassen,Alice Mutton,Meat/Poultry
+2018,3,2018-03-08,2957.999954,60,Canada,Tsawassen,Tarte au sucre,Confections
+2018,3,2018-03-11,110,5,Italy,Bergamo,Chef Anton's Cajun Seasoning,Condiments
+2018,3,2018-03-11,37.5,15,Switzerland,Genève,Geitost,Dairy Products
+2018,3,2018-03-11,57.89999771,6,Switzerland,Genève,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-11,387.5,50,Switzerland,Genève,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-11,400,16,Germany,Berlin,Grandma's Boysenberry Spread,Condiments
+2018,3,2018-03-11,91.19999695,2,Germany,Berlin,RÃ¶ssle Sauerkraut,Produce
+2018,3,2018-03-11,4050,50,UK,London,Sir Rodney's Marmalade,Confections
+2018,3,2018-03-11,625,50,UK,London,Gorgonzola Telino,Dairy Products
+2018,3,2018-03-12,488.6000214,28,Venezuela,I. de Margarita,Pavlova,Confections
+2018,3,2018-03-12,312.5,25,Venezuela,I. de Margarita,Gorgonzola Telino,Dairy Products
+2018,3,2018-03-12,285,30,Venezuela,I. de Margarita,Rogede sild,Seafood
+2018,3,2018-03-12,816,24,Venezuela,I. de Margarita,Camembert Pierrot,Dairy Products
+2018,3,2018-03-12,93,12,Sweden,Bräcke,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-12,120,12,Germany,Mannheim,Sir Rodney's Scones,Confections
+2018,3,2018-03-12,133,14,Germany,Mannheim,Zaanse koeken,Confections
+2018,3,2018-03-12,424,8,Germany,Mannheim,Manjimup Dried Apples,Produce
+2018,3,2018-03-13,776.6999817,30,Venezuela,San Cristóbal,Nord-Ost Matjeshering,Seafood
+2018,3,2018-03-13,720,40,Venezuela,San Cristóbal,Steeleye Stout,Beverages
+2018,3,2018-03-13,266,8,Venezuela,San Cristóbal,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,3,2018-03-13,427.0000076,20,Argentina,Buenos Aires,Chef Anton's Gumbo Mix,Condiments
+2018,3,2018-03-13,180,6,Argentina,Buenos Aires,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-13,173.9999962,5,Argentina,Buenos Aires,Mozzarella di Giovanni,Dairy Products
+2018,3,2018-03-13,155,20,Brazil,Campinas,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-14,45,10,Venezuela,San Cristóbal,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-14,231.5999908,24,Venezuela,San Cristóbal,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-14,42,6,Brazil,Sao Paulo,Filo Mix,Grains/Cereals
+2018,3,2018-03-14,1080,60,Brazil,Sao Paulo,LakkalikÃ¶Ã¶ri,Beverages
+2018,3,2018-03-14,1350,45,Germany,Cunewalde,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-14,462,77,Germany,Cunewalde,Konbu,Seafood
+2018,3,2018-03-14,655.9999847,20,Germany,Cunewalde,Perth Pasties,Meat/Poultry
+2018,3,2018-03-14,324,9,Germany,Cunewalde,Gudbrandsdalsost,Dairy Products
+2018,3,2018-03-14,792,44,Germany,Cunewalde,LakkalikÃ¶Ã¶ri,Beverages
+2018,3,2018-03-14,68,2,Portugal,Lisboa,Camembert Pierrot,Dairy Products
+2018,3,2018-03-15,375,6,France,Paris,Carnarvon Tigers,Seafood
+2018,3,2018-03-15,1317.5,5,France,Paris,CÃ´te de Blaye,Beverages
+2018,3,2018-03-15,360,10,France,Paris,Gudbrandsdalsost,Dairy Products
+2018,3,2018-03-15,848,16,USA,Anchorage,Manjimup Dried Apples,Produce
+2018,3,2018-03-15,208,8,Switzerland,Bern,Gravad lax,Seafood
+2018,3,2018-03-15,456,12,Switzerland,Bern,Gnocchi di nonna Alice,Grains/Cereals
+2018,3,2018-03-15,591.5999908,12,Switzerland,Bern,Tarte au sucre,Confections
+2018,3,2018-03-18,110.3999977,12,Germany,Münster,Teatime Chocolate Biscuits,Confections
+2018,3,2018-03-18,800,40,Germany,Münster,Maxilaku,Confections
+2018,3,2018-03-18,1140,30,Austria,Graz,Queso Manchego La Pastora,Dairy Products
+2018,3,2018-03-18,135,30,Austria,Graz,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-18,133,4,Austria,Graz,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,3,2018-03-18,108,9,Brazil,Sao Paulo,Spegesild,Seafood
+2018,3,2018-03-19,280,40,Spain,Madrid,Filo Mix,Grains/Cereals
+2018,3,2018-03-19,1733.060013,14,France,Nantes,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,3,2018-03-19,234,6,France,Versailles,Alice Mutton,Meat/Poultry
+2018,3,2018-03-19,17.5,7,France,Versailles,Geitost,Dairy Products
+2018,3,2018-03-19,156.1499977,5,France,Versailles,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,3,2018-03-19,57.89999771,6,France,Versailles,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-19,77.5,10,France,Versailles,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-20,439.0000153,10,USA,Lander,Vegie-spread,Condiments
+2018,3,2018-03-20,640,16,Canada,Tsawassen,Northwoods Cranberry Sauce,Condiments
+2018,3,2018-03-20,77.5,10,Canada,Tsawassen,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-20,911.9999695,20,Venezuela,San Cristóbal,RÃ¶ssle Sauerkraut,Produce
+2018,3,2018-03-21,540,30,Sweden,Bräcke,Chartreuse verte,Beverages
+2018,3,2018-03-21,285,30,Sweden,Bräcke,Zaanse koeken,Confections
+2018,3,2018-03-21,530,10,Sweden,Bräcke,Manjimup Dried Apples,Produce
+2018,3,2018-03-21,878.0000305,20,Sweden,Bräcke,Vegie-spread,Condiments
+2018,3,2018-03-21,800,20,Belgium,Bruxelles,Northwoods Cranberry Sauce,Condiments
+2018,3,2018-03-21,400,40,Belgium,Bruxelles,Sir Rodney's Scones,Confections
+2018,3,2018-03-21,183.9999962,10,Belgium,Bruxelles,Boston Crab Meat,Seafood
+2018,3,2018-03-21,116.7000046,6,Belgium,Bruxelles,Gula Malacca,Condiments
+2018,3,2018-03-21,540,18,Austria,Graz,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-21,760,20,Austria,Graz,Queso Manchego La Pastora,Dairy Products
+2018,3,2018-03-21,360,80,Austria,Graz,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-21,1317.000046,30,Austria,Graz,Schoggi Schokolade,Confections
+2018,3,2018-03-21,300,24,Austria,Graz,Gorgonzola Telino,Dairy Products
+2018,3,2018-03-21,1536.500053,35,Austria,Graz,Vegie-spread,Condiments
+2018,3,2018-03-22,310,40,Sweden,Bräcke,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-22,15810,60,Brazil,Rio de Janeiro,CÃ´te de Blaye,Beverages
+2018,3,2018-03-22,600,20,Canada,Tsawassen,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-22,414,9,Canada,Tsawassen,Ipoh Coffee,Beverages
+2018,3,2018-03-22,504,84,USA,Boise,Konbu,Seafood
+2018,3,2018-03-22,292.5,15,USA,Boise,Ravioli Angelo,Grains/Cereals
+2018,3,2018-03-25,959.750042,55,USA,Boise,Pavlova,Confections
+2018,3,2018-03-25,90,20,USA,Boise,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-25,760,40,USA,Boise,Inlagd Sill,Seafood
+2018,3,2018-03-25,628.2000275,36,Ireland,Cork,Pavlova,Confections
+2018,3,2018-03-25,500,8,Ireland,Cork,Carnarvon Tigers,Seafood
+2018,3,2018-03-25,1120,35,Ireland,Cork,Mascarpone Fabioli,Dairy Products
+2018,3,2018-03-25,630,30,Argentina,Buenos Aires,Queso Cabrales,Dairy Products
+2018,3,2018-03-25,1215,15,Argentina,Buenos Aires,Sir Rodney's Marmalade,Confections
+2018,3,2018-03-25,180,10,Argentina,Buenos Aires,LakkalikÃ¶Ã¶ri,Beverages
+2018,3,2018-03-25,195,15,Argentina,Buenos Aires,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,3,2018-03-26,1800,60,UK,London,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-26,276,6,UK,London,Ipoh Coffee,Beverages
+2018,3,2018-03-26,695.9999847,20,UK,London,Mozzarella di Giovanni,Dairy Products
+2018,3,2018-03-26,1800,60,USA,Albuquerque,Uncle Bob's Organic Dried Pears,Produce
+2018,3,2018-03-26,1971.999969,40,USA,Albuquerque,Tarte au sucre,Confections
+2018,3,2018-03-26,1000,40,Brazil,Rio de Janeiro,Grandma's Boysenberry Spread,Condiments
+2018,3,2018-03-26,315,15,Brazil,Rio de Janeiro,Queso Cabrales,Dairy Products
+2018,3,2018-03-26,38.59999847,4,Brazil,Rio de Janeiro,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-27,650,65,Austria,Graz,Sir Rodney's Scones,Confections
+2018,3,2018-03-27,840,60,Austria,Graz,Sasquatch Ale,Beverages
+2018,3,2018-03-27,1560,65,Austria,Graz,PÃ¢tÃ© chinois,Meat/Poultry
+2018,3,2018-03-27,1881,66,Austria,Graz,Sirop d'Ã©rable,Condiments
+2018,3,2018-03-27,950,50,Germany,Cunewalde,Chang,Beverages
+2018,3,2018-03-27,300,20,Germany,Cunewalde,Outback Lager,Beverages
+2018,3,2018-03-27,1620,90,Germany,Cunewalde,LakkalikÃ¶Ã¶ri,Beverages
+2018,3,2018-03-27,69.59999847,2,USA,Portland,Mozzarella di Giovanni,Dairy Products
+2018,3,2018-03-27,6189.500046,50,Sweden,Bräcke,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,3,2018-03-27,337.7499866,35,Sweden,Bräcke,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-28,990,18,Denmark,Århus,Raclette Courdavault,Dairy Products
+2018,3,2018-03-28,1060,20,Mexico,México D.F.,Manjimup Dried Apples,Produce
+2018,3,2018-03-28,136,4,Mexico,México D.F.,Camembert Pierrot,Dairy Products
+2018,3,2018-03-28,560,40,Germany,Cunewalde,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,3,2018-03-29,1600,50,Venezuela,Barquisimeto,Mascarpone Fabioli,Dairy Products
+2018,3,2018-03-29,240,20,Venezuela,Barquisimeto,Spegesild,Seafood
+2018,3,2018-03-29,140,20,Venezuela,Barquisimeto,Filo Mix,Grains/Cereals
+2018,3,2018-03-29,54,12,Poland,Warszawa,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,3,2018-03-29,199.5,7,Poland,Warszawa,Sirop d'Ã©rable,Condiments
+2018,3,2018-03-29,200,20,Poland,Warszawa,Longlife Tofu,Produce
+2018,3,2018-03-29,232.5,30,Poland,Warszawa,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,3,2018-03-29,192.9999924,20,Germany,Köln,Jack's New England Clam Chowder,Seafood
+2018,3,2018-03-29,795,15,Germany,Köln,Manjimup Dried Apples,Produce
+2018,3,2018-03-29,273,21,Germany,Köln,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,4,2018-04-01,550,25,USA,Albuquerque,Chef Anton's Cajun Seasoning,Condiments
+2018,4,2018-04-01,135,30,USA,Albuquerque,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-01,390,30,USA,Albuquerque,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,4,2018-04-01,1800,60,Sweden,Bräcke,Uncle Bob's Organic Dried Pears,Produce
+2018,4,2018-04-01,525,25,Sweden,Bräcke,Gustaf's KnÃ¤ckebrÃ¶d,Grains/Cereals
+2018,4,2018-04-01,300,25,Sweden,Bräcke,Spegesild,Seafood
+2018,4,2018-04-01,144,6,Sweden,Bräcke,PÃ¢tÃ© chinois,Meat/Poultry
+2018,4,2018-04-01,336,56,USA,Boise,Konbu,Seafood
+2018,4,2018-04-01,270,15,USA,Boise,Steeleye Stout,Beverages
+2018,4,2018-04-01,336,24,USA,Boise,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,4,2018-04-01,960,40,USA,Boise,PÃ¢tÃ© chinois,Meat/Poultry
+2018,4,2018-04-01,72,4,USA,Butte,Chai,Beverages
+2018,4,2018-04-01,183.9999962,10,USA,Butte,Boston Crab Meat,Seafood
+2018,4,2018-04-01,70,10,USA,Butte,Filo Mix,Grains/Cereals
+2018,4,2018-04-02,187.3799973,6,Belgium,Bruxelles,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,4,2018-04-02,108,6,Belgium,Bruxelles,LakkalikÃ¶Ã¶ri,Beverages
+2018,4,2018-04-02,36,2,Finland,Helsinki,Chai,Beverages
+2018,4,2018-04-02,550,10,Finland,Helsinki,Raclette Courdavault,Dairy Products
+2018,4,2018-04-02,144,8,USA,Eugene,Chai,Beverages
+2018,4,2018-04-02,247.5800018,2,USA,Eugene,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,4,2018-04-03,1200,30,Portugal,Lisboa,Northwoods Cranberry Sauce,Condiments
+2018,4,2018-04-03,1237.900009,10,Portugal,Lisboa,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,4,2018-04-03,196,14,Portugal,Lisboa,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,4,2018-04-03,3191.999893,70,Austria,Graz,RÃ¶ssle Sauerkraut,Produce
+2018,4,2018-04-03,1260,90,Austria,Graz,Sasquatch Ale,Beverages
+2018,4,2018-04-03,451.5,21,Austria,Graz,Flotemysost,Dairy Products
+2018,4,2018-04-03,54,12,Spain,Sevilla,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-03,342,18,Spain,Sevilla,Inlagd Sill,Seafood
+2018,4,2018-04-03,306,9,Spain,Sevilla,Camembert Pierrot,Dairy Products
+2018,4,2018-04-04,600,20,Italy,Reggio Emilia,Uncle Bob's Organic Dried Pears,Produce
+2018,4,2018-04-04,45,10,Italy,Reggio Emilia,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-04,530,40,Germany,Berlin,Escargots de Bourgogne,Seafood
+2018,4,2018-04-04,430,20,Germany,Berlin,Flotemysost,Dairy Products
+2018,4,2018-04-04,459.9999905,50,Germany,München,Teatime Chocolate Biscuits,Confections
+2018,4,2018-04-04,1224,36,Germany,München,Camembert Pierrot,Dairy Products
+2018,4,2018-04-04,1290,60,Germany,München,Flotemysost,Dairy Products
+2018,4,2018-04-04,90,10,Spain,Madrid,TunnbrÃ¶d,Grains/Cereals
+2018,4,2018-04-04,56,4,Spain,Madrid,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,4,2018-04-04,190,20,Spain,Madrid,Rogede sild,Seafood
+2018,4,2018-04-04,25,2,Spain,Madrid,Scottish Longbreads,Confections
+2018,4,2018-04-05,270.1999893,28,Venezuela,I. de Margarita,Jack's New England Clam Chowder,Seafood
+2018,4,2018-04-05,388.3499908,15,Norway,Stavern,Nord-Ost Matjeshering,Seafood
+2018,4,2018-04-05,234,18,Norway,Stavern,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,4,2018-04-05,187.5,15,UK,London,Gorgonzola Telino,Dairy Products
+2018,4,2018-04-05,304,16,UK,London,Inlagd Sill,Seafood
+2018,4,2018-04-08,250,25,Austria,Graz,Aniseed Syrup,Condiments
+2018,4,2018-04-08,6050,110,Austria,Graz,Raclette Courdavault,Dairy Products
+2018,4,2018-04-08,450,30,Austria,Graz,Outback Lager,Beverages
+2018,4,2018-04-08,760,20,USA,Portland,Queso Manchego La Pastora,Dairy Products
+2018,4,2018-04-08,625,10,USA,Portland,Carnarvon Tigers,Seafood
+2018,4,2018-04-08,190,5,USA,Portland,Gnocchi di nonna Alice,Grains/Cereals
+2018,4,2018-04-08,36,3,Argentina,Buenos Aires,Spegesild,Seafood
+2018,4,2018-04-08,40,2,Argentina,Buenos Aires,Maxilaku,Confections
+2018,4,2018-04-09,744,24,Germany,Köln,Ikura,Seafood
+2018,4,2018-04-09,209,11,Germany,Cunewalde,Chang,Beverages
+2018,4,2018-04-09,1215,15,Germany,Cunewalde,Sir Rodney's Marmalade,Confections
+2018,4,2018-04-09,1967.489971,63,Germany,Cunewalde,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,4,2018-04-09,2332,44,Germany,Cunewalde,Manjimup Dried Apples,Produce
+2018,4,2018-04-09,1217.999973,35,Germany,Cunewalde,Mozzarella di Giovanni,Dairy Products
+2018,4,2018-04-09,321.9999933,35,Brazil,Rio de Janeiro,Teatime Chocolate Biscuits,Confections
+2018,4,2018-04-09,1080,30,Brazil,Rio de Janeiro,Gudbrandsdalsost,Dairy Products
+2018,4,2018-04-09,120,4,UK,London,Uncle Bob's Organic Dried Pears,Produce
+2018,4,2018-04-09,1380,30,UK,London,Ipoh Coffee,Beverages
+2018,4,2018-04-10,374.7599945,12,UK,London,GumbÃ¤r GummibÃ¤rchen,Confections
+2018,4,2018-04-10,75,30,UK,London,Geitost,Dairy Products
+2018,4,2018-04-10,442.049984,21,UK,London,Louisiana Fiery Hot Pepper Sauce,Condiments
+2018,4,2018-04-10,1075,50,UK,London,Flotemysost,Dairy Products
+2018,4,2018-04-10,180,10,Finland,Oulu,Chai,Beverages
+2018,4,2018-04-10,120,20,Finland,Oulu,Konbu,Seafood
+2018,4,2018-04-10,500,8,Italy,Torino,Carnarvon Tigers,Seafood
+2018,4,2018-04-10,530,10,Italy,Torino,Manjimup Dried Apples,Produce
+2018,4,2018-04-11,135,30,Canada,Tsawassen,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-11,1035.299984,21,Canada,Tsawassen,Tarte au sucre,Confections
+2018,4,2018-04-11,840,35,Germany,Brandenburg,PÃ¢tÃ© chinois,Meat/Poultry
+2018,4,2018-04-11,1320,24,Germany,Brandenburg,Raclette Courdavault,Dairy Products
+2018,4,2018-04-11,760,20,Switzerland,Bern,Gnocchi di nonna Alice,Grains/Cereals
+2018,4,2018-04-11,526.8000183,12,Switzerland,Bern,Vegie-spread,Condiments
+2018,4,2018-04-12,1900,100,USA,Boise,Chang,Beverages
+2018,4,2018-04-12,1494.500027,70,USA,Boise,Chef Anton's Gumbo Mix,Condiments
+2018,4,2018-04-12,7427.400055,60,USA,Boise,ThÃ¼ringer Rostbratwurst,Meat/Poultry
+2018,4,2018-04-12,5500,100,USA,Boise,Raclette Courdavault,Dairy Products
+2018,4,2018-04-12,810,45,USA,Boise,Chai,Beverages
+2018,4,2018-04-12,480,80,USA,Boise,Konbu,Seafood
+2018,4,2018-04-12,94.5,21,USA,Boise,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-12,665,20,USA,Boise,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,4,2018-04-12,344,16,USA,Boise,Flotemysost,Dairy Products
+2018,4,2018-04-12,665,35,USA,Seattle,Inlagd Sill,Seafood
+2018,4,2018-04-12,6587.5,25,USA,Seattle,CÃ´te de Blaye,Beverages
+2018,4,2018-04-12,1650,30,USA,Seattle,Raclette Courdavault,Dairy Products
+2018,4,2018-04-12,2295.999947,70,Switzerland,Genève,Perth Pasties,Meat/Poultry
+2018,4,2018-04-12,1296,36,Switzerland,Genève,Gudbrandsdalsost,Dairy Products
+2018,4,2018-04-15,150,15,USA,Anchorage,Sir Rodney's Scones,Confections
+2018,4,2018-04-15,233.4000092,12,USA,Anchorage,Gula Malacca,Condiments
+2018,4,2018-04-15,171,6,USA,Anchorage,Sirop d'Ã©rable,Condiments
+2018,4,2018-04-15,180,10,Belgium,Charleroi,Chai,Beverages
+2018,4,2018-04-15,1080,60,Belgium,Charleroi,Steeleye Stout,Beverages
+2018,4,2018-04-15,420,30,Belgium,Charleroi,Singaporean Hokkien Fried Mee,Grains/Cereals
+2018,4,2018-04-15,74.49999809,10,Belgium,Charleroi,TourtiÃ¨re,Meat/Poultry
+2018,4,2018-04-15,42,7,Germany,Aachen,Konbu,Seafood
+2018,4,2018-04-15,1650,30,Germany,Aachen,Raclette Courdavault,Dairy Products
+2018,4,2018-04-16,60,4,Spain,Sevilla,Outback Lager,Beverages
+2018,4,2018-04-16,91.99999809,5,Belgium,Charleroi,Boston Crab Meat,Seafood
+2018,4,2018-04-16,14,2,Belgium,Charleroi,Filo Mix,Grains/Cereals
+2018,4,2018-04-16,645,30,Belgium,Charleroi,Flotemysost,Dairy Products
+2018,4,2018-04-16,911.9999695,20,Venezuela,I. de Margarita,RÃ¶ssle Sauerkraut,Produce
+2018,4,2018-04-16,432,24,Venezuela,I. de Margarita,Steeleye Stout,Beverages
+2018,4,2018-04-16,1200,60,Venezuela,I. de Margarita,Maxilaku,Confections
+2018,4,2018-04-16,546,28,Venezuela,I. de Margarita,Ravioli Angelo,Grains/Cereals
+2018,4,2018-04-17,200,20,USA,Eugene,Sir Rodney's Scones,Confections
+2018,4,2018-04-17,570,30,Switzerland,Bern,Chang,Beverages
+2018,4,2018-04-17,1317.000046,30,Switzerland,Bern,Vegie-spread,Condiments
+2018,4,2018-04-17,291.7500114,15,Brazil,Sao Paulo,Gula Malacca,Condiments
+2018,4,2018-04-17,114,4,Brazil,Sao Paulo,Sirop d'Ã©rable,Condiments
+2018,4,2018-04-17,210,10,France,Paris,Queso Cabrales,Dairy Products
+2018,4,2018-04-18,591.5999908,12,Poland,Warszawa,Tarte au sucre,Confections
+2018,4,2018-04-18,37.5,15,Canada,Tsawassen,Geitost,Dairy Products
+2018,4,2018-04-18,1272,24,Canada,Tsawassen,Manjimup Dried Apples,Produce
+2018,4,2018-04-18,760,20,Germany,Stuttgart,Queso Manchego La Pastora,Dairy Products
+2018,4,2018-04-18,480,15,Germany,Stuttgart,Mascarpone Fabioli,Dairy Products
+2018,4,2018-04-18,324,18,Germany,Stuttgart,Steeleye Stout,Beverages
+2018,4,2018-04-19,450,25,UK,London,Chai,Beverages
+2018,4,2018-04-19,640.5000114,30,UK,London,Chef Anton's Gumbo Mix,Condiments
+2018,4,2018-04-19,525,42,Canada,Tsawassen,Scottish Longbreads,Confections
+2018,4,2018-04-19,190,10,Brazil,Campinas,Chang,Beverages
+2018,4,2018-04-19,152,4,Brazil,Campinas,Queso Manchego La Pastora,Dairy Products
+2018,4,2018-04-22,900,50,Sweden,Bräcke,LakkalikÃ¶Ã¶ri,Beverages
+2018,4,2018-04-22,45,10,France,Toulouse,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-22,1380,30,Brazil,Rio de Janeiro,Ipoh Coffee,Beverages
+2018,4,2018-04-22,285,10,Brazil,Rio de Janeiro,Sirop d'Ã©rable,Condiments
+2018,4,2018-04-22,2187.5,35,Austria,Salzburg,Carnarvon Tigers,Seafood
+2018,4,2018-04-22,640,20,Austria,Salzburg,Mascarpone Fabioli,Dairy Products
+2018,4,2018-04-22,831.25,25,Austria,Salzburg,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,4,2018-04-23,25,10,Argentina,Buenos Aires,Geitost,Dairy Products
+2018,4,2018-04-23,280,20,Argentina,Buenos Aires,Laughing Lumberjack Lager,Beverages
+2018,4,2018-04-23,67.5,15,Venezuela,San Cristóbal,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,4,2018-04-23,210,15,Venezuela,San Cristóbal,NuNuCa NuÃ-Nougat-Creme,Confections
+2018,4,2018-04-23,1060,20,Venezuela,San Cristóbal,Manjimup Dried Apples,Produce
+2018,4,2018-04-23,390,20,Venezuela,San Cristóbal,Ravioli Angelo,Grains/Cereals
+2018,4,2018-04-23,1200,40,UK,London,Uncle Bob's Organic Dried Pears,Produce
+2018,4,2018-04-23,840,35,UK,London,PÃ¢tÃ© chinois,Meat/Poultry
+2018,4,2018-04-23,1700,50,UK,London,Camembert Pierrot,Dairy Products
+2018,4,2018-04-24,45,3,UK,London,Outback Lager,Beverages
+2018,4,2018-04-24,30,3,Germany,Mannheim,Sir Rodney's Scones,Confections
+2018,4,2018-04-24,714,21,Germany,Mannheim,Camembert Pierrot,Dairy Products
+2018,4,2018-04-24,114,4,Germany,Mannheim,Sirop d'Ã©rable,Condiments
+2018,4,2018-04-24,180,30,Brazil,Rio de Janeiro,Konbu,Seafood
+2018,4,2018-04-24,468,12,Brazil,Rio de Janeiro,Alice Mutton,Meat/Poultry
+2018,4,2018-04-24,1190,35,Brazil,Rio de Janeiro,Camembert Pierrot,Dairy Products
+2018,4,2018-04-25,136,4,Italy,Torino,Camembert Pierrot,Dairy Products
+2018,4,2018-04-25,130,10,Italy,Torino,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,4,2018-04-25,510,15,USA,Eugene,Camembert Pierrot,Dairy Products
+2018,4,2018-04-25,327.9999924,10,Italy,Reggio Emilia,Perth Pasties,Meat/Poultry
+2018,4,2018-04-25,180,12,Italy,Reggio Emilia,Outback Lager,Beverages
+2018,4,2018-04-25,420,30,Ireland,Cork,Sasquatch Ale,Beverages
+2018,4,2018-04-25,735.9999847,40,Ireland,Cork,Boston Crab Meat,Seafood
+2018,4,2018-04-25,289.4999886,30,Ireland,Cork,Jack's New England Clam Chowder,Seafood
+2018,4,2018-04-26,3003,77,USA,Boise,Alice Mutton,Meat/Poultry
+2018,4,2018-04-26,115.7999954,12,USA,Boise,Jack's New England Clam Chowder,Seafood
+2018,4,2018-04-26,819.9999809,25,USA,Boise,Perth Pasties,Meat/Poultry
+2018,4,2018-04-26,96,4,USA,Boise,PÃ¢tÃ© chinois,Meat/Poultry
+2018,4,2018-04-26,687.5,55,USA,Boise,Scottish Longbreads,Confections
+2018,4,2018-04-26,103.5599976,4,Venezuela,Barquisimeto,Nord-Ost Matjeshering,Seafood
+2018,4,2018-04-26,148.9999962,20,Venezuela,Barquisimeto,TourtiÃ¨re,Meat/Poultry
+2018,4,2018-04-26,52.35000229,3,USA,Seattle,Pavlova,Confections
+2018,4,2018-04-26,386.399992,42,USA,Seattle,Teatime Chocolate Biscuits,Confections
+2018,4,2018-04-26,490,35,USA,Seattle,Sasquatch Ale,Beverages
+2018,4,2018-04-29,86.84999657,9,Germany,Aachen,Jack's New England Clam Chowder,Seafood
+2018,4,2018-04-29,364.7999878,8,Brazil,Sao Paulo,RÃ¶ssle Sauerkraut,Produce
+2018,4,2018-04-29,1656,36,Brazil,Sao Paulo,Ipoh Coffee,Beverages
+2018,4,2018-04-29,364,28,Brazil,Sao Paulo,Original Frankfurter grÃ¼ne SoÃe,Condiments
+2018,4,2018-04-29,360,20,Mexico,México D.F.,Chartreuse verte,Beverages
+2018,4,2018-04-30,720,40,Germany,Frankfurt a.M.,Chai,Beverages
+2018,4,2018-04-30,380,20,Germany,Frankfurt a.M.,Chang,Beverages
+2018,4,2018-04-30,523.5000229,30,Germany,Frankfurt a.M.,Pavlova,Confections
+2018,4,2018-04-30,250,20,Germany,Frankfurt a.M.,Gorgonzola Telino,Dairy Products
+2018,4,2018-04-30,450,15,Venezuela,Barquisimeto,Uncle Bob's Organic Dried Pears,Produce
+2018,4,2018-04-30,60,10,Venezuela,Barquisimeto,Konbu,Seafood
+2018,4,2018-04-30,152,8,Austria,Graz,Chang,Beverages
+2018,4,2018-04-30,385.9999847,40,Austria,Graz,Jack's New England Clam Chowder,Seafood
+2018,4,2018-04-30,357.5,22,Austria,Graz,Valkoinen suklaa,Confections
+2018,4,2018-04-30,4322.5,130,Austria,Graz,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,4,2018-04-30,210,10,Mexico,México D.F.,Queso Cabrales,Dairy Products
+2018,4,2018-04-30,90,20,Mexico,México D.F.,GuaranÃ¡ FantÃ¡stica,Beverages
+2018,5,2018-05-01,244.3000107,14,Denmark,Kobenhavn,Pavlova,Confections
+2018,5,2018-05-01,190,10,Switzerland,Genève,Chang,Beverages
+2018,5,2018-05-01,360,30,Switzerland,Genève,Spegesild,Seafood
+2018,5,2018-05-01,36,2,Switzerland,Genève,LakkalikÃ¶Ã¶ri,Beverages
+2018,5,2018-05-01,500,20,France,Marseille,Grandma's Boysenberry Spread,Condiments
+2018,5,2018-05-01,465,20,France,Marseille,Tofu,Produce
+2018,5,2018-05-01,91.99999809,10,France,Marseille,Teatime Chocolate Biscuits,Confections
+2018,5,2018-05-01,456,24,USA,Albuquerque,Chang,Beverages
+2018,5,2018-05-01,40,4,USA,Albuquerque,Aniseed Syrup,Condiments
+2018,5,2018-05-01,22,1,USA,Albuquerque,Chef Anton's Cajun Seasoning,Condiments
+2018,5,2018-05-01,25,1,USA,Albuquerque,Grandma's Boysenberry Spread,Condiments
+2018,5,2018-05-01,30,1,USA,Albuquerque,Uncle Bob's Organic Dried Pears,Produce
+2018,5,2018-05-01,80,2,USA,Albuquerque,Northwoods Cranberry Sauce,Condiments
+2018,5,2018-05-01,31,1,USA,Albuquerque,Ikura,Seafood
+2018,5,2018-05-01,76,2,USA,Albuquerque,Queso Manchego La Pastora,Dairy Products
+2018,5,2018-05-01,24,4,USA,Albuquerque,Konbu,Seafood
+2018,5,2018-05-01,23.25,1,USA,Albuquerque,Tofu,Produce
+2018,5,2018-05-01,34.90000153,2,USA,Albuquerque,Pavlova,Confections
+2018,5,2018-05-01,81,1,USA,Albuquerque,Sir Rodney's Marmalade,Confections
+2018,5,2018-05-01,18,2,USA,Albuquerque,TunnbrÃ¶d,Grains/Cereals
+2018,5,2018-05-01,32,1,USA,Albuquerque,Mascarpone Fabioli,Dairy Products
+2018,5,2018-05-01,36,2,USA,Albuquerque,Chartreuse verte,Beverages
+2018,5,2018-05-01,28.94999886,3,USA,Albuquerque,Jack's New England Clam Chowder,Seafood
+2018,5,2018-05-01,36,3,USA,Albuquerque,Spegesild,Seafood
+2018,5,2018-05-01,14,2,USA,Albuquerque,Filo Mix,Grains/Cereals
+2018,5,2018-05-01,48,2,USA,Albuquerque,PÃ¢tÃ© chinois,Meat/Poultry
+2018,5,2018-05-01,68,2,USA,Albuquerque,Camembert Pierrot,Dairy Products
+2018,5,2018-05-01,66.5,2,USA,Albuquerque,Wimmers gute SemmelknÃ¶del,Grains/Cereals
+2018,5,2018-05-01,17,1,USA,Albuquerque,Louisiana Hot Spiced Okra,Condiments
+2018,5,2018-05-01,30,2,USA,Albuquerque,RÃ¶d Kaviar,Seafood
+2018,5,2018-05-01,31,4,USA,Albuquerque,RhÃ¶nbrÃ¤u Klosterbier,Beverages
+2018,5,2018-05-01,26,2,USA,Albuquerque,Original Frankfurter grÃ¼ne SoÃe,Condiments
